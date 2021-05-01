@@ -1,16 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="<%= I18n.locale %>">
   <head>
-    <title>Sparkles</title>
+    <meta charset="utf-8">
     <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>Sparkles</title>
+    <meta name="theme-color" content="#24292e">
     <%= csrf_meta_tags %>
     <%= csp_meta_tag %>
-
-    <%= stylesheet_link_tag 'application', media: 'all' %>
+    <%= stylesheet_pack_tag 'application', media: 'all' %>
     <%= javascript_pack_tag 'application' %>
   </head>
-
   <body>
-    <%= yield %>
+    <header class="Header flex-justify-between">
+      <div class="Header-item">
+        <%= link_to root_path, class: 'Header-link f4 d-flex flex-items-center' do %>
+          <%= render(Primer::OcticonComponent.new(icon: "mark-github", size: :medium, mr: 2, vertical_align: :middle)) %>
+        <% end %>
+        <span>SparkleHub</span>
+      </div>
+
+      <nav class="Header-item mr-0" data-avatar>
+        <%= link_to sparkles_path, class: "avatar text-white" do %>
+          <%= render(Primer::OcticonComponent.new(icon: "person", size: :medium)) %>
+        <% end %>
+      </nav>
+    </header>
+
+    <main>
+      <%= yield %>
+    </main>
+
+    <footer class="app-footer d-flex flex-items-center flex-justify-center px-5 py-5 text-center border-top">
+      <%= render(Primer::OcticonComponent.new(icon: "mark-github", mr: 1)) %>
+      <div>GitHub ✨</div>
+    </footer>
+
+    <%= render "shared/hovercard_template" %>
   </body>
 </html>
