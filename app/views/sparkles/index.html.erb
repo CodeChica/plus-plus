@@ -1,0 +1,30 @@
+<div class="hero p-responsive">
+  <div class="container-lg">
+    <p class="hero__calloutPrimary text-white text-shadow-dark mb-3">Show your gratitude</p>
+    <p class="hero__calloutSecondary f2-light text-white mb-4">Sparkle  ✨ your fellow hubbers to let them know you appreciate their work.</p>
+
+    <%= form_with url: sparkles_path, class: "d-flex position-relative flex-column flex-sm-row" do |form| %>
+      <%= form.label :body, "/sparkle", class: "hero-sparkle-label" %>
+
+      <%= form.text_field :body,
+        aria: { label: "large input" },
+        autocapitalize: false,
+        autocomplete: false,
+        autocorrect: false,
+        class: "hero-sparkle-input form-control flex-1 pt-2 pb-2",
+        placeholder: "kirsty for volunteering to help!",
+        spellcheck: false
+      %>
+
+    <div class="f4 mt-2 mt-sm-0">
+      <button type="submit" class="btn btn-primary btn-large ml-sm-2 d-block width-full">
+        ✨ Sparkle
+      </button>
+    </div>
+  <% end %>
+  </div>
+</div>
+
+<div class="container-lg p-responsive js-sparkle-index-root">
+  <%= render partial: "index", locals: { sparkles: @sparkles } %>
+</div>

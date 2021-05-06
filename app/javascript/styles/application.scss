@@ -1,3 +1,4 @@
+@import "variables/colours.scss";
 @import "@primer/css/alerts/index.scss";
 @import "@primer/css/avatars/index.scss";
 @import "@primer/css/blankslate/index.scss";
@@ -12,3 +13,36 @@
 @import "@primer/css/timeline/index.scss";
 @import "@primer/css/utilities/index.scss";
 @import "@primer/octicons/index.scss";
+@import "sparkles/header.scss";
+
+@font-face {
+  font-family: "Alliance No.1";
+  font-style: normal;
+  font-weight: $font-weight-normal;
+  src: url("../fonts/Alliance-No-1-Regular.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alliance No.1";
+  font-style: italic;
+  font-weight: $font-weight-normal;
+  src: url("../fonts/Alliance-No-1-Italic.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alliance No.1";
+  font-style: normal;
+  font-weight: $font-weight-semibold;
+  src: url("../fonts/Alliance-No-1-SemiBold.woff") format("woff");
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Alliance No.1";
+  font-style: normal;
+  font-weight: $font-weight-bold;
+  src: url("../fonts/Alliance-No-1-Bold.woff") format("woff");
+  font-display: swap;
+}

@@ -10,7 +10,17 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2021_05_01_030808) do
+ActiveRecord::Schema.define(version: 2021_05_06_021417) do
+
+  create_table "sparkles", force: :cascade do |t|
+    t.string "reason"
+    t.integer "sparkler_id", null: false
+    t.integer "sparklee_id", null: false
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
+    t.index ["sparklee_id"], name: "index_sparkles_on_sparklee_id"
+    t.index ["sparkler_id"], name: "index_sparkles_on_sparkler_id"
+  end
 
   create_table "users", force: :cascade do |t|
     t.string "handle", null: false

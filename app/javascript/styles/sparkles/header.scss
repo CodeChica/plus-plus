@@ -1,0 +1,79 @@
+.octicon-search {
+  position: absolute;
+  top: 7px;
+  left: 8px;
+}
+
+.header-link {
+  font-weight: $font-weight-bold;
+  color: var(--color-text-white);
+  white-space: nowrap;
+
+  &:hover,
+  &:focus {
+    color: var(--color-text-white);
+    text-decoration: none;
+  }
+}
+
+.hero {
+  background: linear-gradient(114.95deg, #24292E 30.38%, #781084 120.55%);
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 85%);
+  padding: 96px 0 200px 0;
+
+  .hero__calloutPrimary {
+    font-family: "Alliance No.1";
+    font-size: 72px;
+    font-weight: $font-weight-bold;
+    letter-spacing: -2px;
+    line-height: 72px;
+  }
+
+  .hero__calloutSecondary {
+    font-family: "Alliance No.1";
+    opacity: 0.6;
+   }
+
+  .hero-sparkle-label {
+    position: absolute;
+    top: 10px;
+    left: 20px;
+
+    @include breakpoint(sm) {
+      top: 14px;
+    }
+  }
+
+  .hero-sparkle-input {
+    padding-left: 78px;
+  }
+}
+
+.header-brand-icon-bg {
+    display: inline-block;
+    width: 32px;
+    height: 32px;
+    border-radius: 50%;
+    background: linear-gradient(152deg, #ff7300, #dc00ff, #008cff);
+    background-size: 600% 600%;
+
+    -webkit-animation: HeaderBrandBackgroundAnimation 15s ease infinite;
+    -moz-animation: HeaderBrandBackgroundAnimation 15s ease infinite;
+    animation: HeaderBrandBackgroundAnimation 15s ease infinite;
+}
+
+@-webkit-keyframes HeaderBrandBackgroundAnimation {
+    0%{background-position:14% 0%}
+    50%{background-position:87% 100%}
+    100%{background-position:14% 0%}
+}
+@-moz-keyframes HeaderBrandBackgroundAnimation {
+    0%{background-position:14% 0%}
+    50%{background-position:87% 100%}
+    100%{background-position:14% 0%}
+}
+@keyframes HeaderBrandBackgroundAnimation {
+    0%{background-position:14% 0%}
+    50%{background-position:87% 100%}
+    100%{background-position:14% 0%}
+}
