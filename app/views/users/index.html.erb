@@ -1,25 +1,19 @@
-<p id="notice"><%= notice %></p>
+<div class="border d-flex">
+  <div class="p-5 border bg-gray-light flex-auto">
+    <p id="notice"><%= notice %></p>
 
-<h1>Users</h1>
+    <h1>Users</h1>
+    <%= link_to 'New User', new_user_path %>
 
-<table>
-  <thead>
-    <tr>
-      <th>Handle</th>
-      <th colspan="3"></th>
-    </tr>
-  </thead>
-
-  <tbody>
     <% @users.each do |user| %>
-      <tr>
-        <td><%= user.handle %></td>
-        <td><%= link_to 'Show', user %></td>
-      </tr>
+      <div class="TableObject">
+        <div class="TableObject-item TableObject-item--primary">
+          <input class="input-block form-control" type="text" placeholder="/sparkle <%= user.handle %> for" />
+        </div>
+        <div class="TableObject-item TableObject-item--primary">
+          <button class="btn ml-2" type="button">Sparkle</button>
+        </div>
+      </div>
     <% end %>
-  </tbody>
-</table>
-
-<br>
-
-<%= link_to 'New User', new_user_path %>
+  </div>
+</div>
