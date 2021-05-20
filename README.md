@@ -1,6 +1,4 @@
-# Sparkles
-
-A place to show your appreciation for others.
+# CodeChica++
 
 The CodeChica++ curriculum can be found [here][curriculum].
 
