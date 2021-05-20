@@ -1,11 +1,11 @@
 # Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
 
-one:
-  reason: MyString
-  sparkler: one
-  sparklee: one
+friendship:
+  reason: for being an awesome friend!
+  sparkler: mona
+  sparklee: billie
 
-two:
-  reason: MyString
-  sparkler: two
-  sparklee: two
+mentorship:
+  reason: for helping me with my homework.
+  sparkler: billie
+  sparklee: mona
