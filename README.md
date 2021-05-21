@@ -18,4 +18,4 @@ $ ./bin/server
 
 Open [http://localhost:3000](http://localhost:3000) in a web browser.
 
-[curriculum]: https://docs.google.com/document/d/1bF1zHdCpWNmVmuanVSPolLR94jX2hgTa5mimugky1f0/edit
+[curriculum]: https://docs.google.com/document/d/1e49CjdM_FYFKmg6IouZkHsc9R6Z4QVjpySN8V-fhESM/edit
