@@ -1,7 +1,7 @@
 ---
 name: "Lesson 0x00"
 about: Create a new lesson plan to help us improve
-title: ''
+title: "Lesson 0x00"
 labels: ''
 assignees: ''
 
