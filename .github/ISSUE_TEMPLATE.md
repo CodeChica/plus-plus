@@ -1,6 +1,10 @@
 ---
 name: "Lesson 0x00"
-title: 'CodeChica++ - Lesson 0x00'
+about: Create a new lesson plan to help us improve
+title: ''
+labels: ''
+assignees: ''
+
 ---
 
 ## Introduction
