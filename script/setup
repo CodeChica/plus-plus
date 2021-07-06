@@ -8,7 +8,7 @@ set -e
 cd "$(dirname "$0")/.."
 
 gem install bundler --conservative
-bundle install
+bundle install --local
 
 bin/yarn
 bin/rails db:prepare
