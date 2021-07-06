@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# bin/server: Launch the application locally.
+# script/server: Launch the application locally.
 # https://github.com/github/scripts-to-rule-them-all#scriptserver
 
 set -e

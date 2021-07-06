@@ -1,6 +1,6 @@
 #!/bin/sh
 
-# bin/test: Run test suite for application.
+# script/test: Run test suite for application.
 # https://github.com/github/scripts-to-rule-them-all#scripttest
 
 set -e
