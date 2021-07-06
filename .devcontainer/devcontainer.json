@@ -1,0 +1,15 @@
+{
+  "name": "CodeChica/plus-plus",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [
+    3000
+  ],
+  "extensions": [
+    "github.codespaces",
+    "ms-vscode-remote.remote-containers",
+    "ms-vscode-remote.remote-ssh"
+  ],
+  "postCreateCommand": "bash script/setup"
+}

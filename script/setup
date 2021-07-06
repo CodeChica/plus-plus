@@ -1,0 +1,16 @@
+#!/bin/sh
+
+# script/setup: Set up the application for the first time after cloning.
+# https://github.com/github/scripts-to-rule-them-all#scriptsetup
+
+set -e
+
+cd "$(dirname "$0")/.."
+
+gem install bundler --conservative
+bundle install --local
+
+bin/yarn
+bin/rails db:prepare
+bin/rails log:clear tmp:clear
+bin/rails restart
