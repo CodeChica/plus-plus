@@ -1,0 +1,17 @@
+{
+  "name": "CodeChica/plus-plus",
+  "build": {
+    "dockerfile": "Dockerfile"
+  },
+  "forwardPorts": [
+    3000
+  ],
+  "extensions": [
+    "rebornix.Ruby",
+    "ms-vscode-remote.remote-containers",
+    "github.codespaces",
+    "rebornix.ruby",
+    "ms-vscode-remote.remote-ssh"
+  ],
+  "postCreateCommand": "bash script/setup"
+}
