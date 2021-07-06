@@ -1,6 +1,9 @@
 #!/usr/bin/env ruby
 require "fileutils"
 
+# bin/setup: Set up the application for the first time after cloning.
+# https://github.com/github/scripts-to-rule-them-all#scriptsetup
+
 # path to your application root.
 APP_ROOT = File.expand_path('..', __dir__)
 

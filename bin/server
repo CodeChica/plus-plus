@@ -1,3 +1,10 @@
 #!/bin/sh
 
+# bin/server: Launch the application locally.
+# https://github.com/github/scripts-to-rule-them-all#scriptserver
+
+set -e
+
+cd "$(dirname "$0")/.."
+
 bundle exec rails server
