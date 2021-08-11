@@ -17,6 +17,11 @@ code.
 [git][git] allows us to make mistakes safely, and it makes it easier for us to
 work together.
 
+## Concepts
+
+To get familiar with different concepts we will use
+[Learn Git Branching][learngit] to help us get familiar with git.
+
 ## Terminal
 
 In this section, you will learn how to use `git` from the terminal.
@@ -171,10 +176,11 @@ changes into the owners repository.
 Repository (repo)
 : A repo is a directory of code managed by git.
 
+[codechica]: https://github.com/CodeChica/
 [codespace]: https://github.com/CodeChica/plus-plus/blob/main/doc/codespaces.md
 [dotfiles]: https://dotfiles.github.io/
 [git]: https://git-scm.com/
 [linux_commit]: https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
-[terminal]: https://github.com/CodeChica/plus-plus/blob/main/doc/terminal.md
-[codechica]: https://github.com/CodeChica/
 [scm]:  https://code.visualstudio.com/docs/editor/versioncontrol
+[terminal]: https://github.com/CodeChica/plus-plus/blob/main/doc/terminal.md
+[learngit]: https://learngitbranching.js.org/
