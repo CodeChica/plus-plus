@@ -150,22 +150,26 @@ filenames usually start with a dot (.).
 ## Glossary
 
 Branch
-: A branch is something that grows on a tree but it's also...
+: A branch is a part of a tree which grows out from the trunk. It's also used to
+describe an independent branch of code.
 
 Commit
-: A commit is a...
+: A commit captures a group of changes in 1 or more files.
 
 Diff
-: A diff is the difference between the old version and the new version.
+: A diff is the "difference" between the old version and the new version of a file.
 
 Fork
-: A fork is not only a useful utensil but it is also...
+: A fork is not only a useful utensil but it is also what we call a copy of a
+project or repository.
 
 Pull Request
-: A pull request is a...
+: A pull request is a way to share code from one repository to another. The
+author of the Pull Request will ask the owner of a repository to pull in their
+changes into the owners repository.
 
 Repository (repo)
-: A repo is a...
+: A repo is a directory of code managed by git.
 
 [codespace]: https://github.com/CodeChica/plus-plus/blob/main/doc/codespaces.md
 [dotfiles]: https://dotfiles.github.io/
