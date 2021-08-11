@@ -126,7 +126,7 @@ that we have a backup in the cloud just in case our computer crashes on us.
 $ git push origin <your-username>-story
 ```
 
-Next open https://github.com/<your-username>/novela in a
+Next open https://github.com/your-username/novela in a
 browser and follow the instructions to create a Pull Request.
 
 Woohoo, we did things! But wait... what did we do?
