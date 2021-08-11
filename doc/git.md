@@ -131,6 +131,12 @@ browser and follow the instructions to create a Pull Request.
 
 Woohoo, we did things! But wait... what did we do?
 
+### Git - VSCode, Source Control Manager (SCM)
+
+It's also possible to interact with git using the
+[Source Control Manager (SCM)][scm] that is built into VSCode.
+To learn more about it [read the documentation][scm].
+
 ## GitHub
 
 GitHub is a website that lets us save our git repositories for free. It is the
@@ -167,3 +173,4 @@ Repository (repo)
 [linux_commit]: https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
 [terminal]: https://github.com/CodeChica/plus-plus/blob/main/doc/terminal.md
 [codechica]: https://github.com/CodeChica/
+[scm]:  https://code.visualstudio.com/docs/editor/versioncontrol
