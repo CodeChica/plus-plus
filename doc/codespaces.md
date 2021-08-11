@@ -10,7 +10,7 @@ computer. When you create a Codespace it also comes with a bunch of tools
 and software already installed. So you can focus on writing code instead of
 figuring out how to install git, Linux, Ruby, Node.js etc.
 
-## Creating your Codespace
+## [Creating your Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace#creating-a-codespace)
 
 1. Open the [CodeChica++](https://github.com/codechica/plus-plus) repo in a browser.
 1. Launch a new codespace.
@@ -28,7 +28,7 @@ figuring out how to install git, Linux, Ruby, Node.js etc.
 
 You now have your own copy of the final project that you are free to explore.
 
-### Deleting your Codespace
+### [Deleting your Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/deleting-a-codespace)
 
 When you are finished with your Codespace it is a good idea to clean it up.
 
