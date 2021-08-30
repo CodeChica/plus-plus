@@ -12,7 +12,7 @@ figuring out how to install git, Linux, Ruby, Node.js etc.
 
 ## [Creating your Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace#creating-a-codespace)
 
-1. Open the [CodeChica++](https://github.com/codechica/plus-plus) repo in a browser.
+1. Open the [CodeChica++](https://github.com/CodeChica/SparkleHub) repo in a browser.
 1. Launch a new codespace.
   1. Click on "Code"
   1. Select "Open with Codespaces"

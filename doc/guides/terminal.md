@@ -20,7 +20,7 @@ The terminal is a portal that allows you interact with your computer.
 It provides a command line interface that looks like this:
 
 ```bash
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $ 
 ```
 
@@ -28,7 +28,7 @@ Start by typing command, like `ls`, followed by pressing the Enter key.
 The terminal will execute that command and print the output from the command.
 
 When you start up a new Codespace the default directory that the
-terminal starts in is the `/workspaces/plus-plus` directory. This directory
+terminal starts in is the `/workspaces/SparkleHub` directory. This directory
 contains all the code for the CodeChica++ final project.
 
 ## Awww `man`
@@ -91,7 +91,7 @@ DESCRIPTION
 List files in the current directory:
 
 ```bash
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $ ls
 Gemfile       app              config.ru     package.json       tmp
 Gemfile.lock  babel.config.js  db            postcss.config.js  vendor
@@ -102,7 +102,7 @@ Rakefile      config           node_modules  test
 List the files in the `app` directory:
 
 ```bash
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $ ls app/
 controllers/  javascript/  models/  views/
 ```
@@ -110,7 +110,7 @@ controllers/  javascript/  models/  views/
 List the files using a long list format.
 
 ```bash
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $ ls -l script/
 total 12K
 -rwxr-xr-x 1 username 185 Jul 26 20:46 server*
@@ -121,7 +121,7 @@ total 12K
 List the all (including hidden) files using a long list format.
 
 ```bash
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $ ls -al
 total 404K
 drwxr-xr-x 14 username 4.0K Jul 26 20:46 ./
@@ -178,7 +178,7 @@ Print the current working directory.
 
 ```bash
 $ pwd
-/workspaces/plus-plus
+/workspaces/SparkleHub
 ```
 
 ## Change Directory `cd`
@@ -200,7 +200,7 @@ cd: cd [-L|[-P [-e]] [-@]] [dir]
 Change the current directory to your $HOME directory:
 
 ```bash
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $ cd ~/
 /home/username/
 $
@@ -211,7 +211,7 @@ Change back to the previous directory:
 ```bash
 /home/username/
 $ cd -
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $
 ```
 
@@ -238,7 +238,7 @@ DESCRIPTION
 To create a new directory named `butterfly`.
 
 ```bash
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $ mkdir butterfly
 ```
 
@@ -247,7 +247,7 @@ you run the `mkdir` command. To get the `mkdir` command to create the directory
 if it isn't already there then use the `-p` option.
 
 ```bash
-/workspaces/plus-plus
+/workspaces/SparkleHub
 $ mkdir -p skittles-and-rainbows
 ```
 
