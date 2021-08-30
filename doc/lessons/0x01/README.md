@@ -112,6 +112,7 @@ on a page.
 ```javascript
 document.addEventListener('DOMContentLoaded', function(event) {
   var bodyElement = document.querySelector('body');
+
   bodyElement.addEventListener('click', function(event) {
     // This is a great way to irritate visitors to your website.
     alert('Ouch!');
@@ -119,5 +120,39 @@ document.addEventListener('DOMContentLoaded', function(event) {
 });
 ```
 
-## Why do we need source control?
-## What is source control?
+## Tools
+
+Programmers need a few tools in order to write code.
+
+* Editor ([VSCode][vscode])
+* Terminal ([Alacritty][alacritty])
+* Source Control ([git][git])
+
+We use our **editor** to edit code, and we use our Terminal to convert that
+code into something that we can run. We also use a Terminal to interact with our
+source control tool to save our changes and push them up to GitHub to make sure
+that we don't lose any of our work.
+
+Web Developers also need a **Web Browser** with [Dev Tools][devtools] like
+[Google Chrome][chrome].
+
+### Source Control
+
+> Source control is a way to manage changes to code.
+
+Sometimes people also call it by other names like **version control**, and
+**software configuration management**.
+
+It's meant to describe a way to make sure that you don't lose code and that
+programmers have a way to keep track of different changes that are made to code.
+
+In this class, we'll use a tool called [git][git] to keep a
+record of the changes that we make to our code. Then we'll use a website called
+[GitHub (free)][github] to save our code for us so that we don't lose it.
+
+[alacritty]: https://github.com/alacritty/alacritty
+[chrome]: https://www.google.com/chrome/
+[devtools]: https://developer.chrome.com/docs/devtools/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[vscode]: https://code.visualstudio.com/
