@@ -1,39 +1,6 @@
 ## Welcome to CodeChica++
 
-
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CodeChica/plus-plus/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
 
 <!-- Start Lesson 0x00 -->
 ### Lesson 0x00
@@ -312,21 +279,55 @@ Temporary solution:
 
 Remove Avatar for now.
 ```
+
 <!-- Start Lesson 0x05 -->
 ### Lesson 0x05
 
 <!-- Start Lesson 0x06 -->
 ### Lesson 0x06
 
+### Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+### Help!
+
+Having trouble? Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
+
 [Edit this page](https://github.com/CodeChica/plus-plus/edit/gh-pages/index.md).
 
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/
+[curriculum]: https://github.com/CodeChica/plus-plus/issues/new/choose
 [devtools]: https://developer.chrome.com/docs/devtools/
 [discussions]: https://github.com/CodeChica/plus-plus/discussions
+[docker]: https://docs.docker.com/get-docker/
 [git]: https://git-scm.com/
 [git_game]: https://learngitbranching.js.org/
 [github]: https://github.com/
+[organization]: https://github.com/CodeChica
 [q-and-a]: https://github.com/CodeChica/plus-plus/discussions/categories/q-a
+[slack]: https://codechica-plus-plus.slack.com/
 [vscode]: https://code.visualstudio.com/
 [youtube]: https://www.youtube.com/playlist?list=PLaZatV79bZCRtD6yCw-goNH5Keh8ovMQp
+[zoom]: https://zoom.us/
