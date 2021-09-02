@@ -8,10 +8,7 @@ Welcome to CodeChica++.
 1. Send an email to your instructor and include the Username that you chose.
 1. Check your email for an invitation to the [CodeChica organization][organization].
 1. Accept the invitation.
-1. Open [this](https://github.com/CodeChica/plus-plus/issues/new?assignees=&labels=&template=0x01.md&title=Lesson+0x01).
-1. Click "assign yourself" on the left hand side.
-1. Slick "Submit new issue"
-1. Follow the steps in the description.
+1. Open [this](https://github.com/CodeChica/plus-plus/issues/new?labels=&template=0x01.md) and follow the steps in the description.
 
 The full curriculum can be found [here][curriculum].
 
