@@ -213,3 +213,11 @@ record of the changes that we make to our code. Then we'll use a website called
 [GitHub (free)][github] to save our code for us so that we don't lose it.
 
 Let's play [The Git Game][git_game].
+
+[alacritty]: https://github.com/alacritty/alacritty
+[chrome]: https://www.google.com/chrome/
+[devtools]: https://developer.chrome.com/docs/devtools/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[vscode]: https://code.visualstudio.com/
+[git_game]: https://learngitbranching.js.org/
