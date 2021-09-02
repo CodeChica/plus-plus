@@ -1,5 +1,8 @@
 ## CodeChica++ - Guides
 
+On this page you will find some guides for different subject that we will cover
+in this course.
+
 <!-- Start Terminal Guides -->
 ## Terminal
 
@@ -14,7 +17,7 @@ On Microsoft Windows you can use [PowerShell][powershell].
 For this course we will use the [terminal][integrated_terminal] that is built
 into VSCode and a [Codespace][codespace].
 
-## Getting Started
+### Getting Started
 
 For this lesson you will need to [open your Codespace][codespace] and then
 launch VSCode and [open a Terminal][integrated_terminal].
@@ -34,7 +37,7 @@ When you start up a new Codespace the default directory that the
 terminal starts in is the `/workspaces/SparkleHub` directory. This directory
 contains all the code for the CodeChica++ final project.
 
-## Awww `man`
+### `man`
 
 If you forget what a specific command does you can find the answer in the `man`
 page. `man` is short for instruction *manual*. To look up a command in the
@@ -67,7 +70,7 @@ DESCRIPTION
        sections.
 ```
 
-## List files `ls`
+### `ls`
 
 The `ls` command will *list* all the files in a directory.
 
@@ -89,7 +92,7 @@ DESCRIPTION
 ```
 - https://man7.org/linux/man-pages/man1/ls.1.html
 
-### Examples
+#### Examples
 
 List files in the current directory:
 
@@ -155,7 +158,7 @@ drwxr-xr-x  3 username 4.0K Jul 26 20:46 vendor/
 -rw-r--r--  1 username 300K Jul 26 20:46 yarn.lock
 ```
 
-## Print working directory `pwd`
+### Print working directory `pwd`
 
 The `pwd` command can be used to print the working directory. This is very
 helpful when you can't remember what directory you are in.
@@ -184,8 +187,9 @@ $ pwd
 /workspaces/SparkleHub
 ```
 
-## Change Directory `cd`
+### Change Directory `cd`
 
+The `cd` command can be used to *change directories*.
 This builtin is useful when you want to switch to a different directory to do a
 little bit of work from there.
 
@@ -198,7 +202,7 @@ cd: cd [-L|[-P [-e]] [-@]] [dir]
     HOME shell variable.
 ```
 
-### Examples
+#### Examples
 
 Change the current directory to your $HOME directory:
 
@@ -218,9 +222,9 @@ $ cd -
 $
 ```
 
-## Make Directory `mkdir`
+### `mkdir`
 
-The `mkdir` command can be used to create a new directory.
+The `mkdir` command can be used to *make* a new *directory*.
 
 ```bash
 $ man mkdir
@@ -236,7 +240,7 @@ DESCRIPTION
        Create the DIRECTORY(ies), if they do not already exist.
 ```
 
-### Examples
+#### Examples
 
 To create a new directory named `butterfly`.
 
@@ -274,12 +278,12 @@ code.
 [git][git] allows us to make mistakes safely, and it makes it easier for us to
 work together.
 
-## Concepts
+### Concepts
 
 To get familiar with different concepts we will use
 [Learn Git Branching][learngit] to help us get familiar with git.
 
-## Terminal
+### Terminal
 
 In this section, you will learn how to use `git` from the terminal.
 
@@ -393,13 +397,13 @@ browser and follow the instructions to create a Pull Request.
 
 Woohoo, we did things! But wait... what did we do?
 
-### Git - VSCode, Source Control Manager (SCM)
+### Git - VSCode (SCM)
 
 It's also possible to interact with git using the
 [Source Control Manager (SCM)][scm] that is built into VSCode.
 To learn more about it [read the documentation][scm].
 
-## GitHub
+### GitHub
 
 GitHub is a website that lets us save our git repositories for free. It is the
 largest code hosting platform on the planet. It's a great place to create a
@@ -409,7 +413,7 @@ A lot of coders like to share how they like to configure some of their favourite
 tools. These configuration files are called [dotfiles][dotfiles] because the
 filenames usually start with a dot (.).
 
-## Glossary
+### Glossary
 
 Branch
 : A branch is a part of a tree which grows out from the trunk. It's also used to
@@ -447,7 +451,7 @@ computer. When you create a Codespace it also comes with a bunch of tools
 and software already installed. So you can focus on writing code instead of
 figuring out how to install git, Linux, Ruby, Node.js etc.
 
-### [Creating your Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace#creating-a-codespace)
+### [Create my Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace#creating-a-codespace)
 
 1. Open the [SparkleHub](https://github.com/codechica/SparkleHub) repo in a browser.
 1. Click on "Code"
@@ -467,7 +471,7 @@ Take a look at the files in the directory [app/views](https://github.com/CodeChi
 
 If you want to turn off the server press "Ctrl" + "c" in the terminal.
 
-### [Deleting your Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/deleting-a-codespace)
+### [Delete my Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/deleting-a-codespace)
 
 When you are finished with your Codespace it is a good idea to clean it up.
 
