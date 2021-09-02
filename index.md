@@ -56,9 +56,9 @@ workspace then send me an [email][email] and we'll make sure that you get added.
 * [Plus Plus](https://github.com/CodeChica/plus-plus)
 * [SparkleHub](https://github.com/CodeChica/SparkleHub)
 
-## 0x01 - HTML, CSS, JavaScript and Source Control.
+### Lessons
 
-In this course, we'll be using [GitHub Issues][] to help us track our progress.
+In this course, we'll be using [GitHub Issues](https://github.com/features/issues/) to help us track our progress.
 You can always visit [my issues](https://github.com/issues/assigned) to pick up
 from where you left off.
 
@@ -66,26 +66,15 @@ Follow the steps below to create your first Issue.
 
 1. [Open](https://github.com/CodeChica/plus-plus/issues/new/choose) in a new tab.
 1. Click the "Get Started" button next to "Lesson 0x01"
-1. Click the "assign yourself" link.
-1. Click "Submit new issue"
 
 ![Creating my first issue](/images/create-first-issue.gif)
 
-This is your tracking issue to help you take notes and keep track of your
-progress.
-
-When you have completed all the steps in this issue add a comment to this issue
-that says:
-
-```plaintext
-@xlgmokha I'm done!
-```
-
-If you get stuck on any of the sections add a comment to this issue that says:
-
-```plaintext
-@xlgmokha I need some help!
-```
+* 0x01 - HTML, CSS, JavaScript and Source Control
+* 0x02 - Git fundamentals
+* 0x03 - Testing and pair programming
+* 0x04 - The Software Engineering Lifecycle
+* 0x05 - The Software Engineer's role
+* 0x06 - Exploring SparkleHub
 
 ## Help!
 
