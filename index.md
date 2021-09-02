@@ -1,6 +1,5 @@
-## Welcome to GitHub Pages
+## Welcome to CodeChica++
 
-You can use the [editor on GitHub](https://github.com/CodeChica/plus-plus/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -35,6 +34,53 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+
+<!-- Start Lesson 0x00 -->
+### Lesson 0x00
+
+Welcome to CodeChica++.
+
+To make sure that you are prepared for the first class we've put together this
+guide to help you get comfortable with the tools that we'll be using in this
+class.
+
+The [CodeChica channel][youtube] contains all the videos that we'll be using for
+this course.
+
+#### Slack
+
+* What is Slack?
+* Why are we using it?
+* When can I ask for help?
+
+#### VS Code
+
+* What is it?
+* Why are we using it?
+
+TODO: Video tour of
+
+* Development environment
+  * Method 1: Codespaces
+  * Method 2: Docker
+  * Method 3: Computer - [git](https://git-scm.com/downloads)
+
+#### GitHub
+
+TODO:: Video tour
+
+* What is GitHub?
+* Why are we using it?
+
+* Discussions / Questions
+  * Class discussion will take place in our [Discussion forum][discussions]
+
+* Questions / Answers
+  * Use the [Q&A][q-and-a] to ask questions and answer questions that others may have.
+
+
+
+<!-- Start Lesson 0x01 -->
 
 ### Lesson 0x01
 
@@ -214,10 +260,73 @@ record of the changes that we make to our code. Then we'll use a website called
 
 Let's play [The Git Game][git_game].
 
+<!-- Start Lesson 0x02 -->
+### Lesson 0x02
+
+<!-- Start Lesson 0x03 -->
+### Lesson 0x03
+
+<!-- Start Lesson 0x04 -->
+### Lesson 0x04
+
+```plaintext
+# Agenda
+
+* Introduction
+* Product Overview
+* Customer Feedback
+
+
+Feedback:
+
+* view profile of peers (high priority)
+* no way to see sent/received sparkles
+  * see sparkles that we got self esteem boost
+  * forgot to sparkle certain people.
+    * can't see who received
+  * filter by our sparkles that we sent
+  * filter by our sparkles that we receive
+  * separate page to see my sparkles
+  * privacy settings
+    * private sparkles.
+      * interpersonal conflicts.
+* no notifications when sending/receiving
+* avatar icon bug
+  * login via Facebook
+  * login via GitHub
+* colours: branding colors
+  * colour palette
+  * red (need to chat with marketing)
+  * align colors with branding. (custom colors)
+
+authenticating users
+* what kind of timeframe are we looking at?
+  * 3 months to the full organization.
+
+Spike:
+* GitHub Auth
+* Facebook Auth
+
+Temporary solution:
+* add a textbox to enter username
+
+Remove Avatar for now.
+```
+<!-- Start Lesson 0x05 -->
+### Lesson 0x05
+
+<!-- Start Lesson 0x06 -->
+### Lesson 0x06
+
+[Edit this page](https://github.com/CodeChica/plus-plus/edit/gh-pages/index.md).
+
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/
 [devtools]: https://developer.chrome.com/docs/devtools/
+[discussions]: https://github.com/CodeChica/plus-plus/discussions
 [git]: https://git-scm.com/
-[github]: https://github.com/
-[vscode]: https://code.visualstudio.com/
 [git_game]: https://learngitbranching.js.org/
+[github]: https://github.com/
+[q-and-a]: https://github.com/CodeChica/plus-plus/discussions/categories/q-a
+[vscode]: https://code.visualstudio.com/
+[youtube]: https://www.youtube.com/playlist?list=PLaZatV79bZCRtD6yCw-goNH5Keh8ovMQp
