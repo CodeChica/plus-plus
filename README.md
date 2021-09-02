@@ -22,6 +22,6 @@ If you have a question [open a new discussion][new-discussion].
 
 [curriculum]: https://github.com/CodeChica/plus-plus/issues/new/choose
 [issues]: https://github.com/CodeChica/plus-plus/tree/main/.github/ISSUE_TEMPLATE
-[lessons]: https://github.com/CodeChica/plus-plus/tree/main/doc/lessons
+[lessons]: /doc/lessons
 [new-discussion]: https://github.com/CodeChica/plus-plus/discussions
 [organization]: https://github.com/CodeChica
