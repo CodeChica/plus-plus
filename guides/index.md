@@ -479,6 +479,30 @@ When you are finished with your Codespace it is a good idea to clean it up.
 1. Click on the `...` menu on the right side.
 1. Choose the "Delete" option.
 
+## Markdown
+
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+# Header 1
+## Header 2
+### Header 3
+
+- Bulleted
+- List
+
+1. Numbered
+2. List
+
+**Bold** and _Italic_ and `Code` text
+
+[Link](url) and ![Image](src)
+```
+
+For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 ### Help
 
 [Try the troubleshooting guide](https://docs.github.com/en/codespaces/codespaces-reference/troubleshooting-your-codespace)
