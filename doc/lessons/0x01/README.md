@@ -10,6 +10,16 @@ Outcomes:
 * Girls will refresh coding skills, get excited about what they'll be learning.
 * They will get to see SparkleHub, run setup and see the server.
 
+## Create your first Issue
+
+1. [Open](https://github.com/CodeChica/plus-plus/issues/new/choose) in a new tab.
+1. Click the "Get Started" button next to "Lesson 0x01"
+1. Click the "assign yourself" link.
+1. Click "Submit new issue"
+
+This is your tracking issue to help you take notes and keep track of your
+progress.
+
 ## Review
 
 * HTML
@@ -149,6 +159,11 @@ programmers have a way to keep track of different changes that are made to code.
 In this class, we'll use a tool called [git][git] to keep a
 record of the changes that we make to our code. Then we'll use a website called
 [GitHub (free)][github] to save our code for us so that we don't lose it.
+
+## Activity Time
+
+Break up into groups of 2 or 3 and work through the sections named `Getting Started`
+and `Customize your profile` together.
 
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/
