@@ -158,9 +158,9 @@ drwxr-xr-x  3 username 4.0K Jul 26 20:46 vendor/
 -rw-r--r--  1 username 300K Jul 26 20:46 yarn.lock
 ```
 
-### Print working directory `pwd`
+### `pwd`
 
-The `pwd` command can be used to print the working directory. This is very
+The `pwd` command can be used to *print* the *working directory*. This is very
 helpful when you can't remember what directory you are in.
 
 ```bash
@@ -259,7 +259,7 @@ $ mkdir -p skittles-and-rainbows
 ```
 
 <!-- Start Git Guide -->
-## git
+## Git
 
 [git][git] is a tool that can be used to save changes that you make to your code.
 
@@ -278,12 +278,12 @@ code.
 [git][git] allows us to make mistakes safely, and it makes it easier for us to
 work together.
 
-### Concepts
+### Git Concepts
 
 To get familiar with different concepts we will use
 [Learn Git Branching][learngit] to help us get familiar with git.
 
-### Terminal
+### Git in the Terminal
 
 In this section, you will learn how to use `git` from the terminal.
 
@@ -397,7 +397,7 @@ browser and follow the instructions to create a Pull Request.
 
 Woohoo, we did things! But wait... what did we do?
 
-### Git - VSCode (SCM)
+### Git in VSCode (SCM)
 
 It's also possible to interact with git using the
 [Source Control Manager (SCM)][scm] that is built into VSCode.
@@ -408,10 +408,6 @@ To learn more about it [read the documentation][scm].
 GitHub is a website that lets us save our git repositories for free. It is the
 largest code hosting platform on the planet. It's a great place to create a
 backup of your code and collaborate with other coders.
-
-A lot of coders like to share how they like to configure some of their favourite
-tools. These configuration files are called [dotfiles][dotfiles] because the
-filenames usually start with a dot (.).
 
 ### Glossary
 
