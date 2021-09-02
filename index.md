@@ -284,6 +284,8 @@ Remove Avatar for now.
 <!-- Start Lesson 0x06 -->
 ## Lesson 0x06
 
+## [Guides](/guides/)
+
 ## Help!
 
 Having trouble? Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
