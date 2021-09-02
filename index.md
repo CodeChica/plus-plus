@@ -56,7 +56,7 @@ workspace then send me an [email][email] and we'll make sure that you get added.
 * [Plus Plus](https://github.com/CodeChica/plus-plus)
 * [SparkleHub](https://github.com/CodeChica/SparkleHub)
 
-### Lessons
+### Getting Started
 
 In this course, we'll be using [GitHub Issues](https://github.com/features/issues/) to help us track our progress.
 You can always visit [my issues](https://github.com/issues/assigned) to pick up
@@ -68,6 +68,8 @@ Follow the steps below to create your first Issue.
 1. Click the "Get Started" button next to "Lesson 0x01"
 
 ![Creating my first issue](/images/create-first-issue.gif)
+
+### Lessons
 
 * 0x01 - HTML, CSS, JavaScript and Source Control
 * 0x02 - Git fundamentals
