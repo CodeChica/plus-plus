@@ -1,14 +1,8 @@
 # Lesson 0x01
 
-* Introduction and review of HTML, CSS, Javascript
-* Git Game with visuals to visualize source control.
+* Review HTML, CSS, Javascript
 * Introduction to source control.
-  * why does it matter?
-
-Outcomes:
-
-* Girls will refresh coding skills, get excited about what they'll be learning.
-* They will get to see SparkleHub, run setup and see the server.
+* Let's peek at the final project, SparkleHub.
 
 ## Create your first Issue
 
@@ -19,6 +13,19 @@ Outcomes:
 
 This is your tracking issue to help you take notes and keep track of your
 progress.
+
+When you have completed all the steps in this issue add a comment to this issue
+that says:
+
+```plaintext
+@xlgmokha I'm done!
+```
+
+If you get stuck on any of the sections add a comment to this issue that says:
+
+```plaintext
+@xlgmokha I need some help!
+```
 
 ## Review
 
@@ -130,6 +137,11 @@ document.addEventListener('DOMContentLoaded', function(event) {
 });
 ```
 
+### Activity Time
+
+Break up into groups of 2 or 3 and work through the sections named `Introduction to HTML`
+and `Customize your profile` together.
+
 ## Tools
 
 Programmers need a few tools in order to write code.
@@ -160,10 +172,8 @@ In this class, we'll use a tool called [git][git] to keep a
 record of the changes that we make to our code. Then we'll use a website called
 [GitHub (free)][github] to save our code for us so that we don't lose it.
 
-## Activity Time
+Let's play [The Git Game][git_game].
 
-Break up into groups of 2 or 3 and work through the sections named `Getting Started`
-and `Customize your profile` together.
 
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/
@@ -171,3 +181,4 @@ and `Customize your profile` together.
 [git]: https://git-scm.com/
 [github]: https://github.com/
 [vscode]: https://code.visualstudio.com/
+[git_game]: https://learngitbranching.js.org/
