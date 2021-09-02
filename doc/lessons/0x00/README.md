@@ -11,6 +11,7 @@ Class preparation:
   * Method 2: Docker
   * Method 3: Computer
     * [ ] Install [git](https://git-scm.com/downloads)
+* All videos are available on the [CodeChica channel][youtube] on YouTube.
 * Discussions / Questions
   * Class discussion will take place in our [Discussion forum][discussions]
 * Questions / Answers
@@ -21,3 +22,4 @@ Class preparation:
 
 [discussions]: https://github.com/CodeChica/plus-plus/discussions
 [q-and-a]: https://github.com/CodeChica/plus-plus/discussions/categories/q-a
+[youtube]: https://www.youtube.com/playlist?list=PLaZatV79bZCRtD6yCw-goNH5Keh8ovMQp
