@@ -1,12 +1,5 @@
 ## Welcome to CodeChica++
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-<!-- Start Lesson 0x00 -->
-### Lesson 0x00
-
-Welcome to CodeChica++.
-
 To make sure that you are prepared for the first class we've put together this
 guide to help you get comfortable with the tools that we'll be using in this
 class.
@@ -16,36 +9,37 @@ this course.
 
 #### Slack
 
-* What is Slack?
-* Why are we using it?
-* When can I ask for help?
+We use [Slack][slack] for group chat to share content with each other and to ask
+for help. If you haven't received an invitation to join the CodeChica++ slack
+workspace then send me an [email][email] and we'll make sure that you get added.
 
-#### VS Code
+::TODO Video tour
 
-* What is it?
-* Why are we using it?
-
-TODO: Video tour of
-
-* Development environment
-  * Method 1: Codespaces
-  * Method 2: Docker
-  * Method 3: Computer - [git](https://git-scm.com/downloads)
+[Learn more about Slack](https://slack.com/intl/en-ca/features)
 
 #### GitHub
 
-TODO:: Video tour
+We'll be using our [CodeChica organization on GitHub][organization] to host our
+code, provide development environments via [codespaces], facilitate
+[discussions][discussions] and [track our progress][curriculum].
 
-* What is GitHub?
-* Why are we using it?
+::TODO Video tour
 
-* Discussions / Questions
-  * Class discussion will take place in our [Discussion forum][discussions]
+[Learn more about GitHub][github].
 
-* Questions / Answers
-  * Use the [Q&A][q-and-a] to ask questions and answer questions that others may have.
+#### VS Code
 
+We'll be using [VSCode][vscode] as our editor, integrated terminal and Codespace
+explorer to work on labs and the final project.
 
+::TODO Video tour
+
+* Sign in to GitHub
+* Method 1: Codespaces
+* Method 2: Docker
+* Method 3: Computer - [git](https://git-scm.com/downloads)
+
+[Learn more about VSCode][vscode]
 
 <!-- Start Lesson 0x01 -->
 
@@ -62,7 +56,7 @@ TODO:: Video tour
 1. Click the "assign yourself" link.
 1. Click "Submit new issue"
 
-![Creating my first issue](/doc/images/create-first-issue.gif)
+![Creating my first issue](/images/create-first-issue.gif)
 
 This is your tracking issue to help you take notes and keep track of your
 progress.
@@ -322,6 +316,7 @@ Having trouble? Check out our [discussions][discussions] or ask for help in [Sla
 [devtools]: https://developer.chrome.com/docs/devtools/
 [discussions]: https://github.com/CodeChica/plus-plus/discussions
 [docker]: https://docs.docker.com/get-docker/
+[email]: mailto:mo@mokhan.ca&subject=CodeChica++
 [git]: https://git-scm.com/
 [git_game]: https://learngitbranching.js.org/
 [github]: https://github.com/
