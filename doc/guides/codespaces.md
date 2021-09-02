@@ -13,15 +13,14 @@ figuring out how to install git, Linux, Ruby, Node.js etc.
 ## [Creating your Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace#creating-a-codespace)
 
 1. Open the [SparkleHub](https://github.com/codechica/SparkleHub) repo in a browser.
-1. Launch a new codespace.
-    1. Click on "Code"
-    1. Click on "Codespaces"
-    1. Click on "New codespace"
-    1. Select "2 core"
-    1. Click on "Create codespace"
-    1. Click on "Open in VSCode"
-    1. Accept the project extensions
-    1. Be patient
+1. Click on "Code"
+1. Click on "Codespaces"
+1. Click on "New codespace"
+1. Select "2 core"
+1. Click on "Create codespace"
+1. Click on "Open in VSCode"
+1. Accept the project extensions
+1. Be patient
 1. Open a Terminal ("Terminal" -> "New Terminal")
 1. Type `./script/server`
 1. Open [http://localhost:3000/](http://localhost:3000/) in your web browser.
