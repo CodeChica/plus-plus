@@ -11,6 +11,8 @@
 1. Click the "assign yourself" link.
 1. Click "Submit new issue"
 
+![Creating my first issue](/doc/images/create-first-issue.gif)
+
 This is your tracking issue to help you take notes and keep track of your
 progress.
 
