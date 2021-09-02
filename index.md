@@ -7,7 +7,7 @@ class.
 The [CodeChica channel][youtube] contains all the videos that we'll be using for
 this course.
 
-#### Slack
+### Slack
 
 We use [Slack][slack] for group chat to share content with each other and to ask
 for help. If you haven't received an invitation to join the CodeChica++ slack
@@ -17,7 +17,7 @@ workspace then send me an [email][email] and we'll make sure that you get added.
 
 [Learn more about Slack](https://slack.com/intl/en-ca/features)
 
-#### GitHub
+### GitHub
 
 We'll be using our [CodeChica organization on GitHub][organization] to host our
 code, provide development environments via [codespaces], facilitate
@@ -27,7 +27,7 @@ code, provide development environments via [codespaces], facilitate
 
 [Learn more about GitHub][github].
 
-#### VS Code
+### VS Code
 
 We'll be using [VSCode][vscode] as our editor, integrated terminal and Codespace
 explorer to work on labs and the final project.
@@ -43,13 +43,13 @@ explorer to work on labs and the final project.
 
 <!-- Start Lesson 0x01 -->
 
-### Lesson 0x01
+## Lesson 0x01
 
 * Review HTML, CSS, Javascript
 * Introduction to source control.
 * Let's peek at the final project, SparkleHub.
 
-#### Create your first Issue
+### Create your first Issue
 
 1. [Open](https://github.com/CodeChica/plus-plus/issues/new/choose) in a new tab.
 1. Click the "Get Started" button next to "Lesson 0x01"
@@ -74,13 +74,13 @@ If you get stuck on any of the sections add a comment to this issue that says:
 @xlgmokha I need some help!
 ```
 
-#### Review
+### Review
 
 * HTML
 * CSS
 * JavaScript
 
-##### HTML
+#### HTML
 
 Hyper text markup language (HTML) is a markup language that is used to render
 content in web browsers. (.e.g. Apple Safari, Google Chrome, Mozilla Firefox).
@@ -127,7 +127,7 @@ Some elements are self closing and some elements can contain other elements.
 * ...
 * `<h6>` is a level 6 heading
 
-##### CSS
+#### CSS
 
 CSS is short for Cascading Style Sheets. It's a language that is used to tell
 the browser how to make your page look.
@@ -160,7 +160,7 @@ div {
 }
 ```
 
-##### JavaScript
+#### JavaScript
 
 JavaScript is a language that allows you to write code that can react to events
 in the browser. When you *click* on a button, this raises an event that can be
@@ -184,12 +184,12 @@ document.addEventListener('DOMContentLoaded', function(event) {
 });
 ```
 
-##### Activity Time
+#### Activity
 
 Break up into groups of 2 or 3 and work through the sections named `Introduction to HTML`
 and `Customize your profile` together.
 
-#### Tools
+### Tools
 
 Programmers need a few tools in order to write code.
 
@@ -205,7 +205,7 @@ that we don't lose any of our work.
 Web Developers also need a **Web Browser** with [Dev Tools][devtools] like
 [Google Chrome][chrome].
 
-##### Source Control
+#### Source Control
 
 > Source control is a way to manage changes to code.
 
@@ -222,13 +222,13 @@ record of the changes that we make to our code. Then we'll use a website called
 Let's play [The Git Game][git_game].
 
 <!-- Start Lesson 0x02 -->
-### Lesson 0x02
+## Lesson 0x02
 
 <!-- Start Lesson 0x03 -->
-### Lesson 0x03
+## Lesson 0x03
 
 <!-- Start Lesson 0x04 -->
-### Lesson 0x04
+## Lesson 0x04
 
 ```plaintext
 # Agenda
@@ -275,12 +275,12 @@ Remove Avatar for now.
 ```
 
 <!-- Start Lesson 0x05 -->
-### Lesson 0x05
+## Lesson 0x05
 
 <!-- Start Lesson 0x06 -->
-### Lesson 0x06
+## Lesson 0x06
 
-### Markdown
+## Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -304,7 +304,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Help!
+## Help!
 
 Having trouble? Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
 
