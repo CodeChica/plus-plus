@@ -2,26 +2,43 @@
 
 Welcome to CodeChica++.
 
-Class preparation:
+To make sure that you are prepared for the first class we've put together this
+guide to help you get comfortable with the tools that we'll be using in this
+class.
 
-* GitHub tour
-  * What is GitHub?
-  * Why are we using it?
+The [CodeChica channel][youtube] contains all the videos that we'll be using for
+this course.
+
+## Slack
+
+* What is Slack?
+* Why are we using it?
+* When can I ask for help?
+
+## VS Code
+
+* What is it?
+* Why are we using it?
+
+TODO: Video tour of
+
 * Development environment
-  * VSCode
   * Method 1: Codespaces
   * Method 2: Docker
-  * Method 3: Computer
-    * [ ] Install [git](https://git-scm.com/downloads)
-* Slack tour
-* All videos are available on the [CodeChica channel][youtube] on YouTube.
+  * Method 3: Computer - [git](https://git-scm.com/downloads)
+
+## GitHub
+
+TODO:: Video tour
+
+* What is GitHub?
+* Why are we using it?
+
 * Discussions / Questions
   * Class discussion will take place in our [Discussion forum][discussions]
+
 * Questions / Answers
   * Use the [Q&A][q-and-a] to ask questions and answer questions that others may have.
-* Weekly Office Hours/Extra help on Tuesday nights.
-  * Your instructor will go through any of the open questions in the
-    [Discussion forum][discussions] and help with any homework or project work.
 
 [discussions]: https://github.com/CodeChica/plus-plus/discussions
 [q-and-a]: https://github.com/CodeChica/plus-plus/discussions/categories/q-a
