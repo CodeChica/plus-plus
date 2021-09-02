@@ -480,6 +480,8 @@ When you are finished with your Codespace it is a good idea to clean it up.
 [Try the troubleshooting guide](https://docs.github.com/en/codespaces/codespaces-reference/troubleshooting-your-codespace)
 or [open a new question](https://github.com/CodeChica/plus-plus/discussions/categories/q-a) if you get stuck.
 
+[Edit this page](https://github.com/CodeChica/plus-plus/edit/gh-pages/guides/index.md)
+
 [codechica]: https://github.com/CodeChica/
 [codespace]: https://github.com/CodeChica/plus-plus/blob/main/doc/guides/codespaces.md#creating-your-codespace
 [dotfiles]: https://dotfiles.github.io/
