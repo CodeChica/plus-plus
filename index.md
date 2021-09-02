@@ -10,57 +10,11 @@ install and use.
 The [CodeChica channel][youtube] contains all the videos that we'll be using for
 this course.
 
-### GitHub
+Please complete the following before our first class.
 
-We'll be using our [CodeChica organization on GitHub][organization] to host our
-code, provide development environments via [codespaces], facilitate
-[discussions][discussions] and [track our progress][curriculum].
-
-::TODO Video tour
-
-[Learn more about GitHub][github].
-
-### VSCode
-
-We'll be using [VSCode][vscode] as our editor, integrated terminal and Codespace
-explorer to work on labs and the final project.
-
-::TODO Video tour
-
-* Sign in to GitHub
-* Method 1: Codespaces
-* Method 2: Docker
-* Method 3: Computer - [git](https://git-scm.com/downloads)
-
-[Learn more about VSCode][vscode]
-
-### Slack
-
-We use [Slack][slack] for group chat to share content with each other and to ask
-for help. If you haven't received an invitation to join the CodeChica++ slack
-workspace then send me an [email][email] and we'll make sure that you get added.
-
-::TODO Video tour
-
-[Learn more about Slack](https://slack.com/intl/en-ca/features)
-
-* [Guides](/guides/)
-* [Issues](https://github.com/CodeChica/plus-plus/issues/choose)
-* [Plus Plus](https://github.com/CodeChica/plus-plus)
-* [SparkleHub](https://github.com/CodeChica/SparkleHub)
-
-### Getting Started
-
-In this course, we'll be using [GitHub Issues](https://github.com/features/issues/) to help us track our progress.
-You can always visit [my issues](https://github.com/issues/assigned) to pick up
-from where you left off.
-
-Follow the steps below to create your first Issue.
-
-1. [Open](https://github.com/CodeChica/plus-plus/issues/new/choose) in a new tab.
-1. Click the "Get Started" button next to "Lesson 0x01"
-
-![Creating my first issue](/images/create-first-issue.gif)
+1. [Register for a GitHub Account](https://github.com/signup)
+1. [Install VSCode](https://code.visualstudio.com/Download)
+1. [Install Slack](https://slack.com/downloads/)
 
 ### Lessons
 
@@ -70,6 +24,24 @@ Follow the steps below to create your first Issue.
 * 0x04 - [The Software Engineering Lifecycle](lessons/0x04)
 * 0x05 - [The Software Engineer's role](lessons/0x05)
 * 0x06 - [Exploring SparkleHub](lessons/0x06)
+
+### Guides
+
+We've built a few guides to help you explore some of the topics that we'll
+discuss in more depth.
+
+* [GitHub](./guides/github.md)
+* [Git](./guides/git.md)
+* [Markdown](./guides/markdown.md)
+* [Slack](./guides/slack.md)
+* [Terminal](./guides/terminal.md)
+* [VSCode](./guides/vscode.md)
+
+### Links
+
+* [Issues](https://github.com/CodeChica/plus-plus/issues/choose)
+* [Plus Plus](https://github.com/CodeChica/plus-plus)
+* [SparkleHub](https://github.com/CodeChica/SparkleHub)
 
 ## Help!
 
@@ -85,17 +57,26 @@ Where can I find...?
 
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/
+[codechica]: https://github.com/CodeChica/
+[codespace]: https://github.com/CodeChica/plus-plus/blob/main/doc/guides/codespaces.md#creating-your-codespace
 [curriculum]: https://github.com/CodeChica/plus-plus/issues/new/choose
 [devtools]: https://developer.chrome.com/docs/devtools/
 [discussions]: https://github.com/CodeChica/plus-plus/discussions
 [docker]: https://docs.docker.com/get-docker/
+[dotfiles]: https://dotfiles.github.io/
 [email]: mailto:mo@mokhan.ca&subject=CodeChica++
 [git]: https://git-scm.com/
 [git_game]: https://learngitbranching.js.org/
 [github]: https://github.com/
+[integrated_terminal]: https://code.visualstudio.com/docs/editor/integrated-terminal
+[learngit]: https://learngitbranching.js.org/
+[linux_commit]: https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
 [organization]: https://github.com/CodeChica
+[powershell]: https://docs.microsoft.com/en-us/powershell/
 [q-and-a]: https://github.com/CodeChica/plus-plus/discussions/categories/q-a
+[scm]:  https://code.visualstudio.com/docs/editor/versioncontrol
 [slack]: https://codechica-plus-plus.slack.com/
+[terminal.app]: https://en.wikipedia.org/wiki/Terminal_(macOS)
 [vscode]: https://code.visualstudio.com/
 [youtube]: https://www.youtube.com/playlist?list=PLaZatV79bZCRtD6yCw-goNH5Keh8ovMQp
 [zoom]: https://zoom.us/
