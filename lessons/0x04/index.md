@@ -1,13 +1,6 @@
-## CodeChica++
-
-<!-- Start Lesson 0x02 -->
-## Lesson 0x02
-
-<!-- Start Lesson 0x03 -->
-## Lesson 0x03
-
-<!-- Start Lesson 0x04 -->
 ## Lesson 0x04
+
+[slides](./slides.html)
 
 ```plaintext
 # Agenda
@@ -52,10 +45,4 @@ Temporary solution:
 
 Remove Avatar for now.
 ```
-
-<!-- Start Lesson 0x05 -->
-## Lesson 0x05
-
-<!-- Start Lesson 0x06 -->
-## Lesson 0x06
 
