@@ -10,6 +10,8 @@ Welcome to CodeChica++.
 1. Accept the invitation.
 1. Open [this](https://github.com/CodeChica/plus-plus/issues/new?labels=&template=0x01.md&title=Lesson+0x01) and follow the steps in the description.
 
+![Creating my first issue](/doc/images/create-first-issue.gif)
+
 The full curriculum can be found [here][curriculum].
 
 ## Communication
