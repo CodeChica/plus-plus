@@ -1,8 +1,11 @@
-## Welcome to CodeChica++
+## CodeChica++
+
+Welcome to CodeChica++.
 
 To make sure that you are prepared for the first class we've put together this
 guide to help you get comfortable with the tools that we'll be using in this
-class.
+class. All the tools that we'll be using in this course is **free** to download,
+install and use.
 
 The [CodeChica channel][youtube] contains all the videos that we'll be using for
 this course.
@@ -74,13 +77,7 @@ If you get stuck on any of the sections add a comment to this issue that says:
 @xlgmokha I need some help!
 ```
 
-### Review
-
-* HTML
-* CSS
-* JavaScript
-
-#### HTML
+### HTML
 
 Hyper text markup language (HTML) is a markup language that is used to render
 content in web browsers. (.e.g. Apple Safari, Google Chrome, Mozilla Firefox).
@@ -127,7 +124,7 @@ Some elements are self closing and some elements can contain other elements.
 * ...
 * `<h6>` is a level 6 heading
 
-#### CSS
+### CSS
 
 CSS is short for Cascading Style Sheets. It's a language that is used to tell
 the browser how to make your page look.
@@ -160,7 +157,7 @@ div {
 }
 ```
 
-#### JavaScript
+### JavaScript
 
 JavaScript is a language that allows you to write code that can react to events
 in the browser. When you *click* on a button, this raises an event that can be
@@ -184,12 +181,12 @@ document.addEventListener('DOMContentLoaded', function(event) {
 });
 ```
 
-#### Activity
+### Activity
 
 Break up into groups of 2 or 3 and work through the sections named `Introduction to HTML`
 and `Customize your profile` together.
 
-### Tools
+### Source Control
 
 Programmers need a few tools in order to write code.
 
@@ -205,7 +202,8 @@ that we don't lose any of our work.
 Web Developers also need a **Web Browser** with [Dev Tools][devtools] like
 [Google Chrome][chrome].
 
-#### Source Control
+Programmers also need a way to save their code, back it up and share it with
+others. This is where a source control tool can help us.
 
 > Source control is a way to manage changes to code.
 
@@ -280,7 +278,11 @@ Remove Avatar for now.
 <!-- Start Lesson 0x06 -->
 ## Lesson 0x06
 
-## Markdown
+## Help!
+
+Having trouble? Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
+
+### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
@@ -304,11 +306,7 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-## Help!
-
-Having trouble? Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
-
-[Edit this page](https://github.com/CodeChica/plus-plus/edit/gh-pages/index.md).
+[Edit this page](https://github.com/CodeChica/plus-plus/edit/gh-pages/index.md)
 
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/
