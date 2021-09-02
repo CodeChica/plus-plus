@@ -1,4 +1,4 @@
-## CodeChica++
+## Welcome - CodeChica
 
 Welcome to CodeChica++.
 
