@@ -21,7 +21,7 @@ The issue templates for each issue can be found [here][issues].
 If you have a question [open a new discussion][new-discussion].
 
 [curriculum]: https://github.com/CodeChica/plus-plus/issues/new/choose
-[issues]: https://github.com/CodeChica/plus-plus/tree/main/.github/ISSUE_TEMPLATE
+[issues]: /.github/ISSUE_TEMPLATE
 [lessons]: /doc/lessons
 [new-discussion]: https://github.com/CodeChica/plus-plus/discussions
 [organization]: https://github.com/CodeChica
