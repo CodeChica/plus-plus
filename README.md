@@ -1,6 +1,6 @@
 # CodeChica++
 
-The full CodeChica++ curriculum can be found [here][curriculum].
+Welcome to CodeChica++.
 
 ## Getting Started (Students)
 
@@ -13,6 +13,18 @@ The full CodeChica++ curriculum can be found [here][curriculum].
 1. Slick "Submit new issue"
 1. Follow the steps in the description.
 
+The full curriculum can be found [here][curriculum].
+
+## Communication
+
+We use [Zoom][zoom] to meet, [Slack][slack] to chat, and [GitHub][organization] to have
+[discussions][new-discussion].
+
+For the best experience we suggest that you also install the following tools:
+
+* [Docker][docker]
+* [VSCode][vscode]
+
 ## Getting Started (Instructors)
 
 The lesson plans for each lesson can be found [here][lessons].
@@ -21,7 +33,11 @@ The issue templates for each issue can be found [here][issues].
 If you have a question [open a new discussion][new-discussion].
 
 [curriculum]: https://github.com/CodeChica/plus-plus/issues/new/choose
+[docker]: https://docs.docker.com/get-docker/
 [issues]: /.github/ISSUE_TEMPLATE
 [lessons]: /doc/lessons
 [new-discussion]: https://github.com/CodeChica/plus-plus/discussions
 [organization]: https://github.com/CodeChica
+[slack]: https://codechica-plus-plus.slack.com/
+[vscode]: https://code.visualstudio.com/
+[zoom]: https://zoom.us/

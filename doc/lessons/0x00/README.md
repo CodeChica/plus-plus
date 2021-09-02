@@ -1,5 +1,7 @@
 # Lesson 0x00
 
+Welcome to CodeChica++.
+
 Class preparation:
 
 * GitHub tour
