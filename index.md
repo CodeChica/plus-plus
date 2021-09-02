@@ -10,6 +10,12 @@ install and use.
 The [CodeChica channel][youtube] contains all the videos that we'll be using for
 this course.
 
+The following links are pages that you might want to bookmark.
+
+* [My Issues](https://github.com/issues/assigned)
+* The [Plus Plus repo](https://github.com/CodeChica/plus-plus)
+* The [SparkleHub repo](https://github.com/CodeChica/SparkleHub)
+
 ### Slack
 
 We use [Slack][slack] for group chat to share content with each other and to ask
@@ -52,7 +58,7 @@ explorer to work on labs and the final project.
 * Introduction to source control.
 * Let's peek at the final project, SparkleHub.
 
-### Create your first Issue
+### My First Issue
 
 1. [Open](https://github.com/CodeChica/plus-plus/issues/new/choose) in a new tab.
 1. Click the "Get Started" button next to "Lesson 0x01"
