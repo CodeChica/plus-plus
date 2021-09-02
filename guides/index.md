@@ -1,4 +1,4 @@
-## Guides - CodeChica
+## CodeChica++
 
 On this page you will find some guides for different subject that we will cover
 in this course.
