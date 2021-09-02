@@ -1,20 +1,16 @@
-## CodeChica++
+## Welcome to CodeChica++
 
-Welcome to CodeChica++.
+::TODO Welcome video
 
-To make sure that you are prepared for the first class we've put together this
-guide to help you get comfortable with the tools that we'll be using in this
-class. All the tools that we'll be using in this course is **free** to download,
+All the tools that we'll be using in this course is **free** to download,
 install and use.
-
-The [CodeChica channel][youtube] contains all the videos that we'll be using for
-this course.
 
 Please complete the following before our first class.
 
 1. [Register for a GitHub Account](https://github.com/signup)
 1. [Install VSCode](https://code.visualstudio.com/Download)
 1. [Install Slack](https://slack.com/downloads/)
+1. [Install Zoom][zoom]
 
 ### Lessons
 
@@ -37,21 +33,17 @@ discuss in more depth.
 * [Terminal](./guides/terminal.md)
 * [VSCode](./guides/vscode.md)
 
-### Links
+### Help!
 
-* [Issues](https://github.com/CodeChica/plus-plus/issues/choose)
-* [Plus Plus](https://github.com/CodeChica/plus-plus)
-* [SparkleHub](https://github.com/CodeChica/SparkleHub)
-
-## Help!
-
-Having trouble? Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
+Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
 
 Where can I find...?
 
+* [CodeChica channel][youtube]
+* [Issues](https://github.com/CodeChica/plus-plus/issues/choose)
 * [My Issues](https://github.com/issues/assigned)
-* The [Plus Plus repo](https://github.com/CodeChica/plus-plus)
-* The [SparkleHub repo](https://github.com/CodeChica/SparkleHub)
+* [Plus Plus](https://github.com/CodeChica/plus-plus)
+* [SparkleHub](https://github.com/CodeChica/SparkleHub)
 
 [Edit this page](https://github.com/CodeChica/plus-plus/edit/gh-pages/index.md)
 
