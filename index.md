@@ -10,12 +10,6 @@ install and use.
 The [CodeChica channel][youtube] contains all the videos that we'll be using for
 this course.
 
-The following links are pages that you might want to bookmark.
-
-* [My Issues](https://github.com/issues/assigned)
-* The [Plus Plus repo](https://github.com/CodeChica/plus-plus)
-* The [SparkleHub repo](https://github.com/CodeChica/SparkleHub)
-
 ### GitHub
 
 We'll be using our [CodeChica organization on GitHub][organization] to host our
@@ -50,7 +44,6 @@ workspace then send me an [email][email] and we'll make sure that you get added.
 
 [Learn more about Slack](https://slack.com/intl/en-ca/features)
 
-* [Lessons](/lessons/)
 * [Guides](/guides/)
 * [Issues](https://github.com/CodeChica/plus-plus/issues/choose)
 * [Plus Plus](https://github.com/CodeChica/plus-plus)
@@ -71,16 +64,22 @@ Follow the steps below to create your first Issue.
 
 ### Lessons
 
-* 0x01 - HTML, CSS, JavaScript and Source Control
-* 0x02 - Git fundamentals
-* 0x03 - Testing and pair programming
-* 0x04 - The Software Engineering Lifecycle
-* 0x05 - The Software Engineer's role
-* 0x06 - Exploring SparkleHub
+* 0x01 - [HTML, CSS, JavaScript and Source Control](lessons/0x01/)
+* 0x02 - [Git fundamentals](lessons/0x02)
+* 0x03 - [Testing and pair programming](lessons/0x03)
+* 0x04 - [The Software Engineering Lifecycle](lessons/0x04)
+* 0x05 - [The Software Engineer's role](lessons/0x05)
+* 0x06 - [Exploring SparkleHub](lessons/0x06)
 
 ## Help!
 
 Having trouble? Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
+
+Where can I find...?
+
+* [My Issues](https://github.com/issues/assigned)
+* The [Plus Plus repo](https://github.com/CodeChica/plus-plus)
+* The [SparkleHub repo](https://github.com/CodeChica/SparkleHub)
 
 [Edit this page](https://github.com/CodeChica/plus-plus/edit/gh-pages/index.md)
 
