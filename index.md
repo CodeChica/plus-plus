@@ -31,9 +31,6 @@ If you're able to, please install the following tools.
   <li><a href="https://zoom.us/">Zoom</a></li>
 </ul>
 
-Happy hacking!
-
-<!--
 ## Lessons
 
 1. [HTML, CSS, JavaScript and Source Control](lessons/0x01/)
@@ -42,7 +39,8 @@ Happy hacking!
 1. [The Software Engineering Lifecycle](lessons/0x04)
 1. [The Software Engineer's role](lessons/0x05)
 1. [Exploring SparkleHub](lessons/0x06)
--->
+
+Happy hacking!
 
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/

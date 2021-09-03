@@ -1,20 +1,44 @@
-## 0x01 - HTML, CSS, JavaScript and Source Control
+# 0x01 - HTML, CSS, JavaScript and Source Control
 
-1. [Web Dev Review](./web-slides.html)
-  * [HTML](../../guides/html.html)
-  * [CSS](../../guides/css.html)
-  * [JavaScript](../../guides/javascript.html)
-1. Activity: Complete the "Introduction to HTML" section in your [Lesson 0x01 issue][lesson_one_issue].
-1. [Source Control](./scm-slides.html)
-  1. [Git](../../guides/git.html)
-  1. [Play the Git Game][git_game].
+## Agenda
+
+1. [Web Development Review](#web-development-review)
+1. [Intro to Source Control](#intro-to-source-control)
 1. Tour of [SparkleHub][sparklehub]
-1. Activity: Complete the "Customize your profile" section in your [Lesson 0x01 issue][lesson_one_issue].
+
+## Web Development Review
+
+::TODO insert youtube video here.
+
+[Slides](./web-slides.html)
+
+Guides:
+
+* [HTML Guide](../../guides/html.html)
+* [CSS Guide](../../guides/css.html)
+* [JavaScript Guide](../../guides/javascript.html)
 
 ### Activity
 
-Break up into groups of 2 or 3 and work through the sections named `Introduction to HTML`
-and `Customize your profile` together.
+Open up your [Lesson 0x01 issue][lesson_one_issue] and complete the following
+in a group of 2 to 3.
+
+* Complese the section named "Introduction to HTML".
+* Complete the section named "Customize your profile".
+
+## Source Control
+
+::TODO insert youtube video here.
+
+[Slides](./scm-slides.html)
+
+Guides:
+
+* [Git Guide](../../guides/git.html)
+
+### Activity
+
+Spend a little time playing the [Git branching game][git_game].
 
 [git_game]: https://learngitbranching.js.org/
 [sparklehub]: https://sparklehub.herokuapp.com/
