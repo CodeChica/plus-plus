@@ -10,7 +10,7 @@ body {
 }
 
 * {
-  /*font-family: monospace;*/
+  font-family: sans-serif;
   color: #333447;
   line-height: 1.5;
 }
@@ -22,9 +22,11 @@ h4 { font-size: 1.125rem; }
 h5 { font-size: 1rem; }
 h6 { font-size: 0.875rem; }
 
-strong { font-weight: bold; }
 blockquote { font-style: italic; }
 code { font-style: italic; }
+ol { list-style: decimal-leading-zero; }
+strong { font-weight: bold; }
+ul { list-style: none; }
 
 p {
   font-size: 1.5rem;
@@ -32,40 +34,9 @@ p {
   line-height: 1.8;
 }
 
-
-ol {
-  list-style: decimal-leading-zero;
-  margin-left: 20px;
-}
-
-ul {
-  list-style: none;
-  margin-left: -15px;
-}
-
 img {
   width: 100%;
   border-radius: 2%;
-}
-
-
-.block { display: block; }
-.font-heavy { font-weight: 700; }
-.font-light { font-weight: 300; }
-.font-regular { font-weight: 400; }
-.font-small { font-size: small; }
-.font-medium { font-size: medium; }
-.font-xsmall { font-size: x-small; }
-.link { text-decoration: none; }
-.text-center { text-align: center; }
-.text-justify { text-align: justify; }
-.text-left { text-align: left; }
-.text-right { text-align: right; }
-
-.center {
-  text-align: center;
-  margin-left: auto;
-  margin-right: auto;
 }
 
 .container {
@@ -112,3 +83,48 @@ img {
   .col-12 { width: 96%; }
 }
 @media only screen and (min-width: 60em) { .container { width: 75%; max-width: 60rem; } }
+
+.block { display: block; }
+.font-heavy { font-weight: 700; }
+.font-light { font-weight: 300; }
+.font-regular { font-weight: 400; }
+.font-small { font-size: small; }
+.font-medium { font-size: medium; }
+.font-xsmall { font-size: x-small; }
+.link { text-decoration: none; }
+.text-center { text-align: center; }
+.text-justify { text-align: justify; }
+.text-left { text-align: left; }
+.text-right { text-align: right; }
+
+.center {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.iframe-container {
+  overflow: hidden;
+  padding-top: 56.25%;
+  position: relative;
+}
+.iframe-container iframe {
+  border: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+ul.navigation {
+  padding: 0;
+  text-align: center;
+}
+ul.navigation li {
+  display: block;
+  line-height: 2.0;
+}
+ul.navigation li a {
+  text-decoration: none;
+}

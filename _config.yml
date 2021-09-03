@@ -3,7 +3,7 @@ baseurl: "/plus-plus/"
 description: "You're looking at it."
 domain: codechica.github.io
 lang: 'en'
-markdown: GFM
+markdown: kramdown
 page_excerpts: true
 title: CodeChica++
 url: https://codechica.github.io
@@ -22,3 +22,5 @@ defaults:
       type: "pages"
     values:
       layout: "default"
+plugins:
+  - jekyll-youtube
