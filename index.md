@@ -23,16 +23,6 @@ This curriculum was designed to use [Codespaces](./guides/github.html#codespaces
 You can choose to complete the labs and other course work using alternative
 development environments but a [Linux](./guides/linux.html) operating system is recommended.
 
-## Help!
-
-Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
-
-* [CodeChica channel][youtube]
-* [Issues](https://github.com/CodeChica/plus-plus/issues/choose)
-* [My Issues](https://github.com/issues/assigned)
-* [Plus Plus](https://github.com/CodeChica/plus-plus)
-* [SparkleHub](https://github.com/CodeChica/SparkleHub)
-
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/
 [codechica]: https://github.com/CodeChica/
