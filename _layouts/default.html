@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+  <head>
+    <meta charset='utf-8'>
+    <title>{{ page.title }}</title>
+    <meta http-equiv="Pragma" content="no-cache">
+    <meta http-equiv="Referrer-Policy" content="origin">
+    <meta http-equiv="X-Content-Type-Options" content="nosniff">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="{{ site.author }}" />
+    <meta name="description" content="{{ page.excerpt | strip_html }}" />
+    <meta name="referrer" content="no-referrer">
+    <meta name="twitter:card" content="{{ page.excerpt | strip_html }}" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:description" content="{{ page.excerpt | strip_html }}" />
+    <meta property="og:locale" content="en" />
+    <meta property="og:site_name" content="{{ site.title }}" />
+    <meta property="og:title" content="{{ page.title }}" />
+    <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
+    <meta property="twitter:title" content="{{ page.title }}" />
+    <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+    <link rel="stylesheet" href="{{ './assets/css/screen.css?v=' | append: relative_url }}">
+  </head>
+  <body>
+    <main class="container">
+      <div class="row">
+        <div class="col-12">
+          {{ content }}
+        </div>
+      </div>
+    </main>
+    <footer class="container">
+      <div class="row">
+        <div class="col-12">
+          <p class="text-center">{{ site.description }}</p>
+        </div>
+      </div>
+    </footer>
+  </body>
+</html>

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Welcome to CodeChica++
 
 ::TODO Welcome video
@@ -26,9 +30,14 @@ Please complete the following before our first class.
 We've built a few guides to help you explore some of the topics that we'll
 discuss in more depth.
 
+* [CSS](./guides/css.md)
 * [GitHub](./guides/github.md)
 * [Git](./guides/git.md)
+* [Go](./guides/golang.md)
+* [HTML](./guides/html.md)
+* [JavaScript](./guides/javascript.md)
 * [Markdown](./guides/markdown.md)
+* [Ruby](./guides/ruby.md)
 * [Slack](./guides/slack.md)
 * [Terminal](./guides/terminal.md)
 * [VSCode](./guides/vscode.md)
