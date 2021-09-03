@@ -10,6 +10,30 @@ You will explore roles such as Product Manager, Designer and Web Developer.
 You will learn how to contribute to [SparkleHub](https://sparklehub.herokuapp.com/)
 a place to sparkle others with kindness, using *free* software.
 
+## Prerequisites
+
+You will need your own GitHub account in order to complete this course.
+**Please <a href="https://github.com/signup">create a GitHub account</a> before
+the first class.**
+
+This curriculum was designed to use [Codespaces](./guides/github.html#codespaces)
+to complete the labs and assignments.
+It is also possible to complete the labs and other course work using alternative
+development environments. However, a [Linux](./guides/linux.html) operating system
+is recommended.
+
+If you're able to, please install the following tools.
+
+<ul>
+  <li><a href="https://code.visualstudio.com/Download">VSCode</a></li>
+  <li><a href="https://golang.org/dl/">Golang</a></li>
+  <li><a href="https://slack.com/downloads/">Slack</a></li>
+  <li><a href="https://zoom.us/">Zoom</a></li>
+</ul>
+
+Happy hacking!
+
+<!--
 ## Lessons
 
 1. [HTML, CSS, JavaScript and Source Control](lessons/0x01/)
@@ -18,10 +42,7 @@ a place to sparkle others with kindness, using *free* software.
 1. [The Software Engineering Lifecycle](lessons/0x04)
 1. [The Software Engineer's role](lessons/0x05)
 1. [Exploring SparkleHub](lessons/0x06)
-
-This curriculum was designed to use [Codespaces](./guides/github.html#codespaces) to complete the labs and assignments.
-You can choose to complete the labs and other course work using alternative
-development environments but a [Linux](./guides/linux.html) operating system is recommended.
+-->
 
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/

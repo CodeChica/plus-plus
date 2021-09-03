@@ -1,0 +1,173 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <title>0x01 - The Web</title>
+    <link rel="stylesheet" href="../../dist/reset.css">
+    <link rel="stylesheet" href="../../dist/reveal.css">
+    <link rel="stylesheet" href="../../dist/theme/black.css">
+    <link rel="stylesheet" href="../../plugin/highlight/monokai.css">
+  </head>
+  <body>
+    <div class="reveal">
+      <div class="slides">
+        <section>HTML, CSS, JavaScript</section>
+        <section>
+          HTML
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ```html
+            <html>
+              <head>
+                <title>Browser Tab Title</title>
+              </head>
+              <body>
+                <div id="container">
+                  <h1>Hello, world!</h1>
+                  <p>
+                    I like sandwiches.
+                    Do you like sandwiches?
+                  </p>
+                </div>
+              </body>
+            </html>
+            ```
+          </textarea>
+        </section>
+        <section>
+          CSS
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ```css
+            div { background-color: pink; }
+            .hero { text-align: center; }
+
+            #container {
+              width: 90%;
+              margin-left: auto;
+              margin-right: auto;
+            }
+            ```
+          </textarea>
+        </section>
+        <section>
+          JavaScript Review
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ```javascript
+            function onClick(event) {
+              alert('Ouch!');
+            }
+            ```
+          </textarea>
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ```html
+            <html>
+              <head>
+                <title>Hi</title>
+                <style>
+                  body { background-color: pink; }
+                </style>
+                <script>
+                  function onClick(event) {
+                    alert('Ouch!');
+                  }
+                </script>
+              </head>
+              <body onclick="onClick()">
+              </body>
+            </html>
+            ```
+          </textarea>
+        </section>
+        <section>
+          Customer -> Table -> Server -> Kitchen
+        </section>
+        <section>
+          Human -> Web Browser -> Server -> Database
+        </section>
+        <section>
+          Client -> Server
+        </section>
+        <section>
+          Client sends a Request -> Server
+        </section>
+        <section>
+          Client <- recevies a Response Server
+        </section>
+        <section>
+          Request/Response
+        </section>
+        <section>
+          GET /plus-plus/index.html
+          HOST codechica.github.io
+        </section>
+        <section>
+          We need a server to serve requests.
+        </section>
+        <section>
+          Pardon me?
+        </section>
+        <section>
+          Okay, let's build a static website ✨
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ```bash
+            HTTP/2 200
+            Server: GitHub.com
+            Content-Type: text/html
+
+            <!DOCTYPE html>
+            <html>
+              <head>
+                <title>CodeChica++</title>
+              </head>
+              <body>
+                <h1>Hola, Chicas!</h1>
+              </body>
+            </html>
+            ```
+          </textarea>
+        </section>
+        <section>
+          Static HTML
+        </section>
+        <section>
+          Static HTML: Ugh! So much work.
+        </section>
+        <section>
+          Is there something easier?
+        </section>
+        <section>
+          Yup!
+        </section>
+        <section>
+          Let's talk about <em>Dynamically Generated HTML</em>
+        </section>
+        <section>
+          Let's take a tour of the dev tools ✨
+        </section>
+        <section>
+          https://codechica.github.io/plus-plus/index.html
+        </section>
+      </div>
+    </div>
+    <script src="../../dist/reveal.js"></script>
+    <script src="../../plugin/notes/notes.js"></script>
+    <script src="../../plugin/markdown/markdown.js"></script>
+    <script src="../../plugin/highlight/highlight.js"></script>
+    <script>
+      Reveal.initialize({
+        hash: true,
+        plugins: [RevealMarkdown, RevealHighlight, RevealNotes]
+      });
+    </script>
+  </body>
+</html>
