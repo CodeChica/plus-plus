@@ -8,7 +8,7 @@ You will explore roles such as Product Manager, Designer and Web Developer.
 You will learn how to contribute to [SparkleHub](https://sparklehub.herokuapp.com/)
 a place to sparkle others with kindness, using *free* software.
 
-{% youtube "https://www.youtube-nocookie.com/embed/TIcbzfOCU14" %}
+{% include youtube.html youtube_id="TIcbzfOCU14" %}
 
 ## Prerequisites
 
