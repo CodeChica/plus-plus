@@ -1,6 +1,43 @@
 ## Lesson 0x04
 
-[slides](./slides.html)
+Software Engineering Lifecycle
+
+* Thought -> Product
+* Planning Stage, Requirements, Feasibility, Design, Prototyping,
+  Implementation, Testing.
+* Mini pop quiz: Which phase are we in right now?
+* Encourage them to research outside of class.
+
+Introduction to roles: What are the different types of jobs in tech?
+
+* Product Manager
+  * Product manager's guide to prioritizing things
+  * Activity: Girls brainstorm a different feature for SparkleHub
+* Designer
+  * Designer's guide to designing things.
+  * Wireframes - showing them the tools that developers use in the real world (how to create lines, shapes).
+  * Usability, UI, UX, Design
+  * Girls draw out what their feature idea could look like:
+    Activity: Wireframe
+
+Outcomes:
+
+* Girls will learn about the software engineering life cycle, and explore an
+  overview of the product manager & designer roles in tech.
+* Girls will come up with an idea for a new feature, and a wireframe for it.
+
+
+As an instructor, I want to be able to teach lesson 0x04 so that students can
+understand the software engineering life cycle.
+
+* [ ] Students learn an overview of what a product manager does.
+* [ ] Students learn an overview of what a designer does.
+* [ ] Students create a user story as the product manager.
+* [ ] Students create a wireframe as a designer.
+
+
+* [Presentation](./slides.html)
+  * Include link to video of team meeting.
 
 ```plaintext
 # Agenda
