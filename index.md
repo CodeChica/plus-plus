@@ -16,22 +16,13 @@ You will need your own GitHub account in order to complete this course.
 **Please <a href="https://github.com/signup">create a GitHub account</a> before
 the first class.**
 
-This curriculum was designed to use [Codespaces](./guides/github.html#codespaces)
-to complete the labs and assignments.
-It is also possible to complete the labs and other course work using alternative
-development environments. However, a [Linux](./guides/linux.html) operating system
-is recommended.
+We will use <a href="https://code.visualstudio.com/Download">VSCode</a> as our
+editor to write/edit code, <a href="https://golang.org/dl/">Golang</a> as the
+programming language for our backend server, <a href="https://slack.com/downloads/">Slack</a>
+to chat and <a href="https://zoom.us/">Zoom</a> to meet online. Please try to
+install these tools before our first class together.
 
-If you're able to, please install the following tools.
-
-<ul>
-  <li><a href="https://code.visualstudio.com/Download">VSCode</a></li>
-  <li><a href="https://golang.org/dl/">Golang</a></li>
-  <li><a href="https://slack.com/downloads/">Slack</a></li>
-  <li><a href="https://zoom.us/">Zoom</a></li>
-</ul>
-
-## Lessons
+## Curriculum
 
 1. [HTML, CSS, JavaScript and Source Control](lessons/0x01/)
 1. [Git fundamentals](lessons/0x02)
@@ -39,6 +30,16 @@ If you're able to, please install the following tools.
 1. [The Software Engineering Lifecycle](lessons/0x04)
 1. [The Software Engineer's role](lessons/0x05)
 1. [Exploring SparkleHub](lessons/0x06)
+1. Project work
+1. Project work
+1. Project work
+1. Project show case
+
+This curriculum was designed to use [Codespaces](./guides/github.html#codespaces)
+to complete the labs and assignments.
+It is also possible to complete the labs and other course work using alternative
+development environments. However, a [Linux](./guides/linux.html) operating system
+is recommended.
 
 Happy hacking!
 
