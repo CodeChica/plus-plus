@@ -17,10 +17,37 @@ code.
 [git][git] allows us to make mistakes safely, and it makes it easier for us to
 work together.
 
+### Source Control
+
+Programmers use an **editor** to write code, and a **terminal** to
+issues commands to a compilers/transpiler/interpreter to convert
+code into something that a computer can execute.
+
+Programmers also need a way to save their code, back it up and share it with
+others. This is where a source control tool can help us.
+
+> Source control is a way to manage changes to code over time.
+
+Sompe people also call it **version control** or **software configuration management**.
+
+These terms are meant to describe a way to make sure that we don't lose our chagnes that
+we make to code and that we have a way to keep track of the different changes that
+different people are are making to the code.
+
+[git][git] is a tools used to keep a record of the changes that we make to our code.
+[GitHub][github] is a website that lets us save our git repos so that we don't
+have to worry if our computer crashes.
+
 ### Git Concepts
 
 To get familiar with different concepts we will use
 [Learn Git Branching][learngit] to help us get familiar with git.
+
+::TODO insert video going over the different git concepts in the terminal
+
+* init
+* add
+* commit
 
 ### Git in the Terminal
 
@@ -165,3 +192,11 @@ changes into the owners repository.
 
 Repository (repo)
 : A repo is a directory of code managed by git.
+
+[alacritty]: https://github.com/alacritty/alacritty
+[codechica]: https://github.com/CodeChica/
+[git]: https://git-scm.com/
+[github]: https://github.com/
+[learngit]: https://learngitbranching.js.org/
+[linux_commit]: https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
+[vscode]: https://code.visualstudio.com/

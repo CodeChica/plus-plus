@@ -7,3 +7,18 @@ markdown: GFM
 page_excerpts: true
 title: CodeChica++
 url: https://codechica.github.io
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "lessons"
+      type: "pages"
+    values:
+      layout: "default"
+  - scope:
+      path: "guides"
+      type: "pages"
+    values:
+      layout: "default"

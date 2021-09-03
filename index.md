@@ -2,59 +2,36 @@
 layout: default
 ---
 
-## Welcome to CodeChica++
+::TODO insert Welcome video
 
-::TODO Welcome video
+CodeChica++ is a course designed to teach you about source control,
+writing tests, fixing bugs, and other web development fundamentals.
+You will explore roles such as Product Manager, Designer and Web Developer.
+You will learn how to contribute to [SparkleHub](https://sparklehub.herokuapp.com/)
+a place to sparkle others with kindness, using *free* software.
 
-All the tools that we'll be using in this course is **free** to download,
-install and use.
+## Lessons
 
-Please complete the following before our first class.
+1. [HTML, CSS, JavaScript and Source Control](lessons/0x01/)
+1. [Git fundamentals](lessons/0x02)
+1. [Testing and pair programming](lessons/0x03)
+1. [The Software Engineering Lifecycle](lessons/0x04)
+1. [The Software Engineer's role](lessons/0x05)
+1. [Exploring SparkleHub](lessons/0x06)
 
-1. [Register for a GitHub Account](https://github.com/signup)
-1. [Install VSCode](https://code.visualstudio.com/Download)
-1. [Install Slack](https://slack.com/downloads/)
-1. [Install Zoom][zoom]
+This curriculum was designed to use [Codespaces](./guides/github.html#codespaces) to complete the labs and assignments.
+You can choose to complete the labs and other course work using alternative
+development environments but a [Linux](./guides/linux.html) operating system is recommended.
 
-### Lessons
-
-* 0x01 - [HTML, CSS, JavaScript and Source Control](lessons/0x01/)
-* 0x02 - [Git fundamentals](lessons/0x02)
-* 0x03 - [Testing and pair programming](lessons/0x03)
-* 0x04 - [The Software Engineering Lifecycle](lessons/0x04)
-* 0x05 - [The Software Engineer's role](lessons/0x05)
-* 0x06 - [Exploring SparkleHub](lessons/0x06)
-
-### Guides
-
-We've built a few guides to help you explore some of the topics that we'll
-discuss in more depth.
-
-* [CSS](./guides/css.md)
-* [GitHub](./guides/github.md)
-* [Git](./guides/git.md)
-* [Go](./guides/golang.md)
-* [HTML](./guides/html.md)
-* [JavaScript](./guides/javascript.md)
-* [Markdown](./guides/markdown.md)
-* [Ruby](./guides/ruby.md)
-* [Slack](./guides/slack.md)
-* [Terminal](./guides/terminal.md)
-* [VSCode](./guides/vscode.md)
-
-### Help!
+## Help!
 
 Check out our [discussions][discussions] or ask for help in [Slack][slack] and we’ll help you sort it out.
-
-Where can I find...?
 
 * [CodeChica channel][youtube]
 * [Issues](https://github.com/CodeChica/plus-plus/issues/choose)
 * [My Issues](https://github.com/issues/assigned)
 * [Plus Plus](https://github.com/CodeChica/plus-plus)
 * [SparkleHub](https://github.com/CodeChica/SparkleHub)
-
-[Edit this page](https://github.com/CodeChica/plus-plus/edit/gh-pages/index.md)
 
 [alacritty]: https://github.com/alacritty/alacritty
 [chrome]: https://www.google.com/chrome/

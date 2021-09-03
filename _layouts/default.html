@@ -19,20 +19,35 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    <link rel="stylesheet" href="{{ './assets/css/screen.css?v=' | append: relative_url }}">
+    <link rel="stylesheet" href="{{site.baseurl}}{{ 'assets/css/github.css?v=' | append: relative_url }}">
+    <link rel="stylesheet" href="{{site.baseurl}}{{ 'assets/css/screen.css?v=' | append: relative_url }}">
   </head>
   <body>
-    <main class="container">
+    <header class="container">
       <div class="row">
         <div class="col-12">
+          <p class="text-center">
+            <a href="{{ site.url }}{{ site.baseurl }}" class="link">{{ site.title }}</a>
+          </p>
+        </div>
+      </div>
+    </header>
+    <main class="container">
+      <div class="row">
+        <div class="col-9">
           {{ content }}
+        </div>
+        <div class="col-3">
+          {% include sidebar.html %}
         </div>
       </div>
     </main>
     <footer class="container">
       <div class="row">
         <div class="col-12">
-          <p class="text-center">{{ site.description }}</p>
+          <p class="text-center font-small"><a href="https://github.com/CodeChica/plus-plus/edit/gh-pages/{{ page.path }}">edit</a></p>
+          <p class="text-center font-small">&copy;2021 <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680" class="link">Latinitas</a>. All rights reserved.</p>
+          <p class="text-center font-small">This course is designed by Latinitas with assistance from volunteers.</p>
         </div>
       </div>
     </footer>

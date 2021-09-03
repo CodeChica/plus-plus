@@ -27,7 +27,7 @@ Follow the steps below to create your first Issue.
 1. [Open](https://github.com/CodeChica/plus-plus/issues/new/choose) in a new tab.
 1. Click the "Get Started" button next to "Lesson 0x01"
 
-![Creating my first issue](/images/create-first-issue.gif)
+![Creating my first issue](../assets/images/create-first-issue.gif)
 
 ### Codespaces
 
