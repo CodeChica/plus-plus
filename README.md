@@ -9,8 +9,9 @@ Welcome to CodeChica++.
 1. Check your email for an invitation to the [CodeChica organization][organization].
 1. Accept the invitation.
 1. Open [this](https://github.com/CodeChica/plus-plus/issues/new?labels=&template=0x01.md&title=Lesson+0x01) and follow the steps in the description.
+1. [](http://localhost:4000/plus-plus/guides/github.html#issues)
 
-![Creating my first issue](/doc/images/create-first-issue.gif)
+![Creating my first issue](https://codechica.github.io/plus-plus/assets/images/create-first-issue.gif)
 
 The full curriculum can be found [here][curriculum].
 
@@ -34,7 +35,7 @@ If you have a question [open a new discussion][new-discussion].
 [curriculum]: https://github.com/CodeChica/plus-plus/issues/new/choose
 [docker]: https://docs.docker.com/get-docker/
 [issues]: /.github/ISSUE_TEMPLATE
-[lessons]: /doc/lessons
+[lessons]: https://github.com/CodeChica/plus-plus/tree/gh-pages/lessons
 [new-discussion]: https://github.com/CodeChica/plus-plus/discussions
 [organization]: https://github.com/CodeChica
 [slack]: https://codechica-plus-plus.slack.com/
