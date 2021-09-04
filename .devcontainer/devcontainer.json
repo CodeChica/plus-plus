@@ -16,12 +16,10 @@
     "go.goroot": "/usr/local/go"
   },
   "extensions": [
-    "golang.Go",
-    "golang.go",
-    "github.vscode-pull-request-github",
-    "ms-azuretools.vscode-docker",
     "github.github-vscode-theme",
-    "ms-vsliveshare.vsliveshare",
+    "github.vscode-pull-request-github",
+    "golang.go",
+    "ms-azuretools.vscode-docker",
     "ms-vscode-remote.remote-containers"
   ]
 }
