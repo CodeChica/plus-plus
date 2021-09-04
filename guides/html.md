@@ -47,6 +47,8 @@ Some elements are self closing and some elements can contain other elements.
 * ...
 * `<h6>` is a level 6 heading
 
+{% include youtube.html youtube_id="y6stlwCb7VU" %}
+
 ### Tools
 
 Web Developers use a **Web Browser** with [Dev Tools][devtools] like [Google Chrome][chrome].
