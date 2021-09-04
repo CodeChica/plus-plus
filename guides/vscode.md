@@ -17,23 +17,24 @@ in using your GitHub account.
 In this video, I show you how to launch a Codespace so that you have a
 development environment in the cloud to complete the course work.
 
-::TODO insert video
-
-* Method 1: Codespaces
+{% include youtube.html youtube_id="AC_7zcc-3ps" %}
 
 [Read more in the Codespace guide](./github.html#codespaces)
 
+<!--
 ### Docker
 
 In this video, I show you how to launch a dev container using Docker.
 
 * Method 2: Docker
+-->
 
+<!--
 ### Laptop
 
 In this video, I show you how to run things directly from your computer.
 
 * Method 3: Computer - [git](https://git-scm.com/downloads)
-
+-->
 
 [vscode]: https://code.visualstudio.com/

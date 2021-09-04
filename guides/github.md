@@ -43,6 +43,8 @@ figuring out how to install git, Linux, Ruby, Node.js etc.
 
 #### [Create my Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/creating-a-codespace#creating-a-codespace)
 
+{% include youtube.html youtube_id="AC_7zcc-3ps" %}
+
 1. Open the [SparkleHub](https://github.com/codechica/SparkleHub) repo in a browser.
 1. Click on "Code"
 1. Click on "Codespaces"
@@ -61,6 +63,7 @@ Take a look at the files in the directory [app/views](https://github.com/CodeChi
 
 If you want to turn off the server press "Ctrl" + "c" in the terminal.
 
+
 #### [Delete my Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/deleting-a-codespace)
 
 When you are finished with your Codespace it is a good idea to clean it up.
@@ -73,3 +76,8 @@ When you are finished with your Codespace it is a good idea to clean it up.
 
 [Try the troubleshooting guide](https://docs.github.com/en/codespaces/codespaces-reference/troubleshooting-your-codespace)
 or [open a new question](https://github.com/CodeChica/plus-plus/discussions/categories/q-a) if you get stuck.
+
+[github]: https://github.com/
+[organization]: https://github.com/CodeChica
+[discussions]: https://github.com/CodeChica/plus-plus/discussions
+[curriculum]: https://github.com/CodeChica/plus-plus/issues/new/choose
