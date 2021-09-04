@@ -3,6 +3,8 @@
 Hyper text markup language (HTML) is a markup language that is used to render
 content in web browsers. (.e.g. Apple Safari, Google Chrome, Mozilla Firefox).
 
+{% include youtube.html youtube_id="XNAM6MjPfok" %}
+
 HTML is used to describe the *content* of a document. Remember the internet was
 first created as a way to share documents so that people could learn from each
 other. So the terms *web page* and *document* mean the same thing.
