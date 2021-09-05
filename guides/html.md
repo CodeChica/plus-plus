@@ -54,3 +54,6 @@ Some elements are self closing and some elements can contain other elements.
 Web Developers use a **Web Browser** with [Dev Tools][devtools] like [Google Chrome][chrome].
 
 ::TODO tour of Google Chrome developer tools.
+
+[chrome]: https://www.google.com/chrome/
+[devtools]: https://developer.chrome.com/docs/devtools/
