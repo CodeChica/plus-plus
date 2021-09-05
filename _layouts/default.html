@@ -19,16 +19,16 @@
     <meta property="og:url" content="{{ site.url }}{{ page.url }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
     <link rel="canonical" href="{{ site.url }}{{ page.url }}">
-    <link rel="stylesheet" href="{{site.baseurl}}{{ 'assets/css/github.css?v=' | append: relative_url }}">
-    <link rel="stylesheet" href="{{site.baseurl}}{{ 'assets/css/screen.css?v=' | append: relative_url }}">
+    <link rel="stylesheet" href="/assets/css/github.css?v={{ site.time | date: "%s" }}">
+    <link rel="stylesheet" href="/assets/css/screen.css?v={{ site.time | date: "%s" }}">
   </head>
   <body>
     <header class="container">
       <div class="row">
         <div class="col-12">
           <p class="text-center">
-            <a href="{{ site.url }}{{ site.baseurl }}" class="link">
-              <img src="{{site.baseurl}}assets/images/code-chica-plus-plus.png" alt="{{ site.title }}" />
+            <a href="/" class="link">
+              <img src="/assets/images/code-chica-plus-plus.png" alt="{{ site.title }}" />
             </a>
           </p>
         </div>
