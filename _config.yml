@@ -3,7 +3,7 @@ baseurl: "/plus-plus/"
 description: "You're looking at it."
 domain: codechica.github.io
 lang: 'en'
-markdown: kramdown
+markdown: GFM
 page_excerpts: true
 title: CodeChica++
 url: https://codechica.github.io
