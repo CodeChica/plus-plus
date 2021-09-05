@@ -1,4 +1,4 @@
-# 0x01 - HTML, CSS, JavaScript and Source Control
+# 0x01 - HTML, CSS, JavaScript
 
 ## Agenda
 
@@ -10,7 +10,7 @@
 
 ::TODO insert youtube video here.
 
-[Slides](./web-slides.html)
+[Slides](./slides.html)
 
 Guides:
 
@@ -26,20 +26,5 @@ in a group of 2 to 3.
 * Complese the section named "Introduction to HTML".
 * Complete the section named "Customize your profile".
 
-## Source Control
-
-::TODO insert youtube video here.
-
-[Slides](./scm-slides.html)
-
-Guides:
-
-* [Git Guide](../../guides/git.html)
-
-### Activity
-
-Spend a little time playing the [Git branching game][git_game].
-
-[git_game]: https://learngitbranching.js.org/
 [sparklehub]: https://sparklehub.herokuapp.com/
 [lesson_one_issue]: https://github.com/issues/assigned

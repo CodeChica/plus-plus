@@ -24,8 +24,8 @@ install these tools before our first class together.
 
 ## Curriculum
 
-1. [HTML, CSS, JavaScript and Source Control](lessons/0x01/)
-1. Git fundamentals
+1. [HTML, CSS, JavaScript](lessons/0x01/)
+1. Source Control and Git
 1. Testing and pair programming
 1. The Software Engineering Lifecycle
 1. The Software Engineer's role

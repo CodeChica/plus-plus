@@ -37,4 +37,9 @@ In this video, I show you how to run things directly from your computer.
 * Method 3: Computer - [git](https://git-scm.com/downloads)
 -->
 
+### Integrated Terminal
+
+[Learn more][integrated_terminal]
+
 [vscode]: https://code.visualstudio.com/
+[integrated_terminal]: https://code.visualstudio.com/docs/editor/integrated-terminal

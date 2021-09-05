@@ -1,5 +1,6 @@
-## Lesson 0x02
+# 0x02 - Source Control and Git
 
+<!--
 * GitHub as a tool
 * Git + GitHub fundamentals, writing commits, messages, pull requests, forking,
   get familiar with how to save their code & collaborate on that platform.
@@ -25,5 +26,34 @@
     icebreakers, favorite emojis/ what they wanna do in the future.
   * Example of ReadME repo https://github.com/Apang20
 * Rinse & repeat exercises (source control, do an exercise each class?)
+-->
 
-[slides](./slides.html)
+## Source Control
+
+::TODO insert youtube video here.
+
+[Slides](./slides.html)
+
+### Activity
+
+TBD:
+
+### Git
+
+Guides:
+
+* [Terminal Guide](../../guides/terminal.html)
+* [Git Guide](../../guides/git.html)
+
+### Activity
+
+Spend a little time playing the [Git branching game][git_game].
+
+[gh_pages]: https://lab.github.com/githubtraining/github-pages
+[git]: https://git-scm.com/
+[git_game]: https://learngitbranching.js.org/
+[git_handbook]: https://guides.github.com/introduction/git-handbook/
+[guides]: https://guides.github.com/
+[integrated_terminal]: https://code.visualstudio.com/docs/editor/integrated-terminal
+[learn_enough]: https://www.learnenough.com/command-line-tutorial/basics
+[scm]: https://www.atlassian.com/git/tutorials/what-is-version-control
