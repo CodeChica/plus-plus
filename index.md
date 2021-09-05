@@ -29,7 +29,7 @@ install these tools before our first class together.
 1. Collaborating with others
 1. The Software Engineering life cycle
 1. The Software Engineer's role
-1. Exploring [SparkleHub][sparklehub]
+1. Exploring SparkleHub
 1. Project work
 1. Project work
 1. Project work
