@@ -30,3 +30,7 @@ div {
   margin-right: auto;
 }
 ```
+
+Additional resources:
+
+* [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
