@@ -25,11 +25,11 @@ install these tools before our first class together.
 ## Curriculum
 
 1. [HTML, CSS, JavaScript and Source Control](lessons/0x01/)
-1. [Git fundamentals](lessons/0x02)
-1. [Testing and pair programming](lessons/0x03)
-1. [The Software Engineering Lifecycle](lessons/0x04)
-1. [The Software Engineer's role](lessons/0x05)
-1. [Exploring SparkleHub](lessons/0x06)
+1. Git fundamentals
+1. Testing and pair programming
+1. The Software Engineering Lifecycle
+1. The Software Engineer's role
+1. Exploring SparkleHub
 1. Project work
 1. Project work
 1. Project work
