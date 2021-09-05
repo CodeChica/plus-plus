@@ -27,6 +27,7 @@ code { font-style: italic; }
 ol { list-style: decimal-leading-zero; }
 strong { font-weight: bold; }
 ul { list-style: none; }
+pre { font-family: monospace; }
 
 p {
   font-size: 1.5rem;
