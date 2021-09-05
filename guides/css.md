@@ -1,4 +1,4 @@
-### CSS
+# CSS
 
 CSS is short for Cascading Style Sheets. It's a language that is used to tell
 the browser how to make your page look.
@@ -31,7 +31,67 @@ div {
 }
 ```
 
-Additional resources:
+## Grid Layout
 
-* [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
-* [Grid layout](https://codepen.io/miriamsuzanne/pen/JjPeQYP?editors=0100)
+<pre>
+ Desktop                           Mobile
+
+ -------------------------------   ----------
+ | header                      |   | header |
+ -------------------------------   |--------|
+ |     ||                      |   | nav    |
+ |     ||                      |   |--------|
+ | nav || main                 |   |        |
+ |     ||                      |   | main   |
+ |     ||                      |   |        |
+ |     ||----------------------|   |--------|
+ |     || footer               |   | footer |
+ -------------------------------   ----------
+</pre>
+
+
+<pre>
+</pre>
+
+```html
+<!DOCTYPE html>
+<html>
+  <head><title>Grid Layout</title></head>
+  <body>
+    <header></header>
+    <nav></nav>
+    <main></main>
+    <footer></footer>
+  </body>
+</html>
+```
+
+```css
+body {
+  min-height: 100vh;
+  display: grid;
+  grid-gap: 1em;
+  grid: 'header' auto
+        'nav' auto
+        'main' 1fr
+        'footer' auto / 1fr;
+}
+header { grid-area: header; }
+nav { grid-area: nav; }
+main { grid-area: main; }
+footer { grid-area: footer; }
+
+@media (min-width: 40em) {
+  body {
+    grid: 'header header' auto
+          'nav main' 1fr
+          'nav footer' auto / 12em 1fr;
+  }
+}
+```
+
+[Grid layout](https://codepen.io/miriamsuzanne/pen/JjPeQYP?editors=1100)
+
+## Flex Layout
+
+[Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
