@@ -1,4 +1,4 @@
-# 0x01 - HTML, CSS, JavaScript
+# 0x01 - HTML, CSS and JavaScript
 
 ## Agenda
 
