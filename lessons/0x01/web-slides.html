@@ -8,6 +8,9 @@
     <link rel="stylesheet" href="../../dist/reveal.css">
     <link rel="stylesheet" href="../../dist/theme/black.css">
     <link rel="stylesheet" href="../../plugin/highlight/monokai.css">
+    <style>
+      img { border-radius: 2%; }
+    </style>
   </head>
   <body>
     <div class="reveal">
@@ -87,55 +90,69 @@
           </textarea>
         </section>
         <section>
-        </section>
-        <section>
-          <img src="../../assets/images/restaurant-table.jpg" alt="restaurant table" />
-        </section>
-        <section>
-          <img src="../../assets/images/restaurant-taking-order.jpg" alt="taking order" />
-        </section>
-        <section>
-          <img src="../../assets/images/restaurant-waiter.jpg" alt="restaurant waiter" />
-        </section>
-        <section>
-          <img src="../../assets/images/restaurant-preparing-order.jpg" alt="preparing order" />
-        </section>
-        <section>
-          <img src="../../assets/images/restaurant-chef.jpg" alt="restaurant chef" />
-        </section>
-        <section>
-          <img src="../../assets/images/restaurant-serving.jpg" alt="restaurant serving" />
-        </section>
-        <section>
-          Customer -> Table -> Server -> Kitchen
-        </section>
-        <section>
-          Human -> Web Browser -> Server -> Database
-        </section>
-        <section>
-          Client -> Server
-        </section>
-        <section>
-          Client sends a Request -> Server
-        </section>
-        <section>
-          Client <- recevies a Response Server
-        </section>
-        <section>
-          Request/Response
-        </section>
-        <section>
-          GET /plus-plus/index.html
-          HOST codechica.github.io
-        </section>
-        <section>
-          We need a server to serve requests.
+          We need a server to serve our website.
         </section>
         <section>
           Pardon me?
         </section>
         <section>
-          Okay, let's build a static website ✨
+          Restaurant
+        </section>
+        <section>
+          <img class="image" src="../../assets/images/restaurant-table.jpg" alt="restaurant table" />
+        </section>
+        <section>
+          <img class="image" src="../../assets/images/restaurant-taking-order.jpg" alt="taking order" />
+        </section>
+        <section>
+          <img class="image" src="../../assets/images/restaurant-waiter.jpg" alt="restaurant waiter" />
+        </section>
+        <section>
+          <img class="image" src="../../assets/images/restaurant-preparing-order.jpg" alt="preparing order" />
+        </section>
+        <section>
+          <img class="image" src="../../assets/images/restaurant-chef.jpg" alt="restaurant chef" />
+        </section>
+        <section>
+          <img class="image" src="../../assets/images/restaurant-serving.jpg" alt="restaurant serving" />
+        </section>
+        <section>
+          Customer -> Table -> Server -> Kitchen
+        </section>
+        <section>
+          Customer <- Table <- Server <- Kitchen
+        </section>
+        <section>
+          Web Pages
+        </section>
+        <section>
+          Human -> Web Browser -> Web Server -> Database
+        </section>
+        <section>
+          Human <- Web Browser <- Web Server <- Database
+        </section>
+        <section>
+          Client/Server Model
+        </section>
+        <section>
+          Client -> Server
+        </section>
+        <section>
+          Client <- Server
+        </section>
+        <section>
+          Request/Response
+        </section>
+        <section>
+          HTTP
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+          ```bash
+          GET /index.html
+          HOST codechica.ca
+          ```
+          </textarea>
         </section>
         <section data-markdown>
           <textarea data-template>
@@ -157,7 +174,7 @@
           </textarea>
         </section>
         <section>
-          Static HTML
+          Static vs Dynamic HTML
         </section>
         <section>
           Static HTML: Ugh! So much work.
@@ -169,13 +186,21 @@
           Yup!
         </section>
         <section>
-          Let's talk about <em>Dynamically Generated HTML</em>
+          <em>Dynamically Generated HTML</em>
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ```golang
+            router.GET("/sparkles.html", func(context *gin.Context) {
+              context.HTML(http.StatusOK, "sparkles/index.tmpl", gin.H{
+                "sparkles": db.Sparkles,
+              })
+            })
+            ```
+          </textarea>
         </section>
         <section>
-          Let's take a tour of the dev tools ✨
-        </section>
-        <section>
-          https://codechica.github.io/plus-plus/index.html
+          Happy Hacking!
         </section>
       </div>
     </div>
