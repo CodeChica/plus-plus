@@ -33,6 +33,8 @@ div {
 
 ## Grid Layout
 
+{% include youtube.html youtube_id="6SVOwfOn63I" %}
+
 <pre>
  Desktop                           Mobile
 
@@ -47,10 +49,6 @@ div {
  |     ||----------------------|   |--------|
  |     || footer               |   | footer |
  -------------------------------   ----------
-</pre>
-
-
-<pre>
 </pre>
 
 ```html
@@ -71,10 +69,7 @@ body {
   min-height: 100vh;
   display: grid;
   grid-gap: 1em;
-  grid: 'header' auto
-        'nav' auto
-        'main' 1fr
-        'footer' auto / 1fr;
+  grid: 'header' auto 'nav' auto 'main' 1fr 'footer' auto / 1fr;
 }
 header { grid-area: header; }
 nav { grid-area: nav; }
@@ -83,9 +78,7 @@ footer { grid-area: footer; }
 
 @media (min-width: 40em) {
   body {
-    grid: 'header header' auto
-          'nav main' 1fr
-          'nav footer' auto / 12em 1fr;
+    grid: 'header header' auto 'nav main' 1fr 'nav footer' auto / 12em 1fr;
   }
 }
 ```
