@@ -1,7 +1,7 @@
 author: "@xlgmokha"
-baseurl: "/plus-plus/"
+baseurl: ""
 description: "You're looking at it."
-domain: codechica.github.io
+domain: codechica.ca
 lang: 'en'
 markdown: kramdown
 page_excerpts: true
