@@ -10,7 +10,7 @@ Guides:
 * [CSS Guide](../../guides/css.html)
 * [JavaScript Guide](../../guides/javascript.html)
 
-## Activity
+### Activity
 
 * Complete the section named "Introduction to HTML" from your [Lesson 0x01 issue][lesson_one_issue].
 
