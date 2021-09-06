@@ -1,6 +1,6 @@
 ## GitHub
 
-[GitHub][github] is a website that lets us save our git repositories for free.
+[GitHub][github] is a website that lets us save our [git](./git.html) repositories for free.
 It is the largest code hosting platform on the planet. It's a great place to
 create a backup of your code and collaborate with other coders.
 
