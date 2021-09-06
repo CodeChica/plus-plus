@@ -73,7 +73,7 @@ When you are finished with your Codespace it is a good idea to clean it up.
 [Try the troubleshooting guide](https://docs.github.com/en/codespaces/codespaces-reference/troubleshooting-your-codespace)
 or [open a new question](https://github.com/CodeChica/plus-plus/discussions/categories/q-a) if you get stuck.
 
-[github]: https://github.com/
-[organization]: https://github.com/CodeChica
-[discussions]: https://github.com/CodeChica/plus-plus/discussions
 [curriculum]: https://github.com/CodeChica/plus-plus/issues/new/choose
+[discussions]: https://github.com/CodeChica/plus-plus/discussions
+[github]: https://lab.github.com/githubtraining/introduction-to-github
+[organization]: https://github.com/CodeChica
