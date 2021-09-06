@@ -9,3 +9,7 @@ type Movie struct {
 func NewMovie(title string, studio Studio, year int) *Movie {
 	return &Movie{}
 }
+
+func (movie *Movie) CompareTo(other *Movie) int {
+	return 0
+}

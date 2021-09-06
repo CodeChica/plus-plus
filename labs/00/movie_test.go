@@ -28,4 +28,15 @@ func TestMovie(t *testing.T) {
 		assert.Equal(t, toyStory, toyStory)
 		assert.NotEqual(t, toyStory, aBugsLife)
 	})
+
+	t.Run("Compare", func(t *testing.T) {
+		t.Skip()
+
+		toyStory := NewMovie("Toy Story", Pixar, 1995)
+		aBugsLife := NewMovie("A Bug's Life", Pixar, 1998)
+
+		assert.Equal(t, 0, aBugsLife.CompareTo(aBugsLife))
+		assert.Equal(t, -1, aBugsLife.CompareTo(toyStory))
+		assert.Equal(t, 1, toyStory.CompareTo(aBugsLife))
+	})
 }
