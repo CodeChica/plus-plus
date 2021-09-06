@@ -12,13 +12,13 @@ a place to sparkle others with kindness, using *free* software.
 
 ## Prerequisites
 
-You will need your own GitHub account in order to complete this course.
+You will need your own [GitHub](./guides/github.html) account in order to complete this course.
 **Please <a href="https://github.com/signup">create a GitHub account</a> before
 the first class.**
 
-We will use [VSCode][vscode] as our
+We will use [VSCode](./guides/vscode.html) as our
 editor to write/edit code, [Golang][golang] as the
-programming language for our backend server, [Slack][slack]
+programming language for our backend server, [Slack](./guides/slack.html)
 to chat and [Zoom][zoom] to meet online. Please try to
 install these tools before our first class together.
 
@@ -46,5 +46,4 @@ Happy hacking!
 [golang]: https://golang.org/dl/
 [slack]: https://slack.com/downloads/
 [sparklehub]: https://sparklehub.herokuapp.com/
-[vscode]: https://code.visualstudio.com/Download
 [zoom]: https://zoom.us/

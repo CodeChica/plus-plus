@@ -3,7 +3,7 @@
 We'll be using [VSCode][vscode] as our editor, integrated terminal and Codespace
 explorer to work on labs and the final project.
 
-[Learn more about VSCode][vscode]
+[Download VSCode][vscode_download] or [learn more about VSCode][vscode].
 
 ### Tour
 
@@ -43,3 +43,4 @@ In this video, I show you how to run things directly from your computer.
 
 [vscode]: https://code.visualstudio.com/
 [integrated_terminal]: https://code.visualstudio.com/docs/editor/integrated-terminal
+[vscode_download]: https://code.visualstudio.com/Download

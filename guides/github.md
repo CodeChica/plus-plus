@@ -1,20 +1,16 @@
 ## GitHub
 
-GitHub is a website that lets us save our git repositories for free. It is the
-largest code hosting platform on the planet. It's a great place to create a
-backup of your code and collaborate with other coders.
+[GitHub][github] is a website that lets us save our git repositories for free.
+It is the largest code hosting platform on the planet. It's a great place to
+create a backup of your code and collaborate with other coders.
 
 We'll be using our [CodeChica organization on GitHub][organization] to host our
 code, provide development environments via [Codespaces](#codespaces), facilitate
 [discussions][discussions] and [track our progress][curriculum].
 
-<!--
-::TODO Video tour
--->
+<!-- ::TODO Video tour -->
 
-[Learn more about GitHub][github].
-
-<!-- Start Codespace Guide -->
+[Register](https://github.com/signup) or [learn more about GitHub][github].
 
 ### Issues
 

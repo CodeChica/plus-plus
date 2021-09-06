@@ -59,5 +59,21 @@ Web Developers use a **Web Browser** with [Dev Tools][devtools] like [Google Chr
 
 {% include youtube.html youtube_id="VYyQv0CSZOE" %}
 
+In this class we'll use an HTTP server by installing it with the following
+command:
+
+```bash
+モ go install github.com/xlg-pkg/http-server@latest
+go: downloading github.com/xlg-pkg/http-server v0.2.0
+```
+
+Then we can start the `http-server` from the [terminal](./terminal.html).
+
+```bash
+モ http-server
+Starting Server...!
+        http://localhost:8080
+```
+
 [chrome]: https://www.google.com/chrome/
 [devtools]: https://developer.chrome.com/docs/devtools/overview/
