@@ -12,6 +12,7 @@ Guides:
 
 ### Activity
 
+* [Create your first issue](/guides/github.html#issues)
 * Complete the section named "Introduction to HTML" from your [Lesson 0x01 issue][lesson_one_issue].
 
 ## Tour of [SparkleHub][sparklehub]
