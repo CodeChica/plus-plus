@@ -55,9 +55,17 @@ Some elements are self closing and some elements can contain other elements.
 
 ### Tools
 
+Web developers rely on many tools to help them build amazing web sites. Below is
+a list of tools that we will use in this course.
+
+#### dev-tools
+
 Web Developers use a **Web Browser** with [Dev Tools][devtools] like [Google Chrome][chrome].
 
 {% include youtube.html youtube_id="VYyQv0CSZOE" %}
+
+
+#### http-server
 
 In this class we'll use an HTTP server by installing it with the following
 command:
