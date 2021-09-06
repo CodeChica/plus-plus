@@ -1,6 +1,6 @@
 # 0x01 - HTML, CSS and JavaScript
 
-::TODO insert youtube video here.
+{% include youtube.html youtube_id="Dlq7ctZadf8" %}
 
 [Slides](./slides.html)
 
