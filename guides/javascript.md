@@ -21,3 +21,15 @@ document.addEventListener('DOMContentLoaded', function(event) {
   })
 });
 ```
+
+<!--
+TODO::
+* `fetch()` data from the server.
+* JSON API
+* JSON
+* REST
+* variables
+* datatypes
+* functions
+* events
+-->

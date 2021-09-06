@@ -88,3 +88,25 @@ footer { grid-area: footer; }
 ## Flex Layout
 
 [Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox)
+
+<!--
+TODO:: Describe
+
+* inline css
+* document `<style>` section
+* external css file.
+* code comments
+* selectors
+  * element type
+  * id - there can only be one
+  * class
+  * '.img' vs '#img' vs 'img'
+* grid system
+  * flex vs percentage/pixels
+    * 960/12
+* box model
+* responsive design (desktop, mobile, tablet)
+* confetti css
+* testing a selector in the browser. `querySelector(selector)`
+
+-->

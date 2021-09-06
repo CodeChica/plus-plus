@@ -49,6 +49,17 @@ Some elements are self closing and some elements can contain other elements.
 
 {% include youtube.html youtube_id="y6stlwCb7VU" %}
 
+<!--
+
+TODO::
+
+* examples of each of the most used html elements
+* HTML elements not to use.
+* explain why we start with `index.html`.
+* browser rendering. What is a browser? What does it do?
+
+-->
+
 ### Tools
 
 Web Developers use a **Web Browser** with [Dev Tools][devtools] like [Google Chrome][chrome].
