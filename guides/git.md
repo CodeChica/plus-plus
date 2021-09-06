@@ -43,11 +43,13 @@ have to worry if our computer crashes.
 To get familiar with different concepts we will use
 [Learn Git Branching][learngit] to help us get familiar with git.
 
+<!--
 ::TODO insert video going over the different git concepts in the terminal
 
 * init
 * add
 * commit
+-->
 
 ### Git in the Terminal
 
@@ -198,7 +200,8 @@ feat: add hat wobble
 
 It's also possible to interact with git using the
 [Source Control Manager (SCM)][scm] that is built into VSCode.
-To learn more about it [read the documentation][scm].
+To learn more about it [read the documentation][scm] or watch the [VSCode
+Tour](./vscode.html).
 
 ## Glossary
 
@@ -230,4 +233,5 @@ Repository (repo)
 [github]: https://github.com/
 [learngit]: https://learngitbranching.js.org/
 [linux_commit]: https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
+[scm]: https://code.visualstudio.com/Docs/editor/versioncontrol
 [vscode]: https://code.visualstudio.com/
