@@ -1,4 +1,4 @@
-## Git
+# Git
 
 [git][git] is a tool that can be used to save changes that you make to your code.
 
@@ -17,7 +17,7 @@ code.
 [git][git] allows us to make mistakes safely, and it makes it easier for us to
 work together.
 
-### Source Control
+## Source Control
 
 Programmers use an **editor** to write code, and a **terminal** to
 issues commands to a compilers/transpiler/interpreter to convert
@@ -38,7 +38,7 @@ different people are are making to the code.
 [GitHub][github] is a website that lets us save our git repos so that we don't
 have to worry if our computer crashes.
 
-### Git Concepts
+## Git Concepts
 
 To get familiar with different concepts we will use
 [Learn Git Branching][learngit] to help us get familiar with git.
@@ -163,13 +163,44 @@ browser and follow the instructions to create a Pull Request.
 
 Woohoo, we did things! But wait... what did we do?
 
-### Git in VSCode (SCM)
+### Conventional Commits
+
+Writing effective commit messages for your future self and for others is
+important to help explain why changes are introduced in a project.
+
+Below is a brief guide on how to structure your git commit message using a
+convention known as `semantic commit messages`.
+
+```bash
+Format: <type>(<scope>): <subject>
+
+<scope> is optional
+
+feat: add hat wobble
+^--^  ^------------^
+|     |
+|     +-> Summary in present tense.
+|
++-------> Type: chore, docs, feat, fix, refactor, style, or test.
+```
+
+* chore: updating build tasks etc; no production code change
+* docs: changes to the documentation
+* feat: new feature for the user, not a new feature for build script
+* fix: bug fix for the user, not a fix to a build script
+* refactor: refactoring production code, eg. renaming a variable
+* style: formatting, missing semi colons, etc; no production code change
+* test: adding missing tests, refactoring tests; no production code change
+
+[Read more about Conventional Commits](https://www.conventionalcommits.org/en/v1.0.0/)
+
+## Git in VSCode (SCM)
 
 It's also possible to interact with git using the
 [Source Control Manager (SCM)][scm] that is built into VSCode.
 To learn more about it [read the documentation][scm].
 
-### Glossary
+## Glossary
 
 Branch
 : A branch is a part of a tree which grows out from the trunk. It's also used to
