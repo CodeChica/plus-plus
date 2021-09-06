@@ -1,6 +1,6 @@
 # CodeChica++
 
-Welcome to CodeChica++.
+Welcome to [CodeChica++](https://codechica.ca/).
 
 ## Getting Started (Students)
 
