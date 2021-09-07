@@ -37,7 +37,8 @@ understand the software engineering life cycle.
 
 
 * [Presentation](./slides.html)
-  * Include link to video of team meeting.
+
+{% include youtube.html youtube_id="zvA68LXHDCI" %}
 
 ```plaintext
 # Agenda
