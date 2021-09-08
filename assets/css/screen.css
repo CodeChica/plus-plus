@@ -136,3 +136,11 @@ ul.navigation li {
 ul.navigation li a {
   text-decoration: none;
 }
+ul.learn-navigation {
+  column-count: 2;
+  padding: 0;
+  text-align: center;
+}
+ul.learn-navigation li a {
+  text-decoration: none;
+}
