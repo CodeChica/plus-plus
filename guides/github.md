@@ -28,9 +28,12 @@ Follow the steps below to create your first Issue.
 
 ## Codespaces
 
+
 We use [Codespaces](https://github.com/codespaces) to make sure that everyone
 has access to the tools and software that they need for this course
 so that everyone can learn to code.
+
+![Code Chica Codespace](./../assets/images/chica-codespace.png)
 
 A [Codespace](https://github.com/codespaces) is a development environment
 that is created just for you. You can think of it like it is your own
