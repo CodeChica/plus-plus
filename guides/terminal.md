@@ -251,3 +251,9 @@ if it isn't already there then use the `-p` option.
 /workspaces/SparkleHub
 $ mkdir -p skittles-and-rainbows
 ```
+
+[codespace]: ./github.html#codespaces
+[git]: ./git.html
+[integrated_terminal]: ./vscode.html#integrated-terminal
+[powershell]: https://docs.microsoft.com/en-us/powershell/
+[terminal.app]: https://support.apple.com/en-ca/guide/terminal/welcome/mac
