@@ -12,6 +12,14 @@ in using your GitHub account.
 
 {% include youtube.html youtube_id="PXmxjp-BnvA" %}
 
+In this video, we create a place to store our project.
+
+{% include youtube.html youtube_id="iNwaJwSUq_U" %}
+
+In this video, we create a new file.
+
+{% include youtube.html youtube_id="UJEA0vGTAxk" %}
+
 ### Codespace
 
 In this video, I show you how to launch a Codespace so that you have a
