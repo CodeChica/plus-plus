@@ -53,6 +53,23 @@ Some elements are self closing and some elements can contain other elements.
 
 {% include youtube.html youtube_id="y6stlwCb7VU" %}
 
+
+Linking HTML and CSS Files
+
+{% include youtube.html youtube_id="ZO98acQRLgY" %}
+
+
+Adding Images
+
+{% include youtube.html youtube_id="hn2Upok0-x4" %}
+
+
+Divs, images and flex wrap
+
+{% include youtube.html youtube_id="i1ayJd3_qpE" %}
+
+
+
 ### Tools
 
 Web developers rely on many tools to help them build amazing web sites. Below is
