@@ -28,9 +28,9 @@ others. This is where a source control tool can help us.
 
 > Source control is a way to manage changes to code over time.
 
-Sompe people also call it **version control** or **software configuration management**.
+Sometimes people also call it **version control** or **software configuration management**.
 
-These terms are meant to describe a way to make sure that we don't lose our chagnes that
+These terms are meant to describe a way to make sure that we don't lose our changes that
 we make to code and that we have a way to keep track of the different changes that
 different people are are making to the code.
 
