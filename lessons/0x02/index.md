@@ -56,4 +56,4 @@ and our [Git Guide](../../guides/git.html).
 1. Play the [Git branching game][git_game].
 
 [git_game]: https://learngitbranching.js.org/
-[issues]: https://github.com/issues/assigned
+[issues]: https://github.com/CodeChica/plus-plus/issues

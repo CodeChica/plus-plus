@@ -16,8 +16,7 @@ learning paths][learning_paths].
 ## Issues
 
 In this course, we'll be using [GitHub Issues](https://github.com/features/issues/) to help us track our progress.
-You can always visit [my issues](https://github.com/issues/assigned) to pick up
-from where you left off.
+You can always visit the [issues page](https://github.com/CodeChica/plus-plus/issues) to find the issue assigned to you.
 
 Follow the steps below to create your first Issue.
 
