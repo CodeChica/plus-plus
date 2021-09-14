@@ -35,7 +35,7 @@ Schedule:
 * 30 min: Presentation on Source Control
 * 15 min: [Play a game together](https://create.kahoot.it/share/git-terms/6bf90eb7-3c80-43d5-a0ff-b710cc767040)
 * 60 min: Work on assigned [Lesson 2 issue][issues]
-* 15 min: Wrap-up & (heart, fart, shopping cart)
+* 15 min: Heart, Fart and Shopping Cart
 
 ## Source Control
 
