@@ -43,6 +43,8 @@ have to worry if our computer crashes.
 To get familiar with different concepts we will use
 [Learn Git Branching][learngit] to help us get familiar with git.
 
+{% include youtube.html youtube_id="UNCiMhrTyMo" %}
+
 <!--
 ::TODO insert video going over the different git concepts in the terminal
 
