@@ -82,8 +82,9 @@ https://github.com/<your-username>/novela. This is your very own copy of the
 project that you are free to edit and do whatever you want with.
 
 Let's `clone` this copy of the novela project to your computer so that you can
-make edits to it. Replace '<your-username>' with your username. e.g. `git clone
-git@github.com:xlgmokha/novela.git`.
+make edits to it. Replace '<your-username>' with your username.
+
+e.g. `git clone git@github.com:xlgmokha/novela.git`.
 
 ```bash
 $ git clone git@github.com:<your-username>/novela.git
@@ -163,8 +164,6 @@ $ git push origin <your-username>-story
 Next open https://github.com/your-username/novela in a
 browser and follow the instructions to create a Pull Request.
 
-Woohoo, we did things! But wait... what did we do?
-
 ### Conventional Commits
 
 Writing effective commit messages for your future self and for others is
@@ -229,10 +228,12 @@ Repository (repo)
 
 [alacritty]: https://github.com/alacritty/alacritty
 [codechica]: https://github.com/CodeChica/
+[codespace]: ./github.html#codespaces
 [git]: https://git-scm.com/
+[git_handbook]: https://guides.github.com/introduction/git-handbook/
 [github]: https://github.com/
 [learngit]: https://learngitbranching.js.org/
 [linux_commit]: https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
 [scm]: https://code.visualstudio.com/Docs/editor/versioncontrol
+[terminal]: ./terminal.html
 [vscode]: https://code.visualstudio.com/
-[git_handbook]: https://guides.github.com/introduction/git-handbook/
