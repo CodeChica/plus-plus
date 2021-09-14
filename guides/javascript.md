@@ -22,7 +22,11 @@ document.addEventListener('DOMContentLoaded', function(event) {
 });
 ```
 
+{% include youtube.html youtube_id="_y9oxzTGERs" %}
+
+
 <!--
+
 TODO::
 * `fetch()` data from the server.
 * JSON API
@@ -32,4 +36,5 @@ TODO::
 * datatypes
 * functions
 * events
+
 -->
