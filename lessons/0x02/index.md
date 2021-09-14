@@ -28,32 +28,32 @@
 * Rinse & repeat exercises (source control, do an exercise each class?)
 -->
 
+Schedule:
+
+* 30 min: CSS Animations demo. [Sparkle Party](https://github.com/codechica/sparkle-party)
+* 30 min: Finish working on [Lesson 1 issue][issues].
+* 30 min: Presentation on Source Control
+* 15 min: [Play a game together](https://create.kahoot.it/share/git-terms/6bf90eb7-3c80-43d5-a0ff-b710cc767040)
+* 60 min: Work on assigned [Lesson 2 issue][issues]
+* 15 min: Wrap-up & (heart, fart, shopping cart)
+
 ## Source Control
 
+<!--
 ::TODO insert youtube video here.
+-->
 
 [Slides](./slides.html)
 
-### Activity
-
-TBD:
-
-### Git
-
-Guides:
-
-* [Terminal Guide](../../guides/terminal.html)
-* [Git Guide](../../guides/git.html)
+To learn more, read our [Terminal Guide](../../guides/terminal.html),
+and our [Git Guide](../../guides/git.html).
 
 ### Activity
 
-Spend a little time playing the [Git branching game][git_game].
+1. [Create your second issue](/guides/github.html#issues)
+1. Complete the section named "Hello Terminal" from your [Lesson 0x02 issue][issues].
+1. Complete the section named "Hello Git" from your [Lesson 0x02 issue][issues].
+1. Play the [Git branching game][git_game].
 
-[gh_pages]: https://lab.github.com/githubtraining/github-pages
-[git]: https://git-scm.com/
 [git_game]: https://learngitbranching.js.org/
-[git_handbook]: https://guides.github.com/introduction/git-handbook/
-[guides]: https://guides.github.com/
-[integrated_terminal]: https://code.visualstudio.com/docs/editor/integrated-terminal
-[learn_enough]: https://www.learnenough.com/command-line-tutorial/basics
-[scm]: https://www.atlassian.com/git/tutorials/what-is-version-control
+[issues]: https://github.com/issues/assigned

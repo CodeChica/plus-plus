@@ -25,7 +25,7 @@ install these tools before our first class together.
 ## Curriculum
 
 1. [HTML, CSS and JavaScript](./lessons/0x01/)
-1. Source control and Git
+1. [Source control and Git](./lessons/0x02/)
 1. Collaborating with others
 1. The Software Engineering life cycle
 1. The Software Engineer's role

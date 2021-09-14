@@ -235,3 +235,4 @@ Repository (repo)
 [linux_commit]: https://github.com/torvalds/linux/commit/1da177e4c3f41524e886b7f1b8a0c1fc7321cac2
 [scm]: https://code.visualstudio.com/Docs/editor/versioncontrol
 [vscode]: https://code.visualstudio.com/
+[git_handbook]: https://guides.github.com/introduction/git-handbook/
