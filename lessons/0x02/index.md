@@ -41,9 +41,11 @@ Schedule:
 
 <!--
 ::TODO insert youtube video here.
--->
 
 [Slides](./slides.html)
+-->
+
+{% include youtube.html youtube_id="K0mgc3efx-A" %}
 
 To learn more, read our [Terminal Guide](../../guides/terminal.html),
 and our [Git Guide](../../guides/git.html).
