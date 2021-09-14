@@ -11,6 +11,8 @@ On Microsoft Windows you can use [PowerShell][powershell].
 For this course we will use the [terminal][integrated_terminal] that is built
 into VSCode and a [Codespace][codespace].
 
+{% include youtube.html youtube_id="x73WTEltyHU" %}
+
 ### Getting Started
 
 For this lesson you will need to [open your Codespace][codespace] and then
