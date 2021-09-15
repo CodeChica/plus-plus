@@ -28,8 +28,6 @@
 * Rinse & repeat exercises (source control, do an exercise each class?)
 -->
 
-Schedule:
-
 * 30 min: CSS Animations demo. [Sparkle Party](https://github.com/codechica/sparkle-party)
 * 30 min: Finish working on [Lesson 1 issue][issues].
 * 30 min: Presentation on Source Control
@@ -50,12 +48,14 @@ Schedule:
 To learn more, read our [Terminal Guide](../../guides/terminal.html),
 and our [Git Guide](../../guides/git.html).
 
-### Activity
+## Activity
 
 1. [Create your second issue](/guides/github.html#issues)
 1. Complete the section named "Hello Terminal" from your [Lesson 0x02 issue][issues].
 1. Complete the section named "Hello Git" from your [Lesson 0x02 issue][issues].
 1. Play the [Git branching game][git_game].
+
+![Chica Sitting](../../assets/images/laChicaSitting.png)
 
 [git_game]: https://learngitbranching.js.org/
 [issues]: https://github.com/CodeChica/plus-plus/issues

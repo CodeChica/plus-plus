@@ -16,5 +16,7 @@ final project.
 1. Complete the section named "Customize your profile" from your [Lesson 0x01 issue][issues].
 1. Complete the section named "Introduction to HTML" from your [Lesson 0x01 issue][issues].
 
+![Chica Sitting](../../assets/images/laChicaSitting.png)
+
 [issues]: https://github.com/CodeChica/plus-plus/issues
 [sparklehub]: https://sparklehub.herokuapp.com/

@@ -8,6 +8,8 @@ You will explore roles such as Product Manager, Designer and Web Developer.
 You will learn how to contribute to [SparkleHub][sparklehub]
 a place to sparkle others with kindness, using *free* software.
 
+![Chica Waving](./assets/images/laChicaCode.png)
+
 This curriculum was designed to use [Codespaces](./guides/github.html#codespaces)
 to complete the labs and assignments.
 To use [Codespaces](./guides/github.html#codespace) you need a [GitHub](./guides/github.html) account.
@@ -29,7 +31,6 @@ We use [Slack](./guides/slack.html) to chat and [Zoom][zoom] to meet online.
 1. Project work
 1. Project work
 1. Project show case
-
 
 Happy hacking!
 
