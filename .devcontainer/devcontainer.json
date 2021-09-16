@@ -18,8 +18,6 @@
   "extensions": [
     "github.github-vscode-theme",
     "github.vscode-pull-request-github",
-    "golang.go",
-    "ms-azuretools.vscode-docker",
-    "ms-vscode-remote.remote-containers"
+    "golang.go"
   ]
 }
