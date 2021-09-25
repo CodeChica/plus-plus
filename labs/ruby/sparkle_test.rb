@@ -1,27 +1,32 @@
 require "minitest/autorun"
 
 class Sparkle
-  def self.create(sparklee, reason)
-    # TODO:: Write your code here
+  attr_reader :sparklee, :reason
+
+  def initialize(sparklee, reason)
+    # TODO::
   end
 end
 
 describe Sparkle do
-  describe "when a visitor creates a sparkle" do
+  describe "when a sparkle is created" do
     before do
-      @sparkles = []
-      @sparkles.push(
-        Sparkle.create("@monalisa", "for helping me with my homework!")
-      )
+      @recipient = "@monalisa"
+      @reason = "for helping me with my homework!"
+
+      @sparkle = Sparkle.new(@recipient, @reason)
     end
 
-    it "gets added to the list of sparkles" do
+    it "saves the recipient" do
       skip "it"
 
-      assert_equal 1, @sparkles.count
-      sparkle = @sparkles[0]
-      assert_equal "@monalisa", sparkle.sparklee
-      assert_equal "for helping me with my homework!", sparkle.reason
+      assert_equal @recipient, @sparkle.sparklee
+    end
+
+    it "saves the reason" do
+      skip "it"
+
+      assert_equal @reason, @sparkle.reason
     end
   end
 end
