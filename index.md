@@ -31,6 +31,8 @@ We use [Slack](./guides/slack.html) to chat and [Zoom][zoom] to meet online.
 1. Project work
 1. Project show case
 
+go ahead and type the thingy!
+
 Happy hacking!
 
 [golang]: https://golang.org/dl/
