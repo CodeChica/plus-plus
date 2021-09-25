@@ -3,7 +3,7 @@ on:
   - push
   - workflow_dispatch
 jobs:
-  lab-00-tests:
+  lab-nodejs-tests:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
@@ -11,11 +11,11 @@ jobs:
         with:
           node-version: '14'
           cache: 'npm'
-          cache-dependency-path: labs/00/package-lock.json
-      - run: cd labs/00 && npm install && npm run test
-  lab-01-tests:
+          cache-dependency-path: labs/nodejs/package-lock.json
+      - run: cd labs/nodejs && npm install && npm run test
+  lab-golang-tests:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v2
       - uses: actions/setup-go@v2
-      - run: cd labs/01 && go test -v ./...
+      - run: cd labs/golang && go test -v ./...
