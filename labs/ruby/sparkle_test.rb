@@ -1,15 +1,17 @@
 require "minitest/autorun"
 
 class Sparkle
-  attr_reader :sparklee, :reason
+  attr_reader :recipient, :reason
 
-  def initialize(sparklee, reason)
+  def initialize(recipient, reason)
     # TODO::
+    @recipient = recipient
+    @reason = "for helping me with my homework!"
   end
 end
 
 describe Sparkle do
-  describe "when a sparkle is created" do
+  describe "when a @monalisa is Sparkled" do
     before do
       @recipient = "@monalisa"
       @reason = "for helping me with my homework!"
@@ -18,14 +20,29 @@ describe Sparkle do
     end
 
     it "saves the recipient" do
-      skip "it"
-
-      assert_equal @recipient, @sparkle.sparklee
+      assert_equal @recipient, @sparkle.recipient
     end
 
     it "saves the reason" do
-      skip "it"
+      assert_equal @reason, @sparkle.reason
+    end
+  end
 
+  describe "when @GabbyGap is Sparkled" do
+    before do
+      # arrange
+      @recipient = "@GabbyGap"
+      @reason = "for volunteering to share her screen!"
+
+      # act
+      @sparkle = Sparkle.new(@recipient, @reason)
+    end
+
+    it "saves username of the recipient" do
+      assert_equal "@GabbyGap", @sparkle.recipient
+    end
+
+    it "saves the reason for the sparkle" do
       assert_equal @reason, @sparkle.reason
     end
   end
