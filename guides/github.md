@@ -27,7 +27,6 @@ Follow the steps below to create your first Issue.
 
 ## Codespaces
 
-
 We use [Codespaces](https://github.com/codespaces) to make sure that everyone
 has access to the tools and software that they need for this course
 so that everyone can learn to code.
