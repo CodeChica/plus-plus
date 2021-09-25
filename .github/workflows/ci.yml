@@ -19,3 +19,9 @@ jobs:
       - uses: actions/checkout@v2
       - uses: actions/setup-go@v2
       - run: cd labs/golang && go test -v ./...
+  lab-ruby-tests:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: actions/setup-ruby@v1
+      - run: cd labs/ruby && ruby *.rb
