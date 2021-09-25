@@ -4,9 +4,8 @@ class Sparkle
   attr_reader :recipient, :reason
 
   def initialize(recipient, reason)
-    # TODO::
     @recipient = recipient
-    @reason = "for helping me with my homework!"
+    @reason = reason
   end
 end
 
