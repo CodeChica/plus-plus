@@ -18,7 +18,7 @@
 1. Create a new branch.
 
     ```bash
-    /workspaces/plus-plus-main/labs/golang (main ✗) $ git checkout xlgmokha-branch
+    /workspaces/plus-plus-main/labs/golang (main ✗) $ git checkout -b xlgmokha-branch
     ```
 
 1. Open `sum.test.js` in your editor.

@@ -18,7 +18,7 @@
 1. Create a new branch named after you.
 
     ```bash
-    /workspaces/plus-plus-main/labs/ruby (main ✗) $ git checkout xlgmokha-branch
+    /workspaces/plus-plus-main/labs/ruby (main ✗) $ git checkout -b xlgmokha-branch
     ```
 
 1. Open `sparkle_test.rb` in your editor.
