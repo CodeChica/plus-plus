@@ -22,8 +22,8 @@ We use [Slack](./guides/slack.html) to chat and [Zoom][zoom] to meet online.
 
 1. [HTML, CSS and JavaScript](./lessons/0x01/)
 1. [Source control and Git](./lessons/0x02/)
-1. [Collaborating with others](./lessons/0x03/)
-1. The Software Engineering life cycle
+1. [Tech Roles Overview](./lessons/0x03/)
+1. Collaborating with others
 1. The Software Engineer's role
 1. Exploring SparkleHub
 1. Project work
