@@ -40,10 +40,19 @@ p {
   font-weight: 200;
   line-height: 1.8;
 }
+li {
+  font-size: 1.5rem;
+  font-weight: 200;
+  line-height: 1.8;
+}
 
 img {
   width: 100%;
   border-radius: 2%;
+}
+
+table {
+  width: 100%;
 }
 
 .container {
@@ -144,4 +153,7 @@ ul.learn-navigation {
 }
 ul.learn-navigation li a {
   text-decoration: none;
+}
+img.logo {
+  width: 50%;
 }

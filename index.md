@@ -8,32 +8,20 @@ You will explore roles such as Product Manager, Designer and Web Developer.
 You will learn how to contribute to [SparkleHub][sparklehub]
 a place to sparkle others with kindness, using *free* software.
 
+| Lesson | Title                                     | Date |
+| :---   | :---:                                     | ---: |
+| 0x01 | [HTML, CSS and JavaScript](./lessons/0x01/) | September. 11, 2021 |
+| 0x02 | [Source control and Git](./lessons/0x02/)   | September. 18, 2021 |
+| 0x03 | [Tech Roles Overview](./lessons/0x03/)      | September. 25, 2021 |
+| 0x04 | [Collaborating with others](./lessons/0x04/)   | October. 02, 2021 |
+| 0x05 | [The Software Engineer's role](./lessons/0x05/)   | October. 09, 2021 |
+| 0x06 | [Exploring SparkleHub](./lessons/0x06/)   | October. 16, 2021 |
+| 0x07 | Project work | October. 23, 2021 |
+| 0x08 | Project work | October. 30, 2021 |
+| 0x09 | Project work | November. 06, 2021 |
+| 0x0A | Project show case | November. 13, 2021 |
+
 ![Chica Waving](./assets/images/laChicaCode.png)
-
-This curriculum was designed to use [Codespaces](./guides/github.html#codespaces)
-to complete the labs and assignments.
-To use [Codespaces](./guides/github.html#codespace) you need to [create a GitHub account](https://github.com/signup).
-
-We use [VSCode](./guides/vscode.html) as our editor to write/edit code.
-We use [Golang][golang] as the programming language for our backend server.
-We use [Slack](./guides/slack.html) to chat and [Zoom][zoom] to meet online.
-
-## Lessons
-
-1. [HTML, CSS and JavaScript](./lessons/0x01/)
-1. [Source control and Git](./lessons/0x02/)
-1. [Tech Roles Overview](./lessons/0x03/)
-1. Collaborating with others
-1. The Software Engineer's role
-1. Exploring SparkleHub
-1. Project work
-1. Project work
-1. Project work
-1. Project show case
-
-go ahead and type the thingy!
-
-Happy hacking!
 
 [golang]: https://golang.org/dl/
 [slack]: https://slack.com/downloads/
