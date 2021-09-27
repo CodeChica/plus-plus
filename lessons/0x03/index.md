@@ -1,4 +1,4 @@
-# Introduction
+# 0x03 - Tech Roles Overview
 
 In this lesson, you will explore an overview of product manager, designer and engineering roles in tech. 
 
@@ -12,14 +12,12 @@ Now, you will get an overview of each of the tech roles! You'll also meet our La
 
 <hr />
 
-<img src="https://user-images.githubusercontent.com/84518950/134763017-fee3894f-d780-4adc-ae9f-13851c0e5163.png" />
+![Paola The Product Manager](./../../assets/images/paola-the-product-manager-slim.png)
 
 Product Managers drive and lead their team's vision and are experts on the _why_ and _how_ of the product. 
 They clearly define the problem that the product is solving, and what outcomes and goals need to be reached in order for it to be created. They work closely with teams of designers, engineers, and sometimes researchers, analysts and marketers. 
 
-
-<img src="https://user-images.githubusercontent.com/84518950/134761945-67842574-c679-4dfb-a28d-3b00ee56d140.png" />
-
+![UX/Tech/Business](./../../assets/images/tech-roles.png)
 
 As the Venn Diagram shows, product managements lives at the intersection of Tech, User Experience and Business. The Product Manager must research and become acquainted with the needs of the user, the market, the customer, and the problem they have that you're trying to solve. 
 
@@ -35,11 +33,11 @@ A user story helps capture the user's voice and point of view. It helps define t
 
 This also involves defining the _Acceptance Criteria._ These are the measurable results of the product, what defines "done"? And how will you know when it is done? 
 
-![userstory](https://user-images.githubusercontent.com/84518950/134764417-6fba9f8f-ea9e-4063-96f8-8377ee3cb5e0.jpeg)
+![As a young jedi, I want to use the force, so that I can lift my x-wing from the swamp](./../../assets/images/user-stories.jpg)
 
 <hr />
 
-<img src="https://user-images.githubusercontent.com/84518950/134763021-7a169929-2609-412f-b8df-53e1ebb8e126.png" />
+![Diana The Designer](./../../assets/images/diana-the-designer-slim.png)
 
 Design is more than just making things look nicer, it's problem solving! Designers play a major role into creating the best user experience possible. 
 
@@ -57,10 +55,10 @@ A wireframe is a tool used by designers to create a visual roadmap or blueprint 
 
 As the Venn Diagram illustrates, there is some overlap with the responsibilities of Product Mangagement and Design. 
 
-<img src="http://jlzych.com/images/2020-pd-pm-overlap/overlap.png" />
+![Product/Design Overlap](./../../assets/images/product-design-overlap.png)
 
 <hr />
-<img src="https://user-images.githubusercontent.com/84518950/134763025-6822a7d4-bc3b-4393-ac2b-a680d2aacc02.png" />
+![Elena The Engineer](./../../assets/images/elena-the-engineer-slim.png)
 
 _What image comes to mind when you think "engineer"? Many people think software engineers just sit at their computer writing lines of code all day. However, this role has many different aspects to it and uses lots of skills!_
 
