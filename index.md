@@ -2,9 +2,9 @@
 layout: default
 ---
 
-CodeChica++ is a course designed to teach you about source control,
+CodeChica++ is a course designed to teach you about [source control](./guides/git.html),
 writing tests, fixing bugs, and other web development fundamentals.
-You will explore roles from the perspective of a [Product Manager](./roles/product-manager-html),
+You will explore roles from the perspective of a [Product Manager](./roles/product-manager.html),
 a [Designer](./roles/designer.html) and an [Engineer](./roles/software-engineer.html).
 You will learn how to contribute to [SparkleHub][sparklehub]
 a place to sparkle others with kindness.
@@ -22,7 +22,31 @@ a place to sparkle others with kindness.
 | 0x09 | Project work | November. 06, 2021 |
 | 0x0A | Project show case | November. 13, 2021 |
 
+## FAQ
+
+When do we meet?
+: Every Saturday from 10:00-13:00 MT until November 14.
+
+Do we meet every Saturday?
+: Yes.
+
+Where can I find the recordings?
+: The recordings are posted to the [#recordings][recordings] channel in Slack.
+
+Where can I find my assigned issues?
+: You can find the issue assigned to you [here](https://github.com/CodeChica/plus-plus/issues/).
+
+What if I need to miss a class.
+: That's okay. The recording of the class is posted to the [#recordings][recordings] channel in [Slack](./guides/slack.html).
+
+When did you say that we're supposed to meet again?
+: Saturdays. 😄
+
+Are we meeting this Saturday?
+: Yes.
+
 [golang]: https://golang.org/dl/
 [slack]: https://slack.com/downloads/
 [sparklehub]: https://sparklehub.herokuapp.com/
 [zoom]: https://zoom.us/
+[recordings]: https://codechica-plus-plus.slack.com/archives/C02EQF56ULW
