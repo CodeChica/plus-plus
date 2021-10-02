@@ -37,6 +37,24 @@ How will this differentiate them from other devs?
 
 -->
 
+Agenda:
+
+* Group Activity (1 hour)
+* Guest Speaker (30-45 minutes)
+* Test Driven Development (1 hour)
+
+## Group Activity
+
+1. Create teams of 3 people.
+1. Choose who will be the:
+  * Product Manager
+  * Designer
+  * Engineer
+1. Present your GitHub profile page to each other.
+1. The Product Manager will present the teams [User Story](./../../roles/product-manager.html#user-stories)
+1. The Designer will present the teams [Wireframe](./../../roles/designer.html#what-is-a-wireframe)
+1. The Engineer will present the updated profile page.
+
 ## Introduction
 
 In this lesson we will introduce testing and pair programming.
