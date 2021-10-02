@@ -52,9 +52,14 @@ Agenda:
   * Designer
   * Engineer
 1. Present your GitHub profile page to each other.
-1. The Product Manager will present the teams [User Story](./../../roles/product-manager.html#user-stories)
-1. The Designer will present the teams [Wireframe](./../../roles/designer.html#what-is-a-wireframe)
-1. The Engineer will present the updated profile page.
+1. Pick one of the profile pages to improve.
+  * Create a [User Story](./../../roles/product-manager.html#user-stories) to improve the profile page.
+  * Create a [Wireframe](./../../roles/designer.html#what-is-a-wireframe) that satisfies the User Story.
+  * Update the profile page to match the design.
+1. Presentation
+  * The Product Manager will present the teams [User Story](./../../roles/product-manager.html#user-stories)
+  * The Designer will present the teams [Wireframe](./../../roles/designer.html#what-is-a-wireframe)
+  * The Engineer will present the updated profile page.
 
 ## Introduction
 
