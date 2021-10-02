@@ -42,6 +42,7 @@ Agenda:
 * Group Activity (1 hour)
 * Guest Speaker (30-45 minutes)
 * Test Driven Development (1 hour)
+* [Heart, Fart, Shopping Cart](https://docs.google.com/document/d/1mV7g-5E4GdLOG0j4l2xhJGNCw32uSDB9LMj6vbIFU9g/edit?usp=sharing)
 
 ## Group Activity
 
