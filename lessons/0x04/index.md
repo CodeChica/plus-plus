@@ -46,6 +46,7 @@ Agenda:
 
 ## Group Activity
 
+
 1. Create teams of 3 people.
 1. Choose who will be the:
   * Product Manager
@@ -60,6 +61,11 @@ Agenda:
   * The Product Manager will present the teams [User Story](./../../roles/product-manager.html#user-stories)
   * The Designer will present the teams [Wireframe](./../../roles/designer.html#what-is-a-wireframe)
   * The Engineer will present the updated profile page.
+
+The video below is a pretend meeting between a Customer, Product Manager,
+Designer and Engineer.
+
+{% include youtube.html youtube_id="zvA68LXHDCI" %}
 
 ## Introduction
 
@@ -263,7 +269,6 @@ understand the software engineering life cycle.
 
 * [Presentation](./slides.html)
 
-{% include youtube.html youtube_id="zvA68LXHDCI" %}
 
 ```plaintext
 # Agenda
