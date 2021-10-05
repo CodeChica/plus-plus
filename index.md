@@ -20,7 +20,8 @@ a place to sparkle others with kindness.
 | 0x07 | Project work | October. 23, 2021 |
 | 0x08 | Project work | October. 30, 2021 |
 | 0x09 | Project work | November. 06, 2021 |
-| 0x0A | Project show case | November. 13, 2021 |
+| 0x0A | Project work | November. 13, 2021 |
+| 0x0B | Project show case | November. 20, 2021 |
 
 ## FAQ
 
