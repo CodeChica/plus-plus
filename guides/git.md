@@ -78,6 +78,8 @@ open https://github.com/CodeChica/novela in a web browser. Now click on the fork
 button. If a dialog pops up, choose your username as the location to fork the
 project too.
 
+{% include youtube.html youtube_id="vLHFQYPTwfw" %}
+
 By `forking` the project, this instructs GitHub to create a copy of the entire
 project just for you. In a few moments, you should get redirected to
 https://github.com/<your-username>/novela. This is your very own copy of the
