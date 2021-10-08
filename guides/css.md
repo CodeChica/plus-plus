@@ -110,3 +110,7 @@ TODO:: Describe
 * testing a selector in the browser. `querySelector(selector)`
 
 -->
+
+## Animations
+
+{% include youtube.html youtube_id="etQEBtvI4zQ" %}
