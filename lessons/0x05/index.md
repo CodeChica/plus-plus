@@ -1,38 +1,73 @@
-## Lesson 0x05
+# 0x05 - The Software Engineer's role
 
-Warm up:
+## Warmup - Mini Coding Challenge
 
-* Girls go into groups, they have to do mini coding challenge
+Get into groups and complete the following challenge.
 
-Engineer's guide to building things.
-Split class into teams (3-4 people per team) give them the project requirements
-and it's up to them to split up roles and wear different hats.
+* Build the world's smallest website.
+* Post a link in the [#general][general] channel in [Slack][slack] when you are done.
 
-Girls share with each other their feature idea and wireframes.
+## Introduction
 
-They choose 1-3 features to move forward with. Girls have to have at least one
-feature, if they'd like to include more, they have to prioritize which is most
-valuable.
+In this lesson, you will learn an overview of the engineer's role in software development.
+You will be placed in your teams and learn about the [final project requirements][final].
+You will get to try out either the [Product Manager][product-manager],
+[Designer][designer], or [Engineer][engineer] role!
 
-Final project requirements:
-* In groups, you will create 1-3 new features on SparkleHub. For each feature
-  provide:
-    * Product Manager Guide
-      * Definition of the feature
-      * What is the issue you are solving?
-      * How will you know that the feature is done?
-    * Wireframe of the feature(s)
-    * Working software
-* Group roles: (will switch each class)
-  * Product Manager: come up with new feature.
-  * Designer: come up with a wireframe of that feature.
-  * Engineer: fix this one bug, implement incomplete feature.
+By the end of this lesson you will:
 
-Outcomes:
+* learn about the role of the Software Engineer.
+* form teams and learn the [final project requirements][final].
+* get to try out the role of either [Product Manager][product-manager], [Designer][designer] or [Engineer][engineer].
 
-* Overview of engineer's role in product development.
-* Girls will get into teams.
-* They will chose their roles/groups, if they can't choose, the instructor
-  assigns each of them a role. Each class they will switch and rotate roles.
+[Engineer][engineer]
 
 [slides](./slides.html)
+
+### Example - Adding Confetti to SparkleHub
+
+```plaintext
+As a Sparkler,
+I want it to rain confetti when I send a Sparkle,
+so that I know that my Sparkle has been sent.
+
+Acceptance Criteria:
+
+* Rainbow coloured confetti will rain down when a new Sparkle is created.
+* The confetti will stop raining when it reaches the bottom of the screen.
+* The text "You sent a Sparkle!" will appear behind the confetti.
+```
+
+The target audience is the Sparkler (person who is sending a Sparkle).
+The feature is to add more fun!
+The value is to notify the sender that the Sparkle has been sent and to create a
+more interactive experience.
+
+## Activity - Meet your Teams!
+
+* For your final project, you will be collaborating in groups and wearing different hats, to give you the feeling of working in a real development environment!
+* First, you will get to choose your groups. If students can't choose, the Instructor will assign teams.
+* Then, once you are in your groups, choose one of the tech roles (Product Manager, Designer, Engineer). Each class, team members will switch and rotate roles!
+* Share your feature idea & wireframe from last class with your team.
+* As a group, choose 1-3 features to move forward with. Each team has to build at least one feature, if you’d like to include more, you have to prioritize which is most valuable.
+
+## Discussion
+
+1. What does an engineer do?
+1. What tech role sounds the most interesting to you?
+
+## Conclusion
+
+In this lesson, you learned an overview of the engineer role in development,
+and how they build features. You met your teams that you will be working with
+on the final project, and chose a role. You began planning out your teams'
+feature(s).
+
+[ada]: ../../../heroes/ada-lovelace.html
+[designer]: ./../../roles/designer.html
+[engineer]: ./../../roles/software-engineer.html
+[general]: https://codechica-plus-plus.slack.com/archives/C02CDMWDK7D
+[product-manager]: ./../../roles/product-manager.html
+[slack]: ./../../guides/slack.html
+[user-story]: ./../../roles/product-manager.html#user-stories
+[final]: ./../0x0A/

@@ -62,10 +62,8 @@ Agenda:
   * The Designer will present the teams [Wireframe](./../../roles/designer.html#what-is-a-wireframe)
   * The Engineer will present the updated profile page.
 
-The video below is a pretend meeting between a Customer, Product Manager,
-Designer and Engineer.
 
-{% include youtube.html youtube_id="zvA68LXHDCI" %}
+{% include youtube.html youtube_id="AGfWZlAikPQ" %}
 
 ## Introduction
 
