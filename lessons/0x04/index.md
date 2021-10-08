@@ -46,7 +46,6 @@ Agenda:
 
 ## Group Activity
 
-
 1. Create teams of 3 people.
 1. Choose who will be the:
   * Product Manager
@@ -61,7 +60,6 @@ Agenda:
   * The Product Manager will present the teams [User Story](./../../roles/product-manager.html#user-stories)
   * The Designer will present the teams [Wireframe](./../../roles/designer.html#what-is-a-wireframe)
   * The Engineer will present the updated profile page.
-
 
 {% include youtube.html youtube_id="AGfWZlAikPQ" %}
 
@@ -78,6 +76,8 @@ By the end of this lesson:
 * you will reproduce and fix your first bug.
 * you will review code and give feedback.
 * you will refactor your code.
+
+{% include youtube.html youtube_id="1_uRNFkFX5Q" %}
 
 ## Why Test Driven Development (TDD)?
 
