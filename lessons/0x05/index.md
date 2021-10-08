@@ -20,9 +20,11 @@ By the end of this lesson you will:
 * form teams and learn the [final project requirements][final].
 * get to try out the role of either [Product Manager][product-manager], [Designer][designer] or [Engineer][engineer].
 
-[Engineer][engineer]
+Learn more about [Elena the Engineer][engineer].
 
+<!--
 [slides](./slides.html)
+-->
 
 ### Example - Adding Confetti to SparkleHub
 
