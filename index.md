@@ -26,7 +26,7 @@ a place to sparkle others with kindness.
 ## FAQ
 
 When do we meet?
-: Every Saturday from 10:00-13:00 MT until November 14.
+: Every Saturday from 10:00-13:00 MT until November 20.
 
 Do we meet every Saturday?
 : Yes.
