@@ -20,7 +20,7 @@ By the end of this lesson you will:
 1. [The Software Game](./slides.html)
 1. [Mini Coding Challenge](#warmup---mini-coding-challenge)
 1. [Sam Klein, UX Designer](#guest-speaker--sam-klein)
-1. [Adding Confetti to SparkleHub](#example--adding-confetti-to-sparklehub)
+1. [Example](#example--adding-confetti-to-sparklehub)
 1. [Meet your teams](#activity---meet-your-teams)
 1. [Heart, Fart and Shopping Cart](https://docs.google.com/document/d/1STo59fviyZraDr28txpKQUmQROLaVsEhyZT-QDtyjwc/edit?usp=sharing)
 
