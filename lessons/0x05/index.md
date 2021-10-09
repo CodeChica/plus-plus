@@ -1,14 +1,5 @@
 # 0x05 - The Software Engineer's role
 
-## Warmup - Mini Coding Challenge
-
-Get into groups and complete the following challenge.
-
-1. Build the world's smallest website.
-1. Post a link to our website in the [#general][general] channel in [Slack][slack].
-
-## Introduction
-
 In this lesson, you will learn an overview of the engineer's role in software development.
 You will be placed in your teams and learn about the [final project requirements][final].
 You will get to try out either the [Product Manager][product-manager],
@@ -22,24 +13,70 @@ By the end of this lesson you will:
 
 [View Presentation](./slides.html) or learn more about [Elena the Engineer][engineer].
 
+<hr />
+
+## Warmup - Mini Coding Challenge
+
+Get into groups and complete the following challenge.
+
+1. Build the world's smallest website.
+1. Post a link to our website in the [#general][general] channel in [Slack][slack].
+
+<hr />
+
 ### Example - Adding Confetti to SparkleHub
-
-```plaintext
-As a Sparkler,
-I want it to rain confetti when I send a Sparkle,
-so that I know that my Sparkle has been sent.
-
-Acceptance Criteria:
-
-* Rainbow coloured confetti will rain down when a new Sparkle is created.
-* The confetti will stop raining when it reaches the bottom of the screen.
-* The text "You sent a Sparkle!" will appear behind the confetti.
-```
 
 The target audience is the Sparkler (person who is sending a Sparkle).
 The feature is to add more fun!
 The value is to notify the sender that the Sparkle has been sent and to create a
 more interactive experience.
+
+```plaintext
+User Story: (Product Manager)
+
+As a Sparkler,
+I want it to rain confetti when I send a Sparkle,
+so that I know that my Sparkle has been sent.
+
+Acceptance Criteria: (Product Manager)
+
+* Rainbow coloured confetti will rain down when a new Sparkle is created.
+* The confetti will stop raining when it reaches the bottom of the screen.
+* The text "You sent a Sparkle!" will appear behind the confetti.
+
+Wire frames: (Designer)
+
+  -------------------------------
+  | o  @  o     o @ @ o @ o  0  |
+  |   @ o    o @  @ o   o  o  o |
+  |  o   @ o   @@ o   o  @ o o  |
+  |      o                o     |
+  |   o               o         |
+  |                             |
+  |     🎉 SPARKLE SENT  🎉     |
+  |                             |
+  |                             |
+  |    /\/\      \🥳            |
+  | /\/  \ \/\    ||\           |
+  |/      \   \   /\            |
+  -------------------------------
+  |         SparkleHub          |
+  -------------------------------
+
+Tasks: (Engineer)
+
+* [ ] Research how to create a confetti animation. (2 days)
+* [ ] Build a prototype of the confetti animation. (2 days)
+* [ ] Share a demo of the prototype and collect feedback. (1 day)
+* [ ] Trigger the confetti animation after the Sparkle is saved. (1/2 day)
+* [ ] Stop the animation after `n` seconds using a timer. (1/2 day)
+* [ ] Measure the memory usage in the browser. (1 day)
+* [ ] Add automated tests for each of the browsers that we support. (2 days)
+* [ ] Work with Design to choose colours that are accessible. (1/2 day)
+* [ ] Add acceptance tests for the new animation. (2 days)
+```
+
+<hr />
 
 ## Activity - Meet your Teams!
 
@@ -49,10 +86,14 @@ more interactive experience.
 * Share your feature idea & wireframe from last class with your team.
 * As a group, choose 1-3 features to move forward with. Each team has to build at least one feature, if you’d like to include more, you have to prioritize which is most valuable.
 
+<hr />
+
 ## Discussion
 
 1. What does an engineer do?
 1. What tech role sounds the most interesting to you?
+
+<hr />
 
 ## Conclusion
 

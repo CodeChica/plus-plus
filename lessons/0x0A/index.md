@@ -20,7 +20,7 @@ Your team will submit:
 1. A [Task breakdown][tasks] for how to build the feature included in the issue.
 1. A [Pull Request][pull-request] with working code submitted to the [SparkleHub][sparklehub] repo.
 
-Below is a video of fictitious meeting between a Customer,
+Below is a video of a fictitious meeting between a Customer,
 Product Manager, Designer and an Engineer to help you come up with some ideas.
 
 {% include youtube.html youtube_id="zvA68LXHDCI" %}
