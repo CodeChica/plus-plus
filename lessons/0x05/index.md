@@ -19,6 +19,7 @@ By the end of this lesson you will:
 
 1. [The Software Game](./slides.html)
 1. [Mini Coding Challenge](#warmup---mini-coding-challenge)
+1. [Sam Klein, UX Designer](#guest-speaker--sam-klein)
 1. [Adding Confetti to SparkleHub](#example--adding-confetti-to-sparklehub)
 1. [Meet your teams](#activity---meet-your-teams)
 1. [Heart, Fart and Shopping Cart](https://docs.google.com/document/d/1STo59fviyZraDr28txpKQUmQROLaVsEhyZT-QDtyjwc/edit?usp=sharing)
@@ -33,8 +34,13 @@ Get into groups and complete the following challenge.
 1. Post a link to our website in the [#general][general] channel in [Slack][slack].
 
 <hr />
+## Guest Speaker - Sam Klein
 
-### Example - Adding Confetti to SparkleHub
+{% include youtube.html youtube_id="rYeAHclkyCg" %}
+
+<hr />
+
+## Example - Adding Confetti to SparkleHub
 
 The target audience is the Sparkler (person who is sending a Sparkle).
 The feature is to add more fun!
