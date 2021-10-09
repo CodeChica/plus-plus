@@ -106,6 +106,7 @@ Use this pattern to get started:
 Example:
 
 > When a sparkle is created, it saves the recipient
+
 > When a sparkle is created, it saves the reason
 
 ```rb

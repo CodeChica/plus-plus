@@ -1,5 +1,15 @@
 # 0x05 - The Software Engineer's role
 
+## Agenda
+
+1. [The Software Game](./slides.html)
+1. [Mini Coding Challenge](#warmup---mini-coding-challenge)
+1. [Adding Confetti to SparkleHub](#example--adding-confetti-to-sparklehub)
+1. [Meet your teams](#activity---meet-your-teams)
+1. [Heart, Fart and Shopping Cart](https://docs.google.com/document/d/1STo59fviyZraDr28txpKQUmQROLaVsEhyZT-QDtyjwc/edit?usp=sharing)
+
+## Introduction
+
 In this lesson, you will learn an overview of the engineer's role in software development.
 You will be placed in your teams and learn about the [final project requirements][final].
 You will get to try out either the [Product Manager][product-manager],
@@ -19,7 +29,7 @@ By the end of this lesson you will:
 
 Get into groups and complete the following challenge.
 
-1. Build the world's smallest website.
+1. Build the world's smallest website. [Hint](./../../guides/html.html)
 1. Post a link to our website in the [#general][general] channel in [Slack][slack].
 
 <hr />
