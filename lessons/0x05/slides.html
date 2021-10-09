@@ -8,22 +8,246 @@
     <link rel="stylesheet" href="../../dist/reveal.css">
     <link rel="stylesheet" href="../../dist/theme/black.css">
     <link rel="stylesheet" href="../../plugin/highlight/monokai.css">
+    <style type="text/css" media="all">
+      em { color: pink; }
+    </style>
   </head>
   <body>
     <div class="reveal">
       <div class="slides">
-        <section>HTML, CSS, JavaScript and Source Control</section>
         <section data-markdown>
           <textarea data-template>
-            ## Slide 1
-            A paragraph with some text and a [link](http://hakim.se).
-            ---
-            ## Slide 2
-            ---
-            ## Slide 3
+            ## The
+            # _Software_
+            ## Game
           </textarea>
         </section>
-        <section>Slide 2</section>
+        <section>
+          <img src="../../assets/images/paola-the-product-manager-slim.png" alt="Paola" width="50%" />
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ### User Story
+
+            As a _[Role]_,
+
+            I want _[to do something]_,
+
+            so that _[this goal is accomplished]_.
+          </textarea>
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ### User Story
+
+            As a _Sparkler_,
+
+            I want _it to rain confetti_,
+
+            so that _I know that the Sparkle was sent_.
+          </textarea>
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ### Acceptance Criteria
+
+            * When a _Sparkle_ is sent, it rains _Confetti_.
+            * The _Confetti_ stops raining after 3 seconds.
+            * _"You sent a Sparkle!"_ is displayed.
+          </textarea>
+        </section>
+        <section>
+          <img src="../../assets/images/diana-the-designer-slim.png" alt="Diana" width="50%" />
+        </section>
+        <section data-markdown>
+          <textarea data-template>
+            ### 🤔
+
+            * Colors
+            * Layout
+            * UX: Step 1, Step 2, ...
+          </textarea>
+        </section>
+        <section>
+          <pre>
+                -------------------------------
+                | ------                      |
+                | |logo|                      |
+                | ------                      |
+                |         hero section        |
+                |   -----------------------   |
+                |   | .sparkle ...        |   |
+                |   -----------------------   |
+                |                 --------    |
+                |                 | send | <--|-- Disabled
+                |                 --------    |     State
+                |                             | (muted color)
+                -------------------------------
+                |                             |
+                |      sparkles section       |
+                |                             |
+                |                             |
+                |      "No Sparkles Yet"      |
+                |                             |
+                -------------------------------
+                |       footer section        |
+                -------------------------------
+          </pre>
+        </section>
+        <section>
+          <pre>
+                -------------------------------
+                | ------                      |
+                | |logo|                      |
+                | ------                      |
+                |                             |
+                |   -----------------------   |
+                |   | .sparkle @xl        |   |
+                |   ----------|@xlg-tea   |   |
+                |             |@xlg-juice |   |
+                |             |@xlg-coffee|   |
+                |             |@xlgmokha  |   |
+                |             -------------   |
+                |                 --------    |
+                |                 | send |    |
+                |                 --------    |
+                |                             |
+                -------------------------------
+                |                             |
+                |        ------------         |
+                |        | sad face |         |
+                |        |  picture |         |
+                |        ------------         |
+                |                             |
+                |      "No Sparkles Yet"      |
+                |                             |
+                -------------------------------
+                |       footer section        |
+                -------------------------------
+          </pre>
+        </section>
+        <section>
+          <pre>
+                -------------------------------
+                | ------                      |
+                | |logo|                      |
+                | ------                      |
+                |                             |
+                |   -----------------------   |
+                |   | @xlgmokha seems cool|   |
+                |   -----------------------   |
+                |                 ********    |
+                |                 * send * <--|--Enabled
+                |                 ********    |  State
+                |                             |
+                -------------------------------
+                |                             |
+                |        ------------         |
+                |        | sad face |         |
+                |        |  picture |         |
+                |        ------------         |
+                |                             |
+                |      "No Sparkles Yet"      |
+                |                             |
+                -------------------------------
+                |       footer section        |
+                -------------------------------
+          </pre>
+        </section>
+        <section>
+          <pre>
+                -------------------------------
+                | ------                      |
+                | |logo|                      |
+                | ------                      |
+                |                             |
+                |   -----------------------   |
+                |   | @xlgmokha seems cool|   |
+                |   -----------------------   |
+                |             -------------   |
+                |             | sending...|<--|-- Disabled
+                |             -------------   |     State
+                |                             | (muted color)
+                |                             |
+                -------------------------------
+                |                             |
+                |        ------------         |
+                |        | sad face |         |
+                |        |  picture |         |
+                |        ------------         |
+                |                             |
+                |      "No Sparkles Yet"      |
+                |                             |
+                -------------------------------
+                |       footer section        |
+                -------------------------------
+          </pre>
+        </section>
+        <section>
+          <marquee><em>Sparkle</em> Party</marquee>
+          <pre>
+                -------------------------------
+                | o  @  o     o @ @ o @ o  0  |
+                |   @ o    o @  @ o   o  o  o |
+                |  o   @ o   @@ o   o  @ o o  |
+                |      o                o     |
+                |   o               o         |
+                |                             |
+                |     🎉 SPARKLE SENT  🎉     |
+                |                             |
+                |                             |
+                |    /\/\      \🥳            |
+                | /\/  \ \/\    ||\           |
+                |/      \   \   /\            |
+                -------------------------------
+                -------------------------------
+                |       footer section        |
+                -------------------------------
+          </pre>
+        </section>
+        <section>
+          <pre>
+                -------------------------------
+                | ------                      |
+                | |logo|                      |
+                | ------                      |
+                |         hero section        |
+                |   -----------------------   |
+                |   | .sparkle ...        |   |
+                |   -----------------------   |
+                |                 --------    |
+                |                 | send | <--|-- Disabled
+                |                 --------    |     State
+                |                             | (muted color)
+                -------------------------------
+                |                             |
+                |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+                |     @xlgmokha seems cool    |
+                |~~~~~~~~~~~~~~~~~~~~~~~~~~~~~|
+                |                             |
+                -------------------------------
+                |       footer section        |
+                -------------------------------
+          </pre>
+        </section>
+        <section>
+          <img src="../../assets/images/elena-the-engineer-slim.png" alt="Diana" width="50%" />
+        </section>
+        <section>
+            You want me to build...
+        </section>
+        <section>
+            🙄 WAT?
+        </section>
+        <section>
+          Engineers turn ideas into real things.
+        </section>
+        <section>
+          One piece at a time. 🍰
+        </section>
+        <section>
+          How would you build this?
+        </section>
       </div>
     </div>
     <script src="../../dist/reveal.js"></script>
