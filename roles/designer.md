@@ -8,6 +8,8 @@ There are different types of designers in tech. UX Designers focus on how a user
 
 They conduct research, create the structure and visual design, wireframes and prototyping, and facilitate user testing.
 
+{% include youtube.html youtube_id="rYeAHclkyCg" %}
+
 ## What is a Wireframe?
 
 A wireframe is a tool used by designers to create a visual roadmap or blueprint for an application.

@@ -4,8 +4,8 @@
 
 Get into groups and complete the following challenge.
 
-* Build the world's smallest website.
-* Post a link in the [#general][general] channel in [Slack][slack] when you are done.
+1. Build the world's smallest website.
+1. Post a link to our website in the [#general][general] channel in [Slack][slack].
 
 ## Introduction
 
@@ -20,11 +20,7 @@ By the end of this lesson you will:
 * form teams and learn the [final project requirements][final].
 * get to try out the role of either [Product Manager][product-manager], [Designer][designer] or [Engineer][engineer].
 
-Learn more about [Elena the Engineer][engineer].
-
-<!--
-[slides](./slides.html)
--->
+[View Presentation](./slides.html) or learn more about [Elena the Engineer][engineer].
 
 ### Example - Adding Confetti to SparkleHub
 
