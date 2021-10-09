@@ -1,13 +1,5 @@
 # 0x05 - The Software Engineer's role
 
-## Agenda
-
-1. [The Software Game](./slides.html)
-1. [Mini Coding Challenge](#warmup---mini-coding-challenge)
-1. [Adding Confetti to SparkleHub](#example--adding-confetti-to-sparklehub)
-1. [Meet your teams](#activity---meet-your-teams)
-1. [Heart, Fart and Shopping Cart](https://docs.google.com/document/d/1STo59fviyZraDr28txpKQUmQROLaVsEhyZT-QDtyjwc/edit?usp=sharing)
-
 ## Introduction
 
 In this lesson, you will learn an overview of the engineer's role in software development.
@@ -22,6 +14,14 @@ By the end of this lesson you will:
 * get to try out the role of either [Product Manager][product-manager], [Designer][designer] or [Engineer][engineer].
 
 [View Presentation](./slides.html) or learn more about [Elena the Engineer][engineer].
+
+### Agenda
+
+1. [The Software Game](./slides.html)
+1. [Mini Coding Challenge](#warmup---mini-coding-challenge)
+1. [Adding Confetti to SparkleHub](#example--adding-confetti-to-sparklehub)
+1. [Meet your teams](#activity---meet-your-teams)
+1. [Heart, Fart and Shopping Cart](https://docs.google.com/document/d/1STo59fviyZraDr28txpKQUmQROLaVsEhyZT-QDtyjwc/edit?usp=sharing)
 
 <hr />
 
