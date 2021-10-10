@@ -8,6 +8,8 @@ By definition, a software engineer uses Computer Science and Programming princip
 
 Engineers get to collaborate with other people, such as Designers, Data Scientists, and Project Managers.
 
+{% include youtube.html youtube_id="G-gAohI9qDA" %}
+
 ## What does an Engineer do?
 
 * Collaborate with other people, such as Designers, Data Scientists, and Project Managers.
