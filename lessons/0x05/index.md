@@ -49,6 +49,8 @@ The feature is to add more fun!
 The value is to notify the sender that the Sparkle has been sent and to create a
 more interactive experience.
 
+{% include youtube.html youtube_id="9vKNcjacTYU" %}
+
 ```plaintext
 User Story: (Product Manager)
 
