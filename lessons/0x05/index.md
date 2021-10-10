@@ -13,6 +13,8 @@ By the end of this lesson you will:
 * form teams and learn the [final project requirements][final].
 * get to try out the role of either [Product Manager][product-manager], [Designer][designer] or [Engineer][engineer].
 
+{% include youtube.html youtube_id="VSraiYX6Pl4" %}
+
 [View Presentation](./slides.html) or learn more about [Elena the Engineer][engineer].
 
 ### Agenda
