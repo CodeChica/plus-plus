@@ -83,15 +83,15 @@ Wire frames: (Designer)
 
 Tasks: (Engineer)
 
-* [ ] Research how to create a confetti animation. (2 days)
-* [ ] Build a prototype of the confetti animation. (2 days)
-* [ ] Share a demo of the prototype and collect feedback. (1 day)
-* [ ] Trigger the confetti animation after the Sparkle is saved. (1/2 day)
-* [ ] Stop the animation after `n` seconds using a timer. (1/2 day)
-* [ ] Measure the memory usage in the browser. (1 day)
-* [ ] Add automated tests for each of the browsers that we support. (2 days)
-* [ ] Work with Design to choose colours that are accessible. (1/2 day)
-* [ ] Add acceptance tests for the new animation. (2 days)
+* [ ] Research how to create a confetti animation. (large)
+* [ ] Build a prototype of the confetti animation. (large)
+* [ ] Share a demo of the prototype and collect feedback. (medium)
+* [ ] Trigger the confetti animation after the Sparkle is saved. (small)
+* [ ] Stop the animation after `n` seconds using a timer. (small)
+* [ ] Measure the memory usage in the browser. (medium)
+* [ ] Add automated tests for each of the browsers that we support. (medium)
+* [ ] Work with Design to choose colours that are accessible. (small)
+* [ ] Add acceptance tests for the new animation. (medium)
 ```
 
 <hr />
