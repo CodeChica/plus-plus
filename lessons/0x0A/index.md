@@ -13,6 +13,8 @@ Group Roles:
 - Designer: comes up with a wireframe of that feature
 - Engineer: fixes bugs, implements feature
 
+{% include youtube.html youtube_id="Tk4NDqrqSDM" %}
+
 Your team will submit:
 
 1. A [User Story][user-story] submitted as a [new issue][issue].
