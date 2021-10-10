@@ -26,7 +26,7 @@ a place to sparkle others with kindness.
 ## FAQ
 
 When do we meet?
-: Every Saturday from 10:00-13:00 MT until November 20.
+: Every Saturday from 10:00-13:00 MT until November 20. [Calendar][calendar].
 
 Do we meet every Saturday?
 : Yes.
@@ -51,3 +51,4 @@ Are we meeting this Saturday?
 [sparklehub]: https://sparklehub.herokuapp.com/
 [zoom]: https://zoom.us/
 [recordings]: https://codechica-plus-plus.slack.com/archives/C02EQF56ULW
+[calendar]: https://calendar.google.com/calendar/u/0?cid=Y2xhc3Nyb29tMTA5OTkzMzI5MTI2NDM0MzIwNjMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20
