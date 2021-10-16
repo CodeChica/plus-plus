@@ -28,23 +28,17 @@ a place to sparkle others with kindness.
 When do we meet?
 : Every Saturday from 10:00-13:00 MT until November 20. [Calendar][calendar].
 
-Do we meet every Saturday?
-: Yes.
-
 Where can I find the recordings?
 : The recordings are posted to the [#recordings][recordings] channel in Slack.
 
 Where can I find my assigned issues?
 : You can find the issue assigned to you [here](https://github.com/CodeChica/plus-plus/issues/).
 
-What if I need to miss a class.
+What if I need to miss a class?
 : That's okay. The recording of the class is posted to the [#recordings][recordings] channel in [Slack](./guides/slack.html).
 
-When did you say that we're supposed to meet again?
-: Saturdays. 😄
-
-Are we meeting this Saturday?
-: Yes.
+When will we be presenting our project?
+: Saturday, November. 20, 2021
 
 [golang]: https://golang.org/dl/
 [slack]: https://slack.com/downloads/
