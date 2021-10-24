@@ -29,10 +29,10 @@ Product Manager, Designer and an Engineer to help you come up with some ideas.
 
 [designer]: ./../../roles/designer.html
 [engineer]: ./../../roles/software-engineer.html
-[issue]: https://github.com/CodeChica/SparkleHub/issues/new
+[issue]: https://github.com/CodeChica/SparkleHub-lite/issues/new
 [product-manager]: ./../../roles/product-manager.html
-[pull-request]: https://github.com/CodeChica/SparkleHub/compare
-[sparklehub]: https://github.com/CodeChica/SparkleHub
+[pull-request]: https://github.com/CodeChica/SparkleHub-lite/compare
+[sparklehub]: https://github.com/CodeChica/SparkleHub-lite
 [tasks]: ./../../roles/engineer.html#task-breakdown
 [user-story]: ./../../roles/product-manager.html#user-stories
 [wireframe]: ./../../roles/designer.html#what-is-a-wireframe

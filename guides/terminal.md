@@ -23,7 +23,7 @@ It provides a command line interface that looks like this:
 
 ```bash
 /workspaces/SparkleHub
-$ 
+$
 ```
 
 Start by typing command, like `ls`, followed by pressing the Enter key.

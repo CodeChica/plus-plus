@@ -42,7 +42,7 @@ When will we be presenting our project?
 
 [golang]: https://golang.org/dl/
 [slack]: https://slack.com/downloads/
-[sparklehub]: https://sparklehub.herokuapp.com/
+[sparklehub]: https://github.com/CodeChica/SparkleHub-lite
 [zoom]: https://zoom.us/
 [recordings]: https://codechica-plus-plus.slack.com/archives/C02EQF56ULW
 [calendar]: https://calendar.google.com/calendar/u/0?cid=Y2xhc3Nyb29tMTA5OTkzMzI5MTI2NDM0MzIwNjMxQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20

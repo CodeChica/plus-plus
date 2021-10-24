@@ -82,4 +82,4 @@ Acceptance Criteria:
 ===============================================================================
 ```
 
-[issue]: https://github.com/CodeChica/SparkleHub/issues/new
+[issue]: https://github.com/CodeChica/SparkleHub-lite/issues/new

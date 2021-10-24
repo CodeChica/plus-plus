@@ -43,7 +43,7 @@ figuring out how to install git, Linux, Ruby, Node.js etc.
 
 {% include youtube.html youtube_id="AC_7zcc-3ps" %}
 
-1. Open the [SparkleHub](https://github.com/codechica/SparkleHub) repo in a browser.
+1. Open the [SparkleHub](https://github.com/codechica/SparkleHub-lite) repo in a browser.
 1. Click on "Code"
 1. Click on "Codespaces"
 1. Click on "New codespace"
@@ -57,8 +57,6 @@ figuring out how to install git, Linux, Ruby, Node.js etc.
 1. Open [http://localhost:3000/](http://localhost:3000/) in your web browser.
 
 This is your copy of the final project that you are free to explore.
-Take a look at the files in the directory [app/views](https://github.com/CodeChica/SparkleHub/blob/main/app/views/).
-
 If you want to turn off the server press "Ctrl" + "c" in the terminal.
 
 ### [Delete my Codespace](https://docs.github.com/en/codespaces/developing-in-codespaces/deleting-a-codespace)
