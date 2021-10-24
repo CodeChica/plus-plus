@@ -1,4 +1,6 @@
-### JavaScript
+# JavaScript
+
+{% include youtube.html youtube_id="_y9oxzTGERs" %}
 
 JavaScript is a language that allows you to write code that can react to events
 in the browser. When you *click* on a button, this raises an event that can be
@@ -22,8 +24,52 @@ document.addEventListener('DOMContentLoaded', function(event) {
 });
 ```
 
-{% include youtube.html youtube_id="_y9oxzTGERs" %}
+## Data Types
 
+* [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [Boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
+* [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+* [Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+* [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+* [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+## Variables
+
+```javascript
+let age = 14;
+let birthday = new Date(2007, 09, 19);
+let name = "Monalisa";
+let mona = {
+  Name: name,
+  BirthDay: birthday,
+  Age: age
+};
+```
+
+* [Declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#declarations)
+
+## Functions
+
+```javascript
+function greet(name) {
+  return "Hello " + name;
+}
+
+let greeting = greet("Monalisa");
+console.log(greeting);
+```
+
+* [Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
+
+## Loops
+
+```javascript
+for (let i = 0; i < 3; i++) {
+  console.log("Happy Birthday to you");
+}
+```
+
+* [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#iterations)
 
 <!--
 
@@ -36,5 +82,4 @@ TODO::
 * datatypes
 * functions
 * events
-
 -->
