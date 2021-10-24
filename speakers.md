@@ -36,8 +36,6 @@ career in technology.
 
 If you are interested please *[sign up][signup]* for an upcoming session.
 
-[signup]: https://docs.google.com/forms/d/e/1FAIpQLSeug2cKWQ8o7EnMQJVFA7DE-uy-S-GTceZfU2MnfTPX2R76mQ/viewform
-
 The Program Coordinator will follow up with you via email, and you may be asked to record your presentation for our guest speakers playlist on YouTube. 
 <hr />
 
@@ -62,3 +60,5 @@ Product Management by @asciimike
 
 {% include youtube.html youtube_id="AGfWZlAikPQ" %}
 <hr />
+
+[signup]: https://docs.google.com/forms/d/e/1FAIpQLSeug2cKWQ8o7EnMQJVFA7DE-uy-S-GTceZfU2MnfTPX2R76mQ/viewform
