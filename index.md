@@ -23,6 +23,9 @@ a place to sparkle others with kindness.
 | 0x0A | [Final Project work](./lessons/0x0A/) | November. 13, 2021 |
 | 0x0B | Project show case | November. 20, 2021 |
 
+![Latinas Deserve More Than Equal Pay](/assets/images/latinas-deserve-more-than-equal-pay.png)
+[Source](https://hispanicstar.org/resources/)
+
 ## FAQ
 
 When do we meet?
