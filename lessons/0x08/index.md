@@ -1,14 +1,20 @@
-## Lesson 0x08
+# 0x08 - Welcome Octogatos
 
-Icebreaker: Git Game? Coding Challenge?
+## Agenda
 
-Hands on workshop day.
+* Exploring SparkleHub
+* [Sofia Bonnet Jaimes](#sofia-bonnet-jaimes)
+* [Camilo Garcia La Rotta](#camilo-garcia-la-rotta)
 
-Outcomes:
+## Sofia Bonnet Jaimes
 
-Girls will ensure they have all the requirements and deliverables for their
-final project.
+[Sofia][sofia] will be joining us to share a special workshop that she has crafted
+specifically for our class on identity, recognition and gratitude.
 
-Troubleshoot code that is not working.
+## Camilo Garcia La Rotta
 
-[slides](./slides.html)
+[Camilo][camilo] joins us to teach us about [Making Gif's with Code][making_gifs].
+
+[camilo]: https://github.com/camilogarcialarotta
+[making_gifs]: https://camilogarcialarotta.github.io/presentations/talks/gifs-in-go/
+[sofia]: https://github.com/sofiatwins
