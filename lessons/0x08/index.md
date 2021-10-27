@@ -2,7 +2,7 @@
 
 ## Agenda
 
-* Exploring SparkleHub
+* Exploring [SparkleHub][sparklehub].
 * [Sofia Bonnet Jaimes](#sofia-bonnet-jaimes)
 * [Camilo Garcia La Rotta](#camilo-garcia-la-rotta)
 
@@ -18,3 +18,4 @@ specifically for our class on identity, recognition and gratitude.
 [camilo]: https://github.com/camilogarcialarotta
 [making_gifs]: https://camilogarcialarotta.github.io/presentations/talks/gifs-in-go/
 [sofia]: https://github.com/sofiatwins
+[sparklehub]: https://github.com/CodeChica/SparkleHub-lite
