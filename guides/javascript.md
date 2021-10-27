@@ -71,6 +71,8 @@ for (let i = 0; i < 3; i++) {
 
 * [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#iterations)
 
+{% include youtube.html youtube_id="7qobB9DM0Ck" %}
+
 <!--
 
 TODO::
