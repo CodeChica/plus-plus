@@ -1,4 +1,4 @@
-# 0x08 - Welcome Octogatos
+# 0x08 - Welcome [Octogatos][octogatos]
 
 ## Agenda
 
@@ -17,5 +17,6 @@ specifically for our class on identity, recognition and gratitude.
 
 [camilo]: https://github.com/camilogarcialarotta
 [making_gifs]: https://camilogarcialarotta.github.io/presentations/talks/gifs-in-go/
+[octogatos]: https://twitter.com/octogatos
 [sofia]: https://github.com/sofiatwins
 [sparklehub]: https://github.com/CodeChica/SparkleHub-lite
