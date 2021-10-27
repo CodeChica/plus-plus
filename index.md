@@ -17,7 +17,7 @@ a place to sparkle others with kindness.
 | 0x04 | [Collaborating with others](./lessons/0x04/) | October. 02, 2021 |
 | 0x05 | [The Software Engineer's role](./lessons/0x05/) | October. 09, 2021 |
 | 0x06 | [Exploring SparkleHub](./lessons/0x06/)   | October. 16, 2021 |
-| 0x07 | [Final Project work](./lessons/0x0A/) | October. 23, 2021 |
+| 0x07 | [User Stories Applied](./lessons/0x07/) | October. 23, 2021 |
 | 0x08 | [Final Project work](./lessons/0x0A/) | October. 30, 2021 |
 | 0x09 | [Final Project work](./lessons/0x0A/) | November. 06, 2021 |
 | 0x0A | [Final Project work](./lessons/0x0A/) | November. 13, 2021 |
