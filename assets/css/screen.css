@@ -155,12 +155,10 @@ ul.learn-navigation {
 ul.learn-navigation li a {
   text-decoration: none;
 }
-img.logo {
-  width: 50%;
-}
-pre.highlight {
-  padding-left: 20px;
-}
 div.highlighter-rouge { margin-top: 5px; }
+div.language-bash { border: dotted black; }
+div.language-css { border: dotted pink; }
 div.language-html { border: dotted blue; }
 div.language-javascript { border: dotted green; }
+img.logo { width: 50%; }
+pre.highlight { padding-left: 20px; }

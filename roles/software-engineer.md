@@ -71,10 +71,19 @@ let a small population of users try out the feature before releasing it to
 everyone.
 
 ## Automated Tests
+
+{% include youtube.html youtube_id="OaMzkeUgZa8" %}
+
 ## Design Patterns
+
+{% include youtube.html youtube_id="rtmFCcjEgEw" %}
+
 ## Design Principles
+
 ## Feature Flags
+
 ## Refactoring
+
 ## Task Breakdown
 
 Before we start working on a new feature we need to make sure that we understand
