@@ -41,6 +41,16 @@ The Program Coordinator will follow up with you via email, and you may be asked 
 
 ## Previous Presentations
 
+Camilo Garcia La Rotta
+
+{% include youtube.html youtube_id="-TKND1hLg6w" %}
+<hr />
+
+Sofia Bonnet Hollis
+
+{% include youtube.html youtube_id="OUZYJ0_N6Wo" %}
+<hr />
+
 Elaine Gómez - Game Design
 
 {% include youtube.html youtube_id="KXxoAtuUv0Q" %}
