@@ -1,28 +1,96 @@
 # JavaScript
 
-{% include youtube.html youtube_id="_y9oxzTGERs" %}
+JavaScript is a scripting language that was originally designed to run in a web
+browser. It lets programmers write code that can execute in the web browser of
+the visitors who visit a programmers website.
 
-JavaScript is a language that allows you to write code that can react to events
-in the browser. When you *click* on a button, this raises an event that can be
-handled by JavaScript code. JavaScript can then be used to manipulate the
-Document Object Model (a.k.a. DOM) to perform actions like making a network
-request to a server or validate data entered on a page.
+{% include youtube.html youtube_id="nItSSTwBvSU" %}
 
-e.g.
+## How do I add JavaScript to my website?
 
-The code below will render an alert box with the text "Ouch!" when you click
-on a page.
+To add JavaScript to our websites we can use the [`<script>`][script] tag to add inline or external JavaScript.
+
+Here's an example of inline JavaScript in a file named `index.html`.
+
+```html
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>👀</title>
+    <script>
+      function clickButton() {
+        alert("👋 Oh, hi!");
+      }
+    </script>
+  </head>
+  <body>
+    <button type="button" onclick="clickButton();">Click Me</button>
+  </body>
+</html>
+```
+<hr />
+
+Here's an example of how we can load an external JavaScript file named
+`index.js` from an HTML file named `index.html`.
+
+```html
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>👀</title>
+    <script type="text/javascript" src="index.js" ></script>
+  </head>
+  <body>
+    <button type="button" onclick="clickButton();">Click Me</button>
+  </body>
+</html>
+```
 
 ```javascript
-document.addEventListener('DOMContentLoaded', function(event) {
-  var bodyElement = document.querySelector('body');
-
-  bodyElement.addEventListener('click', function(event) {
-    // This is a great way to irritate visitors to your website.
-    alert('Ouch!');
-  })
-});
+// index.js
+function clickButton() {
+  alert("👋 Oh, hi!");
+}
 ```
+<hr />
+
+Sometimes our JavaScript will need to access HTML elements that are on the page.
+To make sure that the HTML [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
+is finished loading before our JavaScript code starts to execute we might need to wait until the [DOMContentLoaded](https://developer.mozilla.org/en-US/docs/Web/API/Window/DOMContentLoaded_event) event has
+happened.
+
+
+The code below will attach a function to the `click` event of the HTML [body element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body) so that when you click on the page it will show an alert with a
+message.
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>👀</title>
+    <script>
+      document.addEventListener('DOMContentLoaded', function(event) {
+        var bodyElement = document.querySelector('p');
+
+        bodyElement.addEventListener('click', function(event) {
+          alert("👋 Oh, hi!");
+        })
+      });
+    </script>
+  </head>
+  <body>
+    <p style="background-color: pink;">Click me!</p>
+  </body>
+</html>
+```
+
+Read [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) for a thorough tutorial on JavaScript.
+
+{% include youtube.html youtube_id="_y9oxzTGERs" %}
+
+
 
 ## Data Types
 
@@ -71,17 +139,13 @@ for (let i = 0; i < 3; i++) {
 
 * [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#iterations)
 
+
+## Additional Resources
+
+{% include youtube.html youtube_id="QLatPwsbDrQ" %}
+<hr />
+
 {% include youtube.html youtube_id="7qobB9DM0Ck" %}
+<hr />
 
-<!--
-
-TODO::
-* `fetch()` data from the server.
-* JSON API
-* JSON
-* REST
-* variables
-* datatypes
-* functions
-* events
--->
+[script]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script

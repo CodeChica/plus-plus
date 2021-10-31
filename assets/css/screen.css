@@ -157,3 +157,9 @@ ul.learn-navigation li a {
 img.logo {
   width: 50%;
 }
+pre.highlight {
+  padding-left: 20px;
+}
+div.highlighter-rouge { margin-top: 5px; }
+div.language-html { border: dotted blue; }
+div.language-javascript { border: dotted green; }
