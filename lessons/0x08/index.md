@@ -3,19 +3,26 @@
 ## Agenda
 
 * Exploring [SparkleHub][sparklehub].
-* [Sofia Bonnet Jaimes](#sofia-bonnet-jaimes)
+* [Sofia Bonnet Hollis](#sofia-bonnet-hollis)
 * [Camilo Garcia La Rotta](#camilo-garcia-la-rotta)
 
-## Sofia Bonnet Jaimes
+{% include youtube.html youtube_id="Qc7VXnsMLkU" %}
 
-[Sofia][sofia] will be joining us to share a special workshop that she has crafted
+## Sofia Bonnet Hollis
+
+[Sofia][sofia] shared a special workshop that she crafted
 specifically for our class on identity, recognition and gratitude.
+
+{% include youtube.html youtube_id="OUZYJ0_N6Wo" %}
 
 ## Camilo Garcia La Rotta
 
-[Camilo][camilo] joins us to teach us about [Making Gif's with Code][making_gifs].
+[Camilo][camilo] taught us how to [Make Gif's with Code][making_gifs] using [GifHub][gifhub].
+
+{% include youtube.html youtube_id="-TKND1hLg6w" %}
 
 [camilo]: https://github.com/camilogarcialarotta
+[gifhub]: https://github.com/CamiloGarciaLaRotta/gifhub
 [making_gifs]: https://camilogarcialarotta.github.io/presentations/talks/gifs-in-go/
 [octogatos]: https://twitter.com/octogatos
 [sofia]: https://github.com/sofiatwins
