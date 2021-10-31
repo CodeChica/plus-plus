@@ -54,6 +54,9 @@ function clickButton() {
   alert("👋 Oh, hi!");
 }
 ```
+
+{% include youtube.html youtube_id="LFa9fnQGb3g" %}
+
 <hr />
 
 Sometimes our JavaScript will need to access HTML elements that are on the page.
@@ -127,7 +130,9 @@ let greeting = greet("Monalisa");
 console.log(greeting);
 ```
 
-* [Function](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function)
+{% include youtube.html youtube_id="AY6X5jZZ_JE" %}
+
+Read more about [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function).
 
 ## Loops
 
@@ -143,9 +148,7 @@ for (let i = 0; i < 3; i++) {
 ## Additional Resources
 
 {% include youtube.html youtube_id="QLatPwsbDrQ" %}
-<hr />
 
 {% include youtube.html youtube_id="7qobB9DM0Ck" %}
-<hr />
 
 [script]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
