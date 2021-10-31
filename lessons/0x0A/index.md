@@ -1,29 +1,22 @@
 # Final Project
 
-In groups, you will create 1-3 new features for [SparkleHub][sparklehub].
+In teams of 3 people, you will create 1 new feature for [SparkleHub][sparklehub].
+Each team will choose who will be the [Product Manager][product-manager],
+[Designer][designer], and [Engineer][engineer].
 
-Each group will choose who will be the [Product Manager][product-manager],
-[Designer][designer], and [Engineer][engineer]. You will have an opportunity to
-rotate roles each class. You will work together to try out each of these roles
-and help each other improve.
+* The Product Manager creates a [User Story][user-story] submitted as a [new issue][issue].
+* The Designer creates a [Wireframe][wireframe] of the feature submitted as an attachment in the issue.
+* The Engineer creates a [Task breakdown][tasks] of the work to be done to build the feature included in the issue.
+* The team submits a [Pull Request][pull-request] to the [SparkleHub][sparklehub] repo with working code.
 
-Group Roles:
+Each member of the team will present how they contributed to the feature that they worked on together.
 
-- Product Manager: comes up with new feature
-- Designer: comes up with a wireframe of that feature
-- Engineer: fixes bugs, implements feature
+The following video provides an example of the full process.
 
 {% include youtube.html youtube_id="Tk4NDqrqSDM" %}
 
-Your team will submit:
-
-1. A [User Story][user-story] submitted as a [new issue][issue].
-1. A [Wireframe][wireframe] of the feature submitted as an attachment in the issue.
-1. A [Task breakdown][tasks] for how to build the feature included in the issue.
-1. A [Pull Request][pull-request] with working code submitted to the [SparkleHub][sparklehub] repo.
-
-Below is a video of a fictitious meeting between a Customer,
-Product Manager, Designer and an Engineer to help you come up with some ideas.
+The following video is of a pretend meeting between a Customer,
+Product Manager, Designer and an Engineer to help your team come up with some ideas.
 
 {% include youtube.html youtube_id="zvA68LXHDCI" %}
 
