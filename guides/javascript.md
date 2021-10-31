@@ -1,10 +1,12 @@
 # JavaScript
 
 JavaScript is a scripting language that was originally designed to run in a web
-browser. It lets programmers write code that can execute in the web browser of
-the visitors who visit a programmers website.
+browser. It allows programmers to write code that can execute in the web browser of
+the people who visit their website.
 
 {% include youtube.html youtube_id="nItSSTwBvSU" %}
+
+Read [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) for a thorough tutorial on JavaScript.
 
 ## How do I add JavaScript to my website?
 
@@ -57,7 +59,69 @@ function clickButton() {
 
 {% include youtube.html youtube_id="LFa9fnQGb3g" %}
 
-<hr />
+
+## Data Types
+
+{% include youtube.html youtube_id="_y9oxzTGERs" %}
+
+* [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
+* [Boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
+* [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
+* [Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
+* [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
+* [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
+
+## Variables
+
+{% include youtube.html youtube_id="u0Mq3FzpsmI" %}
+
+Example:
+
+```javascript
+let age = 14;
+let birthday = new Date(2007, 09, 19);
+let name = "Monalisa";
+let mona = {
+  Name: name,
+  BirthDay: birthday,
+  Age: age
+};
+```
+
+Read more about [declarationing variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#declarations).
+
+## Functions
+
+{% include youtube.html youtube_id="AY6X5jZZ_JE" %}
+
+Example:
+
+```javascript
+function greet(name) {
+  return "Hello " + name;
+}
+
+let greeting = greet("Monalisa");
+console.log(greeting);
+```
+
+Read more about [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function).
+
+## Loops
+
+{% include youtube.html youtube_id="orAS-MBh5f4" %}
+
+```javascript
+for (let i = 0; i < 3; i++) {
+  console.log("Happy Birthday to you");
+}
+```
+
+* [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#iterations)
+
+## Events
+
+{% include youtube.html youtube_id="e57ReoUn6kM" %}
 
 Sometimes our JavaScript will need to access HTML elements that are on the page.
 To make sure that the HTML [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model)
@@ -89,66 +153,18 @@ message.
 </html>
 ```
 
-Read [A re-introduction to JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript) for a thorough tutorial on JavaScript.
 
-{% include youtube.html youtube_id="_y9oxzTGERs" %}
+Read more about [Events](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Events).
 
+## [SparkleHub's][sparklehub] JavaScript
 
-
-## Data Types
-
-* [Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array)
-* [Boolean](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Boolean)
-* [Date](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Date)
-* [Number](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Number)
-* [Object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object)
-* [String](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String)
-
-## Variables
-
-```javascript
-let age = 14;
-let birthday = new Date(2007, 09, 19);
-let name = "Monalisa";
-let mona = {
-  Name: name,
-  BirthDay: birthday,
-  Age: age
-};
-```
-
-* [Declarations](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#declarations)
-
-## Functions
-
-```javascript
-function greet(name) {
-  return "Hello " + name;
-}
-
-let greeting = greet("Monalisa");
-console.log(greeting);
-```
-
-{% include youtube.html youtube_id="AY6X5jZZ_JE" %}
-
-Read more about [Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function).
-
-## Loops
-
-```javascript
-for (let i = 0; i < 3; i++) {
-  console.log("Happy Birthday to you");
-}
-```
-
-* [Loops](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#iterations)
-
+{% include youtube.html youtube_id="7qobB9DM0Ck" %}
+{% include youtube.html youtube_id="Qc7VXnsMLkU" %}
 
 ## Additional Resources
 
 {% include youtube.html youtube_id="QLatPwsbDrQ" %}
-
-{% include youtube.html youtube_id="7qobB9DM0Ck" %}
+{% include youtube.html youtube_id="tH-q9QFNUdA" %}
 
 [script]: https://developer.mozilla.org/en-US/docs/Web/HTML/Element/script
+[sparklehub]: https://github.com/CodeChica/SparkleHub-lite
