@@ -76,13 +76,18 @@ everyone.
 
 ## Design Patterns
 
-{% include youtube.html youtube_id="rtmFCcjEgEw" %}
 
 ## Design Principles
 
+{% include youtube.html youtube_id="rtmFCcjEgEw" %}
+
 ## Feature Flags
 
+{% include youtube.html youtube_id="FhSrddnDMUk" %}
+
 ## Refactoring
+
+{% include youtube.html youtube_id="3OgbQOsW61Y" %}
 
 ## Task Breakdown
 
