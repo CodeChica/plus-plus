@@ -1,9 +1,20 @@
-## Lesson 0x09
+# 0x09 - Project Work
 
-Peer review and final touches.
+## Agenda
 
-Outcomes:
+1. [Announcements](#announcements)
+1. [Final Project work](../0x0A/)
+1. [Jaylenne Ayala](#jaylenne-ayala)
 
-Sharing URL's to live websites.
+## Announcements
 
-[slides](./slides.html)
+* Please complete your [pre-survey][survey].
+* Team leaders, send me your list of team members
+* Share your favorite song with [Ariane][ariane] to be added to the group Playlist.
+
+## Jaylenne Ayala
+
+Jaylenne Ayala is a Software Engineer at EA.
+
+[ariane]: https://codechica-plus-plus.slack.com/archives/D02EU5YP3NU
+[survey]: https://forms.gle/9qCzvmfpA2Sjes678
