@@ -20,8 +20,8 @@ a place to sparkle others with kindness.
 | 0x07 | [User Stories Applied](./lessons/0x07/) | October. 23, 2021 |
 | 0x08 | [Welcome Octogatos](./lessons/0x08/) | October. 30, 2021 |
 | 0x09 | [Final Project work](./lessons/0x09/) | November. 06, 2021 |
-| 0x0A | [Final Project work](./lessons/0x0A/) | November. 13, 2021 |
-| 0x0B | Project show case | November. 20, 2021 |
+| 0x0A | [Final Project work](./lessons/0x10/) | November. 13, 2021 |
+| 0x0B | [Project show case](./lessons/0x0A/) | November. 20, 2021 |
 
 ![Latinas Deserve More Than Equal Pay](/assets/images/latinas-deserve-more-than-equal-pay.png)
 [Source](https://hispanicstar.org/resources/)
