@@ -5,6 +5,7 @@
 1. [Announcements](#announcements)
 1. [Final Project work](../0x0A/)
 1. [Rosemary Sanchez](#rosemary-sanchez)
+1. [Heart, Fart, Shopping Cart](https://docs.google.com/document/d/1B7PpuevDeee2ygKKrPIOC4iqzKjuWSUDIjt1qw0ulrM/edit)
 
 ## Announcements
 
