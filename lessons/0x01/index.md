@@ -1,4 +1,4 @@
-# 0x02 - Source Control and Git
+# 0x01 - Source Control and Git
 
 <!--
 * GitHub as a tool
@@ -51,8 +51,8 @@ and our [Git Guide](../../guides/git.html).
 ## Activity
 
 1. [Create your second issue](/guides/github.html#issues)
-1. Complete the section named "Hello Terminal" from your [Lesson 0x02 issue][issues].
-1. Complete the section named "Hello Git" from your [Lesson 0x02 issue][issues].
+1. Complete the section named "Hello Terminal" from your [Lesson 0x01 issue][issues].
+1. Complete the section named "Hello Git" from your [Lesson 0x01 issue][issues].
 1. Play the [Git branching game][git_game].
 
 ![Chica Sitting](../../assets/images/laChicaSitting.png)
