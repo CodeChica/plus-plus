@@ -1,4 +1,4 @@
-# 0x04 - Collaborating with others
+# 0x03 - Collaborating with others
 
 <!--
 * 30 min: CSS Animations demo. [Sparkle Party](https://github.com/codechica/sparkle-party)
@@ -228,7 +228,7 @@ Repeat the peer review and refactor steps until you are happy with the state of 
 In this lesson, you learned about test driven development and the reasons for its use. You also learned some intro Ruby concepts in order to get your first suite of tests to pass and to write your own tests. Finally, you practiced peer reviewing someone else's code, and refactoring to make your code better.
 
 <!--
-## Lesson 0x04
+## Lesson 0x03
 
 Software Engineering Lifecycle
 
@@ -257,7 +257,7 @@ Outcomes:
 * Girls will come up with an idea for a new feature, and a wireframe for it.
 
 
-As an instructor, I want to be able to teach lesson 0x04 so that students can
+As an instructor, I want to be able to teach lesson 0x03 so that students can
 understand the software engineering life cycle.
 
 * [ ] Students learn an overview of what a product manager does.
