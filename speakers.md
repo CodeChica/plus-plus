@@ -41,6 +41,16 @@ The Program Coordinator will follow up with you via email, and you may be asked 
 
 ## Previous Presentations
 
+Rosemary Sanchez
+
+{% include youtube.html youtube_id="Ex8NoZxgGPQ" %}
+<hr />
+
+Jaylenne Ayala
+
+{% include youtube.html youtube_id="UvbAZ1JLq2g" %}
+<hr />
+
 Camilo Garcia La Rotta
 
 {% include youtube.html youtube_id="-TKND1hLg6w" %}

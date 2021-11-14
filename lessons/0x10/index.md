@@ -14,3 +14,5 @@
 ## Rosemary Sanchez
 
 Rosemary Sanchez is a Software Development Lead at Thin Air Labs.
+
+{% include youtube.html youtube_id="Ex8NoZxgGPQ" %}

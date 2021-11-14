@@ -16,5 +16,7 @@
 
 Jaylenne Ayala is a Software Engineer at EA.
 
+{% include youtube.html youtube_id="UvbAZ1JLq2g" %}
+
 [ariane]: https://codechica-plus-plus.slack.com/archives/D02EU5YP3NU
 [survey]: https://forms.gle/9qCzvmfpA2Sjes678
