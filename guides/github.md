@@ -21,7 +21,7 @@ You can always visit the [issues page](https://github.com/CodeChica/plus-plus/is
 Follow the steps below to create your first Issue.
 
 1. [Open](https://github.com/CodeChica/plus-plus/issues/new/choose) in a new tab.
-1. Click the "Get Started" button next to "Lesson 0x01"
+1. Click the "Get Started" button next to "Lesson 0x00"
 
 ![Creating my first issue](../assets/images/create-first-issue.gif)
 

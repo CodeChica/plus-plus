@@ -1,4 +1,4 @@
-# 0x01 - HTML, CSS and JavaScript
+# 0x00 - HTML, CSS and JavaScript
 
 {% include youtube.html youtube_id="Dlq7ctZadf8" %}
 
@@ -13,8 +13,8 @@ final project.
 ### Activity
 
 1. [Create your first issue](/guides/github.html#issues)
-1. Complete the section named "Customize your profile" from your [Lesson 0x01 issue][issues].
-1. Complete the section named "Introduction to HTML" from your [Lesson 0x01 issue][issues].
+1. Complete the section named "Customize your profile" from your [Lesson 0x00 issue][issues].
+1. Complete the section named "Introduction to HTML" from your [Lesson 0x00 issue][issues].
 
 ![Chica Sitting](../../assets/images/laChicaSitting.png)
 
