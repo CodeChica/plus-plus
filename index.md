@@ -15,7 +15,7 @@ a place to sparkle others with kindness.
 | 0x01 | [Source control and Git](./lessons/0x01/)   | September. 18, 2021 |
 | 0x02 | [Tech Roles Overview](./lessons/0x02/)      | September. 25, 2021 |
 | 0x03 | [Collaborating with others](./lessons/0x03/) | October. 02, 2021 |
-| 0x05 | [The Software Engineer's role](./lessons/0x05/) | October. 09, 2021 |
+| 0x04 | [The Software Engineer's role](./lessons/0x04/) | October. 09, 2021 |
 | 0x06 | [Exploring SparkleHub](./lessons/0x06/)   | October. 16, 2021 |
 | 0x07 | [User Stories Applied](./lessons/0x07/) | October. 23, 2021 |
 | 0x08 | [Welcome Octogatos](./lessons/0x08/) | October. 30, 2021 |
