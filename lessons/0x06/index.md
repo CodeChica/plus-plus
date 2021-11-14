@@ -1,4 +1,4 @@
-# 0x07 - User Stories Applied
+# 0x06 - User Stories Applied
 
 <!--
 Icebreaker: Git Game? Coding Challenge?
