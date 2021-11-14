@@ -1,4 +1,4 @@
-# 0x08 - Welcome [Octogatos][octogatos]
+# 0x07 - Welcome [Octogatos][octogatos]
 
 ## Agenda
 
