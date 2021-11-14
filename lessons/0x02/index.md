@@ -1,4 +1,4 @@
-# 0x03 - Tech Roles Overview
+# 0x02 - Tech Roles Overview
 
 In this lesson, you will explore an overview of product manager, designer and engineering roles in tech. 
 

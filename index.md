@@ -13,7 +13,7 @@ a place to sparkle others with kindness.
 | :---   | :---:                                     | ---: |
 | 0x00 | [HTML, CSS and JavaScript](./lessons/0x00/) | September. 11, 2021 |
 | 0x01 | [Source control and Git](./lessons/0x01/)   | September. 18, 2021 |
-| 0x03 | [Tech Roles Overview](./lessons/0x03/)      | September. 25, 2021 |
+| 0x02 | [Tech Roles Overview](./lessons/0x02/)      | September. 25, 2021 |
 | 0x04 | [Collaborating with others](./lessons/0x04/) | October. 02, 2021 |
 | 0x05 | [The Software Engineer's role](./lessons/0x05/) | October. 09, 2021 |
 | 0x06 | [Exploring SparkleHub](./lessons/0x06/)   | October. 16, 2021 |
