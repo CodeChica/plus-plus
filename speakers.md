@@ -39,7 +39,7 @@ If you are interested please *[sign up][signup]* for an upcoming session.
 The Program Coordinator will follow up with you via email, and you may be asked to record your presentation for our guest speakers playlist on YouTube. 
 <hr />
 
-## Previous Presentations
+## Previous Presentations ([Playlist][playlist])
 
 Rosemary Sanchez
 
@@ -81,4 +81,5 @@ Product Management by @asciimike
 {% include youtube.html youtube_id="AGfWZlAikPQ" %}
 <hr />
 
+[playlist]: https://www.youtube.com/playlist?list=PLaZatV79bZCS-wI_VZXN34cMLZ57Ym8Tq
 [signup]: https://docs.google.com/forms/d/e/1FAIpQLSeug2cKWQ8o7EnMQJVFA7DE-uy-S-GTceZfU2MnfTPX2R76mQ/viewform
