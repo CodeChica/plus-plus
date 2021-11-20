@@ -29,7 +29,7 @@ a place to sparkle others with kindness.
 ## FAQ
 
 When do we meet?
-: Every Saturday from 10:00-13:00 MT until November 20. [Calendar][calendar].
+: Every Saturday from 10:00-13:00 MT/ 11:00AM - 2:00PM CT until November 20. [Calendar][calendar].
 
 Where can I find the recordings?
 : The recordings are posted to the [#recordings][recordings] channel in Slack.
