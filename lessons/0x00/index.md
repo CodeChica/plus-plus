@@ -7,8 +7,7 @@
 To learn more, read our [HTML Guide](../../guides/html.html),
 [CSS Guide](../../guides/css.html) or our [JavaScript Guide](../../guides/javascript.html).
 
-Next, let's take a tour of [SparkleHub][sparklehub] together and discuss the
-final project.
+Next, let's take a tour of [SparkleHub][sparklehub] together and discuss the final project.
 
 ### Activity
 
