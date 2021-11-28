@@ -162,3 +162,11 @@ div.language-html { border: dotted blue; }
 div.language-javascript { border: dotted green; }
 img.logo { width: 50%; }
 pre.highlight { padding-left: 20px; }
+div.graduates {
+  display: flex;
+  flex-wrap: wrap;
+}
+div.graduate {
+  flex: 200px;
+  margin: 2px;
+}
