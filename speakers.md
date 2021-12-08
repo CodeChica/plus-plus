@@ -82,4 +82,4 @@ Product Management by @asciimike
 <hr />
 
 [playlist]: https://www.youtube.com/playlist?list=PLaZatV79bZCS-wI_VZXN34cMLZ57Ym8Tq
-[signup]: https://docs.google.com/forms/d/e/1FAIpQLSeug2cKWQ8o7EnMQJVFA7DE-uy-S-GTceZfU2MnfTPX2R76mQ/viewform
+[signup]: https://forms.gle/DKDjeURdhedeC3ov6
