@@ -170,3 +170,18 @@ div.graduate {
   flex: 200px;
   margin: 2px;
 }
+a.button {
+  background: #ccc;
+  border-radius: 2%;
+  display: block;
+  margin-left: 33%;
+  margin-right: 33%;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+a.primary {
+  background-color: purple;
+  color: white;
+  font-weight: bold;
+}

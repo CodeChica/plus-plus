@@ -9,11 +9,13 @@ software development fundamentals and to help them explore the roles of
 Software Engineer, Designer, and Product Manager by building features in an
 existing application.
 
+![Class Photo](/assets/images/class-photo.png)
+
 We're looking for guest speakers who work in *tech and development* to come and
 chat with our students about their experience and to inspire them to pursue a
 career in technology.
 
-![Class Photo](/assets/images/class-photo.png)
+<a href="https://forms.gle/DKDjeURdhedeC3ov6" class="button primary">Register to Speak</a>
 
 ## Presenter Expectations
 

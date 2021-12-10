@@ -9,9 +9,7 @@ a [Designer](./roles/designer.html) and an [Engineer](./roles/software-engineer.
 You will learn how to contribute to [SparkleHub][sparklehub],
 a place to sparkle others with kindness.
 
-<p class="text-center">
-  <a href="https://www.eventbrite.com/e/code-chica-advanced-coding-program-cohort-2-saturdays-tickets-215146768777">Register Now</a>
-</p>
+<a href="https://www.eventbrite.com/e/code-chica-advanced-coding-program-cohort-2-saturdays-tickets-215146768777" class="button primary">Register Now</a>
 
 | Lesson | Title | Date | Time |
 | :---: | :---: | :---: | :---: |
