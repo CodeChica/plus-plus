@@ -11,6 +11,10 @@ a place to sparkle others with kindness.
 
 <a href="https://www.eventbrite.com/e/code-chica-advanced-coding-program-cohort-2-saturdays-tickets-215146768777" class="button primary">Register Now</a>
 
+<p class="text-center">
+  <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680">view other events</a>
+</p>
+
 | Lesson | Title | Date | Time |
 | :---: | :---: | :---: | :---: |
 | 0x00 | HTML, CSS and JavaScript | January. 15, 2022 | 10:00-13:00 MT |
