@@ -38,47 +38,49 @@ career in technology.
 
 If you are interested please *[sign up][signup]* for an upcoming session.
 
-The Program Coordinator will follow up with you via email, and you may be asked to record your presentation for our guest speakers playlist on YouTube. 
+The Program Coordinator will follow up with you via email, and you may be asked to record your presentation for our guest speakers playlist on YouTube.
 <hr />
 
-## Previous Presentations ([Playlist][playlist])
+## Previous Presentations
 
-Rosemary Sanchez
+Watch all of our presentations on our [YouTube Playlist][playlist].
+
+### Rosemary Sanchez
 
 {% include youtube.html youtube_id="Ex8NoZxgGPQ" %}
 <hr />
 
-Jaylenne Ayala
+### Jaylenne Ayala
 
 {% include youtube.html youtube_id="UvbAZ1JLq2g" %}
 <hr />
 
-Camilo Garcia La Rotta
+### Camilo Garcia La Rotta
 
 {% include youtube.html youtube_id="-TKND1hLg6w" %}
 <hr />
 
-Sofia Bonnet Hollis
+### Sofia Bonnet Hollis
 
 {% include youtube.html youtube_id="OUZYJ0_N6Wo" %}
 <hr />
 
-Elaine Gómez - Game Design
+### Elaine Gómez - Game Design
 
 {% include youtube.html youtube_id="KXxoAtuUv0Q" %}
 <hr />
 
-Sofia Muller Data Engineering @ Apple
+### Sofia Muller Data Engineering @ Apple
 
 {% include youtube.html youtube_id="wa9ZpZ3yKH0" %}
 <hr />
 
-A Day in the Life of a Designer by Sam Klein
+### A Day in the Life of a Designer by Sam Klein
 
 {% include youtube.html youtube_id="rYeAHclkyCg" %}
 <hr />
 
-Product Management by @asciimike
+### Product Management by @asciimike
 
 {% include youtube.html youtube_id="AGfWZlAikPQ" %}
 <hr />
