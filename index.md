@@ -12,7 +12,7 @@ a place to sparkle others with kindness.
 <a href="https://www.eventbrite.com/e/code-chica-advanced-coding-program-cohort-2-saturdays-tickets-215146768777" class="button primary">Register Now</a>
 
 <p class="text-center">
-  <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680">view other events</a>
+  <a href="https://www.eventbrite.com/o/latinitas-nonprofit-organization-11797246680">view events</a>
 </p>
 
 | Lesson | Title | Date | Time |
