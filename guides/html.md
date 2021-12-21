@@ -83,7 +83,7 @@ Web Developers use a **Web Browser** with [Dev Tools][devtools] like [Google Chr
 
 #### http-server
 
-In this class we'll use an HTTP server. An "HTTP server" is a program that sends webpages to browsers.
+In this class we'll use an HTTP server. An HTTP server is a program that sends webpages to browsers.
 
 There are two ways to install the `http-server`.
 Download the latest version from [here](https://github.com/xlg-pkg/http-server/releases)
