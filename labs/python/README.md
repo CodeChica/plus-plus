@@ -11,6 +11,15 @@ In the commands below, the bit you need to type is after the dollar sign (`$`). 
     /workspaces/plus-plus-main/ (main ✗) $ cd labs/python/
     ```
 
+1. Open `test_code.py` in your editor and look for these lines:
+
+```python
+    @unittest.skip("first task")
+    def test_sum(self):
+```
+
+1. Remove the whole of that `@unittest.skip("first task")` line. This way, the test won't be skipped.
+
 1. Run the tests:
 
     ```bash
