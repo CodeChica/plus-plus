@@ -83,12 +83,12 @@ let birthday = new Date(2007, 09, 19);
 let name = "Monalisa";
 let mona = {
   Name: name,
-  BirthDay: birthday,
+  Birthday: birthday,
   Age: age
 };
 ```
 
-Read more about [declarationing variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#declarations).
+Read more about [declaring variables](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements#declarations).
 
 ## Functions
 

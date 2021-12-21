@@ -120,7 +120,7 @@ total 12K
 -rwxr-xr-x 1 username 183 Jul 26 20:46 test*
 ```
 
-List the all (including hidden) files using a long list format.
+List all files (including hidden ones) using a long list format.
 
 ```bash
 /workspaces/SparkleHub
@@ -246,8 +246,7 @@ $ mkdir butterfly
 ```
 
 If a directory named `butterfly` already exists then you might get an error when
-you run the `mkdir` command. To get the `mkdir` command to create the directory
-if it isn't already there then use the `-p` option.
+you run the `mkdir` command. Adding the `-p` option means that `mkdir` will create the directory if it doesn't already exist and will just do nothing (instead of giving you an error) if it does exist:
 
 ```bash
 /workspaces/SparkleHub

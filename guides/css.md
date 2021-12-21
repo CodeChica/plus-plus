@@ -3,7 +3,7 @@
 CSS is short for Cascading Style Sheets. It's a language that is used to tell
 the browser how to make your page look.
 
-In CSS you specify which types of elements should get certain settings.
+In CSS you specify which types of element should get certain settings.
 
 e.g.
 

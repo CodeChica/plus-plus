@@ -6,7 +6,7 @@ Irb stands for "Interactive Ruby".
 The irb will read Ruby code that we've written, and return the result to us.
 Let's try it out!
 
-1. In your terminal, type "irb", and press enter.
+1. In your terminal, type `irb`, and press enter.
 1. Type `name = "Your name"`. Replace with your name. Hit enter.
 1. Now type `name` and enter. Your name should print to the screen!
 
@@ -40,7 +40,7 @@ message = 'This is a string'
 other_message = "So is this"
 ```
 
-### Array - group of things
+### Arrays - group of things
 
 ```ruby
 numbers = [1, 2, 3, 4, 5]
@@ -114,7 +114,7 @@ class Plant
 end
 ```
 
-Now a plant object is able to grow based on the amount of sunlight passed into the grow method.
+Now a plant object is able to grow based on the amount of sunlight passed into the `grow` method.
 
 ### Resources
 

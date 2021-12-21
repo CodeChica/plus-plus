@@ -1,7 +1,7 @@
 ## HTML
 
 Hyper text markup language (HTML) is a markup language that is used to render
-content in web browsers. (.e.g. Apple Safari, Google Chrome, Mozilla Firefox).
+content in web browsers. (e.g. Apple Safari, Google Chrome, Mozilla Firefox).
 
 {% include youtube.html youtube_id="XNAM6MjPfok" %}
 
@@ -9,7 +9,7 @@ HTML is used to describe the *content* of a document. Remember the internet was
 first created as a way to share documents so that people could learn from each
 other. So the terms *web page* and *document* mean the same thing.
 
-The worlds smallest HTML page:
+The world's smallest HTML page:
 
 ```html
 <html>
@@ -54,7 +54,7 @@ Some elements are self closing and some elements can contain other elements.
 {% include youtube.html youtube_id="y6stlwCb7VU" %}
 
 
-Linking HTML and CSS Files
+Linking HTML and CSS files
 
 {% include youtube.html youtube_id="ZO98acQRLgY" %}
 
@@ -83,9 +83,9 @@ Web Developers use a **Web Browser** with [Dev Tools][devtools] like [Google Chr
 
 #### http-server
 
-In this class we'll use an HTTP server.
+In this class we'll use an HTTP server. An "HTTP server" is a program that sends webpages to browsers.
 
-There are two ways to install ther `http-server`.
+There are two ways to install the `http-server`.
 Download the latest version from [here](https://github.com/xlg-pkg/http-server/releases)
 or install from the [terminal](./terminal.html) by running:
 

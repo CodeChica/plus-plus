@@ -20,7 +20,7 @@ work together.
 ## Source Control
 
 Programmers use an **editor** to write code, and a **terminal** to
-issues commands to a compilers/transpiler/interpreter to convert
+issues commands to a compiler/transpiler/interpreter to convert
 code into something that a computer can execute.
 
 Programmers also need a way to save their code, back it up and share it with
@@ -34,7 +34,7 @@ These terms are meant to describe a way to make sure that we don't lose our chan
 we make to code and that we have a way to keep track of the different changes that
 different people are are making to the code.
 
-[git][git] is a tools used to keep a record of the changes that we make to our code.
+[git][git] is a tool used to keep a record of the changes that we make to our code.
 [GitHub][github] is a website that lets us save our git repos so that we don't
 have to worry if our computer crashes.
 
@@ -73,10 +73,10 @@ $ cd ~/src/github.com/CodeChica/
 ```
 
 In this example we're going to contribute changes to an existing project.
-To get started we need to create our own fork of the project. To create a fork
+To get started we need to create our own fork (copy) of the project. To create a fork
 open https://github.com/CodeChica/novela in a web browser. Now click on the fork
 button. If a dialog pops up, choose your username as the location to fork the
-project too.
+project to.
 
 {% include youtube.html youtube_id="vLHFQYPTwfw" %}
 
@@ -86,7 +86,7 @@ https://github.com/<your-username>/novela. This is your very own copy of the
 project that you are free to edit and do whatever you want with.
 
 Let's `clone` this copy of the novela project to your computer so that you can
-make edits to it. Replace '<your-username>' with your username.
+make edits to it. Replace '<your-username>' with your GitHub username.
 
 e.g. `git clone git@github.com:xlgmokha/novela.git`.
 
@@ -100,7 +100,7 @@ This project includes a file called `README.md` that has a story. This story
 isn't finished yet, so we will need to add a new line to the story for others to
 enjoy.
 
-When you first cloned the project it starts on a branch named `main`. `main` is
+When you first clone the project it starts on a branch named `main`. `main` is
 the name of the branch where we can find the latest version of the story. To add
 a new line to the story we need to create a new branch that will be all yours.
 
@@ -108,7 +108,7 @@ a new line to the story we need to create a new branch that will be all yours.
 $ git checkout -b <your-username>-story
 ```
 
-Now that you have your own `branch` let's make some edits.
+Now that you have your own `branch`, let's make some edits.
 
 Open `README.md` using your favourite editor or add a new line using the `echo`
 command.
@@ -225,7 +225,7 @@ project or repository.
 Pull Request
 : A pull request is a way to share code from one repository to another. The
 author of the Pull Request will ask the owner of a repository to pull in their
-changes into the owners repository.
+changes into the owner's repository.
 
 Repository (repo)
 : A repo is a directory of code managed by git.

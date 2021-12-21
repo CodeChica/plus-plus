@@ -1,6 +1,6 @@
 # Linux
 
-Linux is the programmers operating system. It's free and it ships with editors,
+Linux is the programmer's operating system. It's free and it ships with editors,
 compilers, terminals, manuals and all the tools that you need to write high
 quality software.
 
