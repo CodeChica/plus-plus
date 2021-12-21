@@ -246,7 +246,9 @@ $ mkdir butterfly
 ```
 
 If a directory named `butterfly` already exists then you might get an error when
-you run the `mkdir` command. Adding the `-p` option means that `mkdir` will create the directory if it doesn't already exist and will just do nothing (instead of giving you an error) if it does exist:
+you run the `mkdir` command. Adding the `-p` option means that `mkdir` will
+create the directory if it doesn't already exist and will just do nothing
+(instead of giving you an error) if it does exist:
 
 ```bash
 /workspaces/SparkleHub
