@@ -40,7 +40,7 @@ message = 'This is a string'
 other_message = "So is this"
 ```
 
-### Arrays - group of things
+### Arrays - groups of things
 
 ```ruby
 numbers = [1, 2, 3, 4, 5]
