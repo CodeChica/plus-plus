@@ -13,10 +13,10 @@ In the commands below, the part you need to type is after the dollar sign (`$`).
 
 1. Open `test_code.py` in your editor and look for these lines:
 
-```python
-    @unittest.skip("first task")
-    def test_sum(self):
-```
+    ```python
+        @unittest.skip("first task")
+        def test_sum(self):
+    ```
 
 1. Remove the whole of that `@unittest.skip("first task")` line. This way, the test won't be skipped.
 
@@ -36,7 +36,7 @@ It looks like that `sum` function isn't doing what it should. Let's fix it.
 
 ## Understanding the code
 
-1. Open `maths.py` in your editor
+Open `maths.py` in your editor.
 
 You'll see some code that looks like this:
 
@@ -98,7 +98,7 @@ Finally, you'll see the `return` keyword. Can you guess what that does?
     /workspaces/plus-plus-main/labs/python (main ✗) $ python test_code.py
     ```
 
-If your changes have worked, you should see `OK`.
+    If your changes have worked, you should see `OK`.
 
 1. Commit your change.
 
@@ -112,10 +112,10 @@ If you'd like to try something a little more challenging, give this extension ta
 
 1. Open `test_code.py` in your editor and look for these lines:
 
-```python
-    @unittest.skip("extension task")
-    def test_multiply(self):
-```
+    ```python
+        @unittest.skip("extension task")
+        def test_multiply(self):
+    ```
 
 1. Remove the whole of that `@unittest.skip("extension task")` line. Now that second test will no longer be skipped over when the tests run.
 
@@ -125,13 +125,13 @@ If you'd like to try something a little more challenging, give this extension ta
     /workspaces/plus-plus-main/labs/python (main ✗) $ python test_code.py
     ```
 
-You'll see an error like this:
+    You'll see an error like this:
 
-```shell
-NameError: global name 'multiply' is not defined
-```
+    ```shell
+    NameError: global name 'multiply' is not defined
+    ```
 
-This is a bit more complicated than last time - your tests are expecting a `multiply` function, but that doesn't even exist.
+    This is a bit more complicated than last time - your tests are expecting a `multiply` function, but that doesn't even exist.
 
 1. Copying what's been done for `sum` (don't forget the spaces at the start of the second line), can you add a new `multiply` function in `maths.py` which multiplies together its two parameters?
 
@@ -141,13 +141,13 @@ This is a bit more complicated than last time - your tests are expecting a `mult
     /workspaces/plus-plus-main/labs/python (main ✗) $ python test_code.py
     ```
 
-You'll probably have to make several changes and re-run the tests a few times until you get it right. Don't worry - that's what normal programming is like!
+    You'll probably have to make several changes and re-run the tests a few times until you get it right. Don't worry - that's what normal programming is like!
 
-Once your changes have worked, you should see `OK`.
+    Once your changes have worked, you should see `OK`.
 
-**Tip:** You use `*` (asterisk) for multiplication in Python (and many other languages)
+    **Tip:** You use `*` (asterisk) for multiplication in Python (and many other languages)
 
-If you see an error like `IndentationError: expected an indented block`, it means that you forgot the spaces at the start of the code inside the function. You need four spaces to tell Python that this code belongs "inside" the function.
+    If you see an error like `IndentationError: expected an indented block`, it means that you forgot the spaces at the start of the code inside the function. You need four spaces to tell Python that this code belongs "inside" the function.
 
 1. Commit your change:
 
