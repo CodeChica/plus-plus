@@ -47,7 +47,9 @@ def sum(x, y):
 
 If you've read the [JavaScript guide](https://codechica.ca/guides/javascript.html), you'll have heard of functions and variables. Python is a different language, but the idea of functions and variables is the same. We'll be using those ideas here.
 
-This code defines a function. What is its name?
+Try and answer the questions below to make sure you understand what this code is doing.
+
+**Question 1:** This code defines a function. What is its name?
 
 <details>
 <summary>Open this for the answer</summary>
@@ -55,9 +57,7 @@ This code defines a function. What is its name?
 The function is called `sum`. The keyword `def` at the beginning means that a function is being **def**ined.
 </details>
 
-This function has two _parameters_. A parameter is a special variable which is used to hold the data that is sent to the function.
-
-What are the names of the two parameters here?
+**Question 2:** This function has two _parameters_. A parameter is a special variable which is used to hold the data that is sent to the function. What are the names of the two parameters here?
 
 <details>
 <summary>Open this for the answer</summary>
@@ -73,12 +73,12 @@ sum(10, 20)
 There's code like this in the tests.
 </details>
 
-Finally, you'll see the `return` keyword. Can you guess what that does?
+**Question 3:** Finally, you'll see the `return` keyword. Can you guess what that does?
 
 <details>
 <summary>Open this for the answer</summary>
 
-`return` is used here to send a value back to the code which called the function. In this case, the function is called by the test and the test then examines the value it gets back.
+`return` is used here to send a value back to the code which called the function. In this case, the function is called by the test and the test then examines the value that it gets back.
 </details>
 
 ## Fixing the code
