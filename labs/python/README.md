@@ -155,7 +155,7 @@ If you'd like to try something a little more challenging, give this extension ta
     /workspaces/plus-plus-main/labs/python (main ✗) $ git commit -am "feat: add a multiply function"
     ```
 
-### Submitting your work
+## Submitting your work
 
 1. Submit a Pull Request from your feature branch to the `main` branch.
 1. :shipit:
