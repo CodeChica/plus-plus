@@ -90,7 +90,7 @@ There's code like this in the tests.
     ```
 1. Make the necessary changes in `maths.py` so that the tests will pass. Be sure to keep the spaces at the beginning of the line, since indentation (spaces at the start of lines) matters in Python - it states how code is grouped together.
 
-**Tip:** You use `+` (plus) to add numbers together in Python (and many other languages).
+    **Tip:** You use `+` (plus) to add numbers together in Python (and many other languages).
 
 1. Run the tests to check they're passing:
 
