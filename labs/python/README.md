@@ -8,7 +8,7 @@ In the commands below, the part you need to type is after the dollar sign (`$`).
 1. Navigate to this lab by changing the working directory:
 
     ```bash
-    /workspaces/plus-plus-main/ (main ✗) $ cd labs/python/
+    /workspaces/plus-plus-main/ (main) $ cd labs/python/
     ```
 
 1. Open `test_code.py` in your editor and look for these lines:
