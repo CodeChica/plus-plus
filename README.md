@@ -1,6 +1,6 @@
 # CodeChica++
 
-Welcome to [CodeChica++](https://codechica.ca/).
+Welcome to [CodeChica++](https://codechica.ca/plus-plus/).
 
 ## Getting Started
 
@@ -27,6 +27,6 @@ If you have a question [open a new discussion][new-discussion].
 [golang]: https://golang.org/dl/
 [new-discussion]: https://github.com/CodeChica/plus-plus/discussions
 [organization]: https://github.com/CodeChica
-[slack]: https://codechica.ca/guides/slack.html
-[vscode]: https://codechica.ca/guides/vscode.html
+[slack]: https://codechica.ca/plus-plus/guides/slack.html
+[vscode]: https://codechica.ca/plus-plus/guides/vscode.html
 [zoom]: https://zoom.us/
